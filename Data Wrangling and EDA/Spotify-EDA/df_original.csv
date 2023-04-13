@@ -1,0 +1,851 @@
+,artist_id,artists_name,track_id,song_name,album_name,album_type,release_date,popularity,danceability,energy,key,loudness,instrumentalness,liveness,acousticness,tempo,mode,valence,duration_ms,time_signatures
+0,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0pJfsPQesJyCnR5XWZyvj9,This,+,album,2011-09-09,49,0.588,0.0929,11,-14.301,0.00539,0.128,0.95,152.139,1,0.502,195840,4
+1,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,4zrKN5Sv8JS5mqnbVcsul7,Celestial,Celestial,single,2022-09-29,80,0.574,0.852,2,-1.248,0.0,0.161,0.0529,123.038,1,0.501,209027,4
+2,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0afhq8XCExXpqazXczTSve,Galway Girl,÷ (Deluxe),album,2017-03-03,75,0.624,0.876,9,-3.374,0.0,0.327,0.0735,99.943,1,0.781,170827,4
+3,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,4btFHqumCO31GksfuBLLv3,Overpass Graffiti,=,album,2021-10-29,72,0.52,0.849,9,-3.794,0.0,0.119,0.00253,175.908,0,0.774,236907,4
+4,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,5DFi6D7SrYHRIgZbY5MqqE,F64,F64,single,2023-01-19,73,0.751,0.618,6,-6.643,0.0,0.129,0.596,93.728,0,0.707,204894,4
+5,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,6K8qKeWo5MsFED7wCR6Kop,Sing,x (Deluxe Edition),album,2014-06-21,66,0.818,0.67,8,-4.451,1.22e-06,0.0601,0.304,119.988,0,0.939,235382,4
+6,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,70eFcWOvlMObDhURTqT4Fv,Beautiful People (feat. Khalid),No.6 Collaborations Project,album,2019-07-12,70,0.64,0.647,5,-8.114,0.0,0.0801,0.124,92.979,0,0.546,197867,4
+7,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,4VuS959DSpr82t3qBqCrWG,Supermarket Flowers,÷ (Deluxe),album,2017-03-03,72,0.589,0.242,6,-10.517,0.0,0.0887,0.914,89.749,1,0.257,221107,4
+8,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,51ChrwmUPDJvedPQnIU8Ls,Dive,÷ (Deluxe),album,2017-03-03,70,0.761,0.386,4,-6.158,0.0,0.0953,0.355,134.943,1,0.526,238440,3
+9,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,1huvTbEYtgltjQRXzrNKGi,Don't,x (Deluxe Edition),album,2014-06-21,68,0.806,0.608,1,-7.008,0.0,0.635,0.0113,95.049,1,0.849,219840,4
+10,6KrYQKotuzX4Zo96ZhLv2S,Ed Sheeran jr,0WlIKx95bYbp5FSyEGDgf8,Chiraq,Chiraq,single,2022-12-27,39,0.569,0.945,3,-2.324,0.329,0.358,0.139,140.017,0,0.931,61138,4
+11,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,1DhRbox3xkceP64k3JeYfW,Antisocial (with Travis Scott),No.6 Collaborations Project,album,2019-07-12,59,0.716,0.823,5,-5.313,0.0,0.361,0.132,151.957,0,0.91,161747,4
+12,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,2JiHR4gCDjXwYVRDmwdk95,Tides,=,album,2021-10-29,61,0.631,0.825,11,-3.971,0.0,0.122,0.0167,129.942,1,0.427,195760,3
+13,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,5TvFfDlVoUWZvfqrhTJzD7,One,x (Deluxe Edition),album,2014-06-21,58,0.464,0.321,2,-11.12,0.0,0.0789,0.877,93.528,1,0.306,252760,4
+14,6KrYQKotuzX4Zo96ZhLv2S,Ed Sheeran jr,1GZEMY8Rxp265vPoE0rCaB,Apru,Apru,single,2022-12-27,39,0.593,0.829,11,-2.198,0.885,0.68,0.00216,140.006,1,0.552,63019,4
+15,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,44V6EzbUSYgyfsNiP0FrlA,Visiting Hours,Visiting Hours,single,2021-08-19,67,0.471,0.396,8,-6.654,0.0,0.0729,0.77,149.609,1,0.263,215507,4
+16,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,59zbXPD0j7JxsVVm480g3b,Shivers (Dillon Francis Remix) [Main Mix],Shivers (Dillon Francis Remix),single,2021-10-27,60,0.744,0.828,2,-5.911,1.4e-05,0.0858,0.0646,124.029,1,0.579,127766,4
+17,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,1qqSQhDwPXl8WY0Fxx9kIt,2step (feat. Lil Baby),2step (The Remixes),album,2021-10-29,59,0.693,0.643,4,-5.867,0.0,0.108,0.138,95.055,0,0.477,163450,4
+18,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0A2J5TumCpT4aJVvQHNEQW,One,x (Wembley Edition),album,2013,39,0.464,0.321,2,-11.12,0.0,0.0789,0.877,93.528,1,0.306,252760,4
+19,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,6u0oHknFYrnUd42A6rvFly,Sing,x (Wembley Edition),album,2013,41,0.818,0.67,8,-4.451,1.22e-06,0.0601,0.304,119.988,0,0.939,235382,4
+20,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,7oolFzHipTMg2nL7shhdz2,Eraser,÷ (Deluxe),album,2017-03-03,55,0.64,0.812,8,-5.647,0.0,0.0509,0.086,86.013,0,0.914,227427,4
+21,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0rt63HYAAIzUZo5O2D0uA6,Visiting Hours,=,album,2021-10-29,63,0.471,0.396,8,-6.654,0.0,0.0729,0.77,149.609,1,0.263,215507,4
+22,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,2aMkInuJrM9arjA8dpQJqC,This,+,album,2011-09-09,28,0.588,0.0929,11,-14.301,0.00539,0.128,0.95,152.139,1,0.502,195840,4
+23,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3GKSfF6c3Rv3a1knSjxnXa,Nina,x (Deluxe Edition),album,2014-06-21,52,0.791,0.669,6,-7.189,0.0,0.33,0.175,92.013,0,0.809,225533,4
+24,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,5Ukzlujip1Slqka5OY82YS,U.N.I.,+,album,2011-09-09,50,0.422,0.405,6,-11.126,0.0,0.15,0.323,74.13,1,0.578,228600,4
+25,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,6rjO7ZdSUdd8W2fkWL7fK9,Castle on the Hill - Recorded at Spotify Studios New York City,Spotify Singles,single,2017-06-07,51,0.556,0.355,2,-6.416,0.0,0.118,0.581,147.58,1,0.644,225791,4
+26,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0N5zjRnf8AreOm95iSBXF4,Even My Dad Does Sometimes,x (Deluxe Edition),album,2014-06-21,50,0.58,0.318,2,-8.926,0.000171,0.117,0.756,129.757,1,0.295,228533,3
+27,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0FRBToHz6nkJTk2MqVAnX9,Overpass Graffiti,= (Tour Edition),album,2022-05-27,37,0.52,0.849,9,-3.794,0.0,0.119,0.00253,175.908,0,0.774,236907,4
+28,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,24ha18yq0t7XnZ9EgJ7HYb,So,5,album,2014-06-23,39,0.521,0.133,10,-10.599,0.0,0.35,0.853,140.077,1,0.391,268760,4
+29,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0xaPq2EZ9pQ9vLuxy6MCHH,Where We Land,5,album,2014-06-23,41,0.68,0.248,11,-11.592,4.86e-06,0.0907,0.838,119.944,1,0.275,183000,4
+30,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3YPiRYIUFlcQ0aaLGmeswS,Sunburn - Deluxe Edition,+,album,2011-09-09,45,0.464,0.098,10,-12.119,0.0,0.101,0.865,78.864,1,0.234,275882,4
+31,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,2034O98KseYfXW4eETgm9h,Tides,= (Tour Edition),album,2022-05-27,38,0.631,0.825,11,-3.971,0.0,0.122,0.0167,129.942,1,0.427,195760,3
+32,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,56XCgjSYaLg0TjxkVSpqNu,She,Songs I Wrote With Amy,single,2011-12-09,32,0.573,0.344,9,-10.91,0.0,0.13,0.811,157.783,1,0.377,244653,3
+33,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,4fZscNFYKoPIDHrgXxdacR,Firefly,Loose Change,album,2011-12-09,42,0.602,0.31,4,-11.469,0.000142,0.105,0.886,159.917,1,0.36,255000,4
+34,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,0EgNmGWjnYm3FMyaOW5xsM,2step (feat. Antytila),2step (The Remixes),album,2021-10-29,43,0.506,0.695,4,-5.185,0.0,0.151,0.235,93.75,0,0.599,153213,4
+35,6KrYQKotuzX4Zo96ZhLv2S,Ed Sheeran jr,2mXMy429ZGpZLqDitZNXNQ,Happier,Happier,single,2022-09-06,31,0.782,0.399,9,-9.537,0.915,0.106,0.867,192.029,1,0.543,83607,4
+36,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,2MJ2fb4rCmdVZ9lUtUMNjF,One - Live and in Session,Live and in Session,single,2014-08-11,35,0.464,0.33,4,-7.027,0.0,0.72,0.761,106.04,1,0.368,225488,4
+37,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3aCjJgEAW018s9BuGiAgob,Beautiful People (feat. Khalid),No.6 Collaborations Project,album,2019-07-12,38,0.64,0.648,5,-8.113,0.0,0.0802,0.124,92.977,0,0.548,197867,4
+38,6KrYQKotuzX4Zo96ZhLv2S,Ed Sheeran jr,08CIuzA2hK60XSIl8Itg24,Shivers,Shivers,single,2022-09-06,26,0.709,0.315,5,-13.703,0.913,0.104,0.568,149.981,0,0.615,70290,4
+39,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,7aJipE69xCCq3Upw8w9JOf,Overpass Graffiti - TCTS Remix,Overpass Graffiti (TCTS Remix),single,2021-10-28,44,0.69,0.915,9,-3.778,0.000875,0.0618,0.000938,126.046,0,0.882,276296,4
+40,3AoiBjr0pSGswX96XxEgH7,Guitar Tribute Players,5nfk45dAGC8bbxUQ6M1WPz,Photograph,"Acoustic Tribute to Ed Sheeran, Vol. 2",album,2014-10-21,30,0.74,0.298,4,-14.341,0.956,0.074,0.899,108.03,1,0.189,236027,4
+41,3AoiBjr0pSGswX96XxEgH7,Guitar Tribute Players,0HW20BC5Et59fMj4ZfqwER,Thinking Out Loud,"Acoustic Tribute to Ed Sheeran, Vol. 2",album,2014-10-21,26,0.631,0.231,2,-15.132,0.679,0.106,0.73,157.819,1,0.268,224907,4
+42,3Pw41NkfonVkPSEPQnoLc9,Kid Blue,42BMnMiSX6mvQSjPQbvQm5,Ed Sheeran.,Ed Sheeran.,single,2019-06-21,7,0.664,0.537,9,-6.976,0.0,0.163,0.259,159.925,1,0.366,184500,4
+43,3weLeY2Bu0Eij4k0tQ4EzJ,Alec Chambers,6yfdfBfu9jMa0mrsuJtbDV,Ed Sheeran's A Dick,Ed Sheeran's A Dick,single,2022-07-29,14,0.752,0.733,7,-6.668,0.0,0.686,0.0413,91.925,1,0.776,151123,4
+44,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3hRWv9DGBOc1ge8nMolCHp,Shirtsleeves,x (Wembley Edition),album,2013,27,0.752,0.76,2,-5.34,0.0,0.335,0.319,107.034,1,0.752,190227,4
+45,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,7udHOd6OUjUIhSjpTo4cl4,Firefly,5,album,2014-06-23,38,0.602,0.31,4,-11.469,0.000142,0.105,0.886,159.917,1,0.36,255000,4
+46,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,5it0QwktdpQ7oE33PbImkX,2step (feat. Antytila),2step (feat. Antytila),single,2022-05-02,42,0.506,0.695,4,-5.185,0.0,0.151,0.235,93.75,0,0.599,153213,4
+47,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3dvDgPBAxqetLJvDmRDtwC,2step (feat. Budjerah),2step (The Remixes),album,2021-10-29,44,0.727,0.621,4,-4.784,0.0,0.114,0.212,94.958,0,0.565,153427,4
+48,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,3THTZMkVV2onr7xM5yb6WZ,Nina,x (Wembley Edition),album,2013,28,0.791,0.669,6,-7.189,0.0,0.33,0.175,92.013,0,0.809,225533,4
+49,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,7Clb8su2UxUJ4CQUtDW2UZ,Even My Dad Does Sometimes,x (Wembley Edition),album,2013,28,0.58,0.318,2,-8.926,0.000171,0.117,0.756,129.757,1,0.295,228533,3
+50,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,0AS63m1wHv9n4VVRizK6Hc,Mercy,Illuminate (Deluxe),album,2017-04-20,78,0.555,0.662,11,-4.952,0.0,0.111,0.125,148.128,0,0.356,208733,4
+51,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,Illuminate (Deluxe),album,2017-04-20,82,0.866,0.813,11,-4.063,0.0,0.0779,0.38,121.998,0,0.969,199440,4
+52,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5jsw9uXEGuKyJzs0boZ1bT,Stitches,Handwritten,album,2015-04-14,73,0.752,0.754,1,-6.684,0.0,0.0486,0.0151,149.789,1,0.755,206880,4
+53,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,21TcDbGosp7w9YhTjOszgA,Imagination,Handwritten (Deluxe),album,2015-04-14,71,0.64,0.455,0,-5.942,0.0,0.0694,0.0743,89.948,1,0.333,217773,4
+54,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3QGsuHI8jO1Rx4JWLUh9jd,Treat You Better,Illuminate,album,2017-04-20,81,0.444,0.819,10,-4.078,0.0,0.107,0.106,82.695,0,0.747,187973,4
+55,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5wxurz8J6YlyQRNnGN8zXS,Nervous,Shawn Mendes,album,2018-05-25,56,0.841,0.623,0,-6.76,0.0,0.126,0.0404,121.983,1,0.744,164147,4
+56,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5KCbr5ndeby4y4ggthdiAb,Wonder,Wonder,single,2020-10-02,66,0.333,0.637,1,-4.904,1.8e-05,0.149,0.131,139.898,0,0.132,172693,4
+57,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6ZuahEctZD6w75peme58hm,Wonder,Wonder,album,2020-12-04,67,0.442,0.631,1,-5.096,2.29e-05,0.133,0.136,139.774,0,0.129,172693,4
+58,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6nat4Z7iRKWVk1qngQqI0Q,Perfectly Wrong,Shawn Mendes,album,2018-05-25,61,0.361,0.311,2,-11.748,0.0,0.0987,0.872,89.362,0,0.323,212773,4
+59,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,4BH9zDv1Ys6kw0j3lU1hTx,Particular Taste,Shawn Mendes,album,2018-05-25,50,0.968,0.352,9,-7.122,0.000103,0.0677,0.0365,111.968,1,0.599,175573,4
+60,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,4eQznxonJdR6NEksFNHMCT,Something Big,Handwritten,album,2015-04-14,52,0.695,0.854,7,-3.891,0.0,0.158,0.00614,112.008,0,0.804,161440,4
+61,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6rKr29yPKnQNhOxXMYvE9Y,Ruin,Illuminate,album,2017-04-20,51,0.686,0.382,2,-6.68,0.0,0.109,0.382,125.024,1,0.527,241893,3
+62,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3J3AQ7NSo0p3RX8U2gnC4v,Nervous,Shawn Mendes (Deluxe),album,2019-06-19,41,0.844,0.627,0,-6.753,0.0,0.159,0.0376,121.96,1,0.732,164213,4
+63,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3XeqINnregzwBJNg7RyyH4,Why,Shawn Mendes,album,2018-05-25,54,0.689,0.416,0,-9.247,1.64e-06,0.0637,0.648,127.031,0,0.248,238173,4
+64,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,1RRZSm4akqNyMOsPUhw4cb,Because I Had You,Shawn Mendes,album,2018-05-25,57,0.559,0.337,7,-9.751,0.0,0.311,0.331,203.231,1,0.705,142480,4
+65,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,138oQeapLds5IeJrdRfeUd,Intro,Wonder,album,2020-12-04,50,0.498,0.199,7,-11.011,0.000573,0.493,0.933,76.046,1,0.47,62423,4
+66,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,0UauNGiFTVXTsgvVz6LBMf,Look Up At The Stars,Wonder,album,2020-12-04,52,0.359,0.585,2,-4.722,0.0,0.194,0.0576,168.026,1,0.447,211851,4
+67,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,1UWbBNuBIB9wYg82aaWRvN,Perfectly Wrong,Shawn Mendes (Deluxe),album,2019-06-19,41,0.447,0.307,2,-11.773,0.0,0.104,0.87,77.724,0,0.318,212773,3
+68,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5t4B1kAlCD13YY9poph0Mg,Stitches,Handwritten (Revisited),album,2015-11-20,49,0.594,0.754,1,-6.684,0.0,0.0486,0.0153,73.184,1,0.74,206880,4
+69,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,0vW819CC45qQzi1lM9PaAg,This Is What It Takes,Handwritten,album,2015-04-14,44,0.483,0.324,0,-6.703,0.0,0.119,0.384,81.879,1,0.324,230440,4
+70,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,48DKpTEVJ2pAjxQbWTad3q,Treat You Better,Illuminate (Deluxe),album,2017-04-20,56,0.444,0.819,10,-4.078,0.0,0.107,0.106,82.695,0,0.747,187973,4
+71,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6EKvI1Beyh29HJoLJOdfw2,Mercy,Illuminate,album,2017-04-20,46,0.555,0.662,11,-4.952,0.0,0.111,0.125,148.128,0,0.356,208733,4
+72,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,4HA1wCYfjenjFjYnlaXMf4,There's Nothing Holdin' Me Back - NOTD Remix,There's Nothing Holdin' Me Back (NOTD Remix),single,2017-05-10,45,0.737,0.665,11,-4.663,0.0,0.0892,0.0618,122.061,0,0.718,194320,4
+73,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,385VOmGbguaPG57TgoW8Lh,24 Hours,Wonder,album,2020-12-04,52,0.351,0.368,5,-8.132,0.00603,0.124,0.488,84.224,1,0.362,150782,4
+74,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,2d3zTjEWyOzKDPOLjDSRlR,Mutual,Shawn Mendes (Deluxe),album,2019-06-19,39,0.917,0.476,11,-6.689,0.0,0.133,0.242,115.012,0,0.814,148173,4
+75,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,4IiHCtnfw8tZasAeocWqVe,Understand,Illuminate (Deluxe),album,2017-04-20,44,0.613,0.616,0,-6.33,0.0,0.099,0.355,78.996,1,0.102,300973,4
+76,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6bNcbh4SxQDU0BHa4Dj3wx,When You're Ready,Shawn Mendes,album,2018-05-25,52,0.485,0.476,5,-8.887,0.0,0.113,0.792,171.479,1,0.601,169587,4
+77,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3ilt7lMNflb49pEDpcZPAa,Aftertaste,Handwritten,album,2015-04-14,48,0.638,0.509,1,-5.926,0.0,0.0938,0.000323,111.805,1,0.306,169573,4
+78,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,64GT5ReOko7xx6Nc7D8JsS,Honest,Illuminate (Deluxe),album,2017-04-20,51,0.821,0.601,9,-6.249,0.0,0.0637,0.249,116.965,1,0.712,199187,4
+79,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3bBknFVxhFjBIFX91HcneQ,There's Nothing Holdin' Me Back,Illuminate,album,2017-04-20,49,0.866,0.813,11,-4.063,0.0,0.0779,0.38,121.998,0,0.969,199440,4
+80,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,56KDoLjFIm7Yc7fX1XgpNw,Always Been You,Wonder,album,2020-12-04,52,0.37,0.39,3,-6.958,0.0,0.0823,0.229,124.802,1,0.309,167194,4
+81,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,7rV6w1rff0TA61omGxvcCB,Wonder,Wonder (Deluxe),album,2020-12-07,45,0.442,0.631,1,-5.096,2.29e-05,0.133,0.136,139.774,0,0.129,172693,4
+82,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3Qwd9wK176KgmorU7fCW6S,Like This,Illuminate (Deluxe),album,2017-04-20,49,0.546,0.433,10,-7.894,0.0,0.122,0.809,77.397,1,0.249,186947,3
+83,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,7FUXL9fOmUeZFGXvL5cYkR,Ruin,Illuminate (Deluxe),album,2017-04-20,46,0.686,0.382,2,-6.68,0.0,0.109,0.382,125.024,1,0.527,241893,3
+84,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6eAnWf8yT7GLnUvaT0oyKN,Strings,Handwritten,album,2015-04-14,42,0.659,0.728,8,-5.007,0.0,0.251,0.00221,78.027,0,0.683,190773,4
+85,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,4Iz171BOalhbOxdlodJSJD,Kid In Love,Handwritten,album,2015-04-14,45,0.529,0.598,7,-7.085,0.0,0.15,0.0268,169.959,1,0.373,225827,4
+86,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,757T90z5XdtaPetOxMY4wv,This Is What It Takes,Handwritten (Deluxe),album,2015-04-14,36,0.483,0.324,0,-6.703,0.0,0.119,0.384,81.879,1,0.324,230440,4
+87,2FilTwLu8uW8H73tdyq9lR,Seth Bishop,1Bk4HSEmyOpVs473Ng6ttB,Shawn Mendes,Fuck Love,album,2018-12-28,24,0.444,0.343,4,-8.849,0.0,0.11,0.565,112.284,1,0.206,213647,1
+88,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5Ly1ifwG61OwJwR06BWRoF,Bring It Back,Handwritten (Deluxe),album,2015-04-14,40,0.466,0.448,11,-7.173,0.0,0.127,0.158,79.306,0,0.27,159787,4
+89,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,0BAVZv9yFpfHWWZY7XeWxx,Believe,Descendants (Original TV Movie Soundtrack),compilation,2015-01-01,41,0.813,0.668,0,-5.585,0.0,0.0683,0.183,117.006,1,0.785,208853,4
+90,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,7al2umgR86au9ri0VazVD9,Treat You Better - Ashworth Remix,Treat You Better (Ashworth Remix),single,2016-08-16,52,0.699,0.62,1,-6.737,0.0,0.0852,0.186,92.98,1,0.613,232667,4
+91,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,7MBdtBJvyn90mXqTOqI8PA,Intro,Wonder (Deluxe),album,2020-12-07,39,0.507,0.182,7,-11.166,0.00138,0.444,0.944,76.007,1,0.394,62423,4
+92,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,6oZk0lzaP7RcwKjyZrIJBV,Why,Shawn Mendes (Deluxe),album,2019-06-19,40,0.693,0.426,5,-9.226,0.0,0.0663,0.659,127.022,0,0.213,238093,4
+93,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,3XK7BaY0KkRnu7cpZlOZwI,Look Up At The Stars,Wonder (Deluxe),album,2020-12-07,39,0.459,0.579,2,-4.93,0.0,0.203,0.0526,83.981,1,0.461,211851,4
+94,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,0TFpGNlWslRQO4oyTtJq6K,Lost In Japan,Shawn Mendes (Deluxe),album,2019-06-19,47,0.711,0.738,10,-6.908,0.0,0.136,0.264,105.049,1,0.381,200840,4
+95,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,2THF5ECxAXorWXyTHx4Xvn,Strings,Handwritten (Deluxe),album,2015-04-14,36,0.659,0.728,8,-5.007,0.0,0.251,0.00221,78.027,0,0.683,190773,4
+96,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,1xLfyeaBmUKmpdY2WIBPmZ,Crazy,Handwritten (Deluxe),album,2015-04-14,35,0.433,0.266,4,-8.824,0.0,0.109,0.613,157.349,1,0.284,191800,4
+97,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,2hI96mj9iIHNfqCCozP2q3,Air,Handwritten (Deluxe),album,2015-04-14,36,0.758,0.501,0,-7.051,0.0,0.191,0.252,78.048,1,0.397,194147,4
+98,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,5VYgsWOawA5pqeYP5pJMFR,Understand,Illuminate,album,2017-04-20,33,0.613,0.616,0,-6.33,0.0,0.0989,0.355,78.996,1,0.102,300987,4
+99,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,060xmC5Tr7AVfT1ew9OHSB,Something Big,Handwritten (Deluxe),album,2015-04-14,38,0.695,0.854,7,-3.891,0.0,0.158,0.00614,112.008,0,0.804,161440,4
+100,7CajNmpbOovFoOoasH2HaY,Calvin Harris,1gihuPhrLraKYrJMAEONyc,Feel So Close - Radio Edit,18 Months,album,2012-10-29,76,0.707,0.924,7,-2.842,0.00703,0.204,0.000972,127.937,1,0.919,206413,4
+101,7CajNmpbOovFoOoasH2HaY,Calvin Harris,7tr2za8SQg2CI8EDgrdtNl,Slide (feat. Frank Ocean & Migos),Funk Wav Bounces Vol.1,album,2017-06-30,67,0.736,0.795,1,-3.299,1.21e-06,0.254,0.498,104.066,0,0.511,230813,4
+102,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6YUTL4dYpB9xZO5qExPf05,Summer,Motion,album,2014-10-31,77,0.596,0.856,4,-3.556,0.0178,0.141,0.0211,127.949,0,0.743,222533,4
+103,7CajNmpbOovFoOoasH2HaY,Calvin Harris,0azC730Exh71aQlOt9Zj3y,This Is What You Came For,This Is What You Came For,single,2016-04-29,80,0.631,0.927,9,-2.787,0.119,0.148,0.199,123.962,0,0.465,222160,4
+104,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6gpcs5eMhJwax4mIfKDYQk,Slide (feat. Frank Ocean & Migos),Slide (feat. Frank Ocean & Migos),single,2017-02-24,68,0.736,0.795,1,-3.299,1.21e-06,0.254,0.498,104.066,0,0.511,230813,4
+105,7CajNmpbOovFoOoasH2HaY,Calvin Harris,7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),Motion,album,2014-10-31,76,0.646,0.823,2,-4.123,0.0,0.322,0.213,128.035,0,0.418,227267,4
+106,7CajNmpbOovFoOoasH2HaY,Calvin Harris,36cmM3MBMWWCFIiQ90U4J8,Bounce (feat. Kelis) - Radio Edit,18 Months,album,2012-10-29,59,0.779,0.963,2,-2.125,0.493,0.664,0.0334,127.941,0,0.759,222187,4
+107,7CajNmpbOovFoOoasH2HaY,Calvin Harris,24LS4lQShWyixJ0ZrJXfJ5,Sweet Nothing (feat. Florence Welch),18 Months,album,2012-10-29,69,0.573,0.929,8,-3.942,0.000112,0.0567,0.197,127.934,0,0.582,212560,4
+108,7CajNmpbOovFoOoasH2HaY,Calvin Harris,0b5CzUhyShYuDdtW5J4wm2,Obsessed (with Charlie Puth & Shenseea),Funk Wav Bounces Vol. 2,album,2022-08-05,62,0.733,0.74,1,-6.343,3.3e-05,0.299,0.246,99.993,0,0.903,226497,4
+109,7CajNmpbOovFoOoasH2HaY,Calvin Harris,5bcTCxgc7xVfSaMV3RuVke,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,album,2017-06-30,73,0.893,0.745,11,-3.105,0.0,0.0943,0.0642,101.018,0,0.872,223413,4
+110,7CajNmpbOovFoOoasH2HaY,Calvin Harris,1KtD0xaLAikgIt5tPbteZQ,Thinking About You (feat. Ayah Marar),18 Months,album,2012-10-29,63,0.725,0.874,0,-3.715,0.000412,0.0958,0.00262,127.985,0,0.748,247933,4
+111,7CajNmpbOovFoOoasH2HaY,Calvin Harris,3rWepjMBxRG7J3ikhmN6X2,Intro,Funk Wav Bounces Vol. 2,album,2022-08-05,38,0.418,0.22,10,-13.92,0.981,0.113,0.868,144.052,1,0.665,39938,1
+112,7CajNmpbOovFoOoasH2HaY,Calvin Harris,4J7CKHCF3mdL4diUsmW8lq,Under Control (feat. Hurts),Motion,album,2014-10-31,70,0.544,0.915,8,-3.405,0.000914,0.115,0.129,126.094,1,0.51,184280,4
+113,7CajNmpbOovFoOoasH2HaY,Calvin Harris,3FDrI0FLKzrYQiWxPhqV2W,Rollin (feat. Future & Khalid),Rollin (feat. Future & Khalid),single,2017-05-12,57,0.754,0.762,6,-4.486,6.67e-05,0.224,0.45,92.002,0,0.673,272667,4
+114,7CajNmpbOovFoOoasH2HaY,Calvin Harris,07nH4ifBxUB4lZcsf44Brn,Blame (feat. John Newman),Motion,album,2014-10-31,73,0.414,0.857,0,-4.078,0.00574,0.343,0.0287,128.024,0,0.348,212960,4
+115,7CajNmpbOovFoOoasH2HaY,Calvin Harris,0vR2rIVORmgeKiGIgNT0fV,By Your Side (feat. Tom Grennan),By Your Side (feat. Tom Grennan),single,2021-06-04,69,0.733,0.96,7,-3.597,0.00199,0.287,0.0514,124.01,1,0.811,189672,4
+116,7CajNmpbOovFoOoasH2HaY,Calvin Harris,05SBRd4fXgn8FX7bf8BCAE,I Need Your Love (feat. Ellie Goulding),18 Months,album,2012-10-29,67,0.695,0.869,8,-5.066,0.0,0.237,0.41,124.989,1,0.58,234507,4
+117,7CajNmpbOovFoOoasH2HaY,Calvin Harris,3h8tI65xdfpQyTAy7Grqwa,Potion (with Dua Lipa & Young Thug),Funk Wav Bounces Vol. 2,album,2022-08-05,64,0.824,0.697,11,-4.869,4.11e-05,0.0751,0.158,99.987,0,0.757,215216,4
+118,7CajNmpbOovFoOoasH2HaY,Calvin Harris,75kMrDKPJJpgEQaXVh7QMB,Pray to God (feat. HAIM),Motion,album,2014-10-31,59,0.606,0.949,7,-2.749,2.76e-05,0.109,0.015,120.031,0,0.436,232227,4
+119,7CajNmpbOovFoOoasH2HaY,Calvin Harris,5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Giant (with Rag'n'Bone Man),single,2019-01-11,69,0.807,0.887,1,-4.311,0.000503,0.0811,0.016,122.015,0,0.606,229184,4
+120,7CajNmpbOovFoOoasH2HaY,Calvin Harris,7B1Dl3tXqySkB8OPEwVvSu,We'll Be Coming Back (feat. Example),18 Months,album,2012-10-29,59,0.596,0.952,7,-4.364,0.0,0.598,0.00131,127.945,1,0.571,234360,4
+121,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6A8llSO9QFF4djCCmuCrNu,Flashback,Ready For The Weekend,album,2009-08-17,54,0.266,0.95,9,-5.646,0.000991,0.0922,0.00212,127.986,0,0.158,227880,4
+122,7CajNmpbOovFoOoasH2HaY,Calvin Harris,0pJPdSVti6cTM1Q6xYGmcf,Faking It (feat. Kehlani & Lil Yachty),Funk Wav Bounces Vol.1,album,2017-06-30,56,0.776,0.589,9,-4.543,0.0,0.0715,0.319,120.034,0,0.668,240093,4
+123,7CajNmpbOovFoOoasH2HaY,Calvin Harris,4hvWEdTLJxrZsDDjUEcHvy,Nothing More To Say (with 6LACK & Donae’o),Funk Wav Bounces Vol. 2,album,2022-08-05,48,0.799,0.726,5,-5.596,6.83e-05,0.255,0.287,109.983,0,0.87,233974,4
+124,7CajNmpbOovFoOoasH2HaY,Calvin Harris,4GlFGnToMsIrjHx73i0dTz,Mansion,18 Months,album,2012-10-29,34,0.807,0.793,6,-5.398,0.845,0.918,0.000594,112.017,1,0.105,127733,4
+125,7CajNmpbOovFoOoasH2HaY,Calvin Harris,4wkQmYpAaMe41Rc3sYZ7Vz,Let's Go (feat. Ne-Yo),18 Months,album,2012-10-29,63,0.71,0.882,4,-2.932,0.00771,0.294,0.00777,128.016,0,0.875,232800,4
+126,7CajNmpbOovFoOoasH2HaY,Calvin Harris,57lammiiiyQRanh0hTuIFE,Slide (feat. Frank Ocean & Migos),"NOW That's What I Call Music, Vol. 63",compilation,2017-08-04,37,0.744,0.8,1,-3.325,0.0,0.242,0.492,104.075,0,0.482,230773,4
+127,7CajNmpbOovFoOoasH2HaY,Calvin Harris,1ZoHuLxbQho7N5ioKA6Hx1,C.U.B.A,C.U.B.A,single,2015-03-16,44,0.623,0.998,5,-1.436,0.853,0.862,0.0342,127.988,1,0.679,269907,4
+128,7CajNmpbOovFoOoasH2HaY,Calvin Harris,541lUjNUJ8NIQiduDf4Ue9,Flashback,Ready For The Weekend,album,2009-08-18,33,0.265,0.948,9,-5.661,0.00113,0.0832,0.00216,128.0,0,0.198,229200,4
+129,7CajNmpbOovFoOoasH2HaY,Calvin Harris,29d6Ve1skFZv710ZDibJNN,Awooga,18 Months,album,2012-10-29,36,0.514,0.987,9,-3.402,0.935,0.343,0.000999,125.956,0,0.17,231240,4
+130,7CajNmpbOovFoOoasH2HaY,Calvin Harris,561ANIxwuIDp8n8teVXQiJ,New Money (with 21 Savage),Funk Wav Bounces Vol. 2,album,2022-08-05,49,0.876,0.821,6,-5.982,1.54e-05,0.0595,0.244,92.001,1,0.777,168663,4
+131,7CajNmpbOovFoOoasH2HaY,Calvin Harris,1N90cV79gbBgO0bOs74Y0t,"Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)","Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",single,2017-03-31,43,0.786,0.735,0,-4.502,0.0,0.176,0.362,110.124,0,0.747,229640,4
+132,7CajNmpbOovFoOoasH2HaY,Calvin Harris,22PTmk4mzAVi92WiQPAcFp,"New To You (with Normani, Tinashe, & Offset)","New To You (with Normani, Tinashe, & Offset)",single,2022-07-29,59,0.728,0.707,5,-5.09,0.00107,0.126,0.371,96.023,0,0.802,302952,4
+133,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6GvXJZ8EQuUWzthpPFLr6f,Slow Acid,Motion,album,2014-10-31,42,0.664,0.935,8,-4.322,0.855,0.176,0.545,104.004,1,0.131,221787,4
+134,7CajNmpbOovFoOoasH2HaY,Calvin Harris,5Axapk6xMmSHK2A75EZiYo,"New To You (with Normani, Tinashe & Offset)",Funk Wav Bounces Vol. 2,album,2022-08-05,52,0.728,0.707,8,-5.09,0.00107,0.138,0.371,96.017,1,0.802,302613,4
+135,7CajNmpbOovFoOoasH2HaY,Calvin Harris,7iDxZ5Cd0Yg08d4fI5WVtG,Skrt On Me (feat. Nicki Minaj),Funk Wav Bounces Vol.1,album,2017-06-30,43,0.713,0.889,0,-3.87,5.8e-05,0.169,0.169,101.977,1,0.96,228267,4
+136,7CajNmpbOovFoOoasH2HaY,Calvin Harris,2wgbyESBZ7xBkxYN2bSDOL,Day One (with Pharrell & Pusha T),Funk Wav Bounces Vol. 2,album,2022-08-05,42,0.732,0.653,9,-7.921,0.0,0.149,0.616,89.946,0,0.931,200377,4
+137,3z9u9TUv7IbXFstg470gK8,The Culprit Manifest,47fCOXCFKYQfskaO46u4Fl,CalvinHarris,Summer,album,2018-12-07,2,0.776,0.774,7,-6.585,0.82,0.177,5.54e-05,119.998,1,0.512,203584,4
+138,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6x2xqg5fQNu9dNCXu83ezE,Acceptable in the 80's,I Created Disco,album,2007-06-15,35,0.781,0.804,7,-5.439,0.306,0.054,0.0146,127.997,1,0.919,332827,4
+139,7CajNmpbOovFoOoasH2HaY,Calvin Harris,4KaIJ1FWXUoAAnOts1YWjD,Prayers Up (feat. Travis Scott & A-Trak),Funk Wav Bounces Vol.1,album,2017-06-30,49,0.821,0.637,9,-4.276,0.0,0.209,0.433,86.01,0,0.778,204280,4
+140,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6KdmNK9MogmGcnO3wNZHhp,Hard to Love (feat. Jessie Reyez),Funk Wav Bounces Vol.1,album,2017-06-30,47,0.753,0.785,2,-6.53,0.000191,0.0633,0.112,148.015,1,0.85,230587,4
+141,7CajNmpbOovFoOoasH2HaY,Calvin Harris,3LXkyXoIBjRjq2Cx3RJHHb,Lean On Me (with Swae Lee),Funk Wav Bounces Vol. 2,album,2022-08-05,44,0.47,0.593,4,-6.12,0.0,0.171,0.417,79.578,1,0.525,232997,4
+142,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6Wtc1K3dvTIEsWU3rSIZXn,Feel So Close - Radio Edit,Feel So Close,single,2011-08-19,49,0.7,0.923,7,-2.85,0.00826,0.0966,0.000927,127.952,1,0.904,207880,4
+143,7CajNmpbOovFoOoasH2HaY,Calvin Harris,1oHxIPqJyvAYHy0PVrDU98,Drinking from the Bottle (feat. Tinie Tempah),18 Months,album,2012-10-29,58,0.665,0.886,9,-4.175,6.24e-05,0.0525,0.0469,128.062,0,0.53,240347,4
+144,7CajNmpbOovFoOoasH2HaY,Calvin Harris,6S8hzeDFZmsJbQCO3w97Zz,"Stay With Me (Part 2) (with Justin Timberlake, Halsey & Pharrell)",Funk Wav Bounces Vol. 2,album,2022-08-05,48,0.718,0.88,11,-6.137,0.00386,0.263,0.0245,126.002,0,0.927,83736,4
+145,7CajNmpbOovFoOoasH2HaY,Calvin Harris,0cHJa7X5qOttqoWBT5jHcC,Colours,I Created Disco,album,2007-06-15,19,0.785,0.572,1,-6.885,0.0386,0.067,0.000632,114.939,0,0.966,241813,4
+146,7CajNmpbOovFoOoasH2HaY,Calvin Harris,07POri5O6Xu0aVZzlvOcpy,I'm Not Alone - Radio Edit,Ready For The Weekend,album,2009-08-17,54,0.597,0.684,7,-6.614,0.105,0.317,0.00481,130.99,1,0.435,210973,4
+147,7CajNmpbOovFoOoasH2HaY,Calvin Harris,3jFnw3ndyhIOeWc3VzrMS4,I'm Not Alone - 2019 Edit,I'm Not Alone 2019,single,2019-04-05,38,0.6,0.982,11,-3.921,0.48,0.124,0.00349,127.994,1,0.212,201314,4
+148,7CajNmpbOovFoOoasH2HaY,Calvin Harris,00cxhG668jV6gU6VK2FUVI,Acceptable in the 80's,I Created Disco,album,2007-06-18,54,0.787,0.808,7,-5.454,0.257,0.0466,0.0143,127.99,1,0.942,333680,4
+149,7CajNmpbOovFoOoasH2HaY,Calvin Harris,2Tg6UGiplOTWZalFj1eY6y,"Woman Of The Year (with Stefflon Don, Chlöe & Coi Leray)",Funk Wav Bounces Vol. 2,album,2022-08-05,49,0.808,0.816,8,-4.3,0.00123,0.306,0.368,96.982,0,0.962,206136,4
+150,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,364dI1bYnvamSnBJ8JcNzN,Intentions,Intentions,single,2020-02-07,68,0.811,0.553,9,-6.644,0.0,0.105,0.317,148.014,1,0.86,212869,4
+151,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),Changes,album,2020-02-14,72,0.806,0.546,9,-6.637,0.0,0.102,0.3,147.986,1,0.874,212867,4
+152,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3UGIZ8qcrMTwzLbx6Kttqt,Boyfriend,Believe,album,2012-01-01,70,0.717,0.55,10,-6.019,0.00196,0.126,0.0358,96.976,0,0.332,171333,4
+153,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,09CtPGIpYB4BrO8qb1RGsF,Sorry,Purpose (Deluxe),album,2015-11-13,78,0.654,0.76,0,-3.669,0.0,0.299,0.0797,99.945,0,0.41,200787,4
+154,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,7xapw9Oy21WpfEcib2ErSA,Mistletoe,Under The Mistletoe (Deluxe Edition),album,2011-01-01,72,0.657,0.56,6,-9.049,0.0,0.0794,0.498,161.993,0,0.854,182947,4
+155,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,2WnAKZefdRHxtBEkRjFOHC,Anyone,Justice,album,2021-03-19,69,0.685,0.521,2,-8.285,3.59e-06,0.111,0.185,115.885,1,0.578,190779,4
+156,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,31qCy5ZaophVA81wtlwLc4,Anyone,Anyone,single,2021-01-01,70,0.686,0.538,2,-8.026,3.13e-06,0.113,0.181,115.884,1,0.584,190779,4
+157,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Believe (Deluxe Edition),album,2012-06-15,71,0.602,0.843,0,-4.831,5.27e-05,0.0682,0.000688,128.003,1,0.526,227987,4
+158,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,6QFCMUUq1T2Vf5sFUXcuQ7,Beauty And A Beat,Believe,album,2012-01-01,69,0.601,0.843,0,-4.87,5.27e-05,0.0681,0.000704,128.002,1,0.534,227987,4
+159,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,2L7rZWg9RLxIwnysmxm4xk,Boyfriend,Believe (Deluxe Edition),album,2012-06-15,60,0.717,0.55,10,-6.019,0.00198,0.126,0.0358,96.979,0,0.331,171333,4
+160,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,5Isz0twJeFdduOQEFQLezv,Confident,Journals,album,2014-05-13,61,0.738,0.563,5,-5.467,0.0,0.191,0.113,134.132,0,0.876,248133,4
+161,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3JsydWaf2Ev4ehaLUjj3SY,Confident,Journals,album,2014-05-13,72,0.741,0.565,5,-5.448,0.0,0.205,0.114,134.122,0,0.892,248133,4
+162,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,40qyPyljksBEqlNw5sW37T,Habitual,Changes,album,2020-02-14,57,0.764,0.443,4,-6.625,1.96e-05,0.0749,0.52,138.999,1,0.63,168200,4
+163,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3rLIv187BhjyweFe89SgLn,Somebody To Love,My World 2.0,album,2010-01-01,65,0.714,0.833,5,-5.239,0.0,0.298,0.00249,129.964,1,0.663,220920,4
+164,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,1tzkJMX3gNjnpcHdLD0pM3,Overboard,My World 2.0,album,2010-01-01,54,0.479,0.788,5,-5.212,0.0,0.146,0.183,173.963,1,0.463,251187,4
+165,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,61uyGDPJ06MkxJtHgPmuyO,Company,Purpose (Deluxe),album,2015-11-13,66,0.59,0.797,4,-4.901,0.0,0.0846,0.132,94.948,0,0.425,208120,4
+166,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,2IjyFRCRn8x1bEquOM3vxg,Purpose,Purpose (Deluxe),album,2015-11-13,62,0.481,0.285,0,-10.848,0.0,0.123,0.9,130.029,1,0.316,210160,4
+167,638CPU1xRHUo6AmfZe3F2c,Eva Shaw,1Z84RBVY8aTEL3yVEq1vug,JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit],JUSTIN BIEBER [Rockstar Wasted Hype Hop Edit],single,2023-01-20,33,0.722,0.931,1,-6.776,0.195,0.242,0.125,126.016,1,0.821,199500,4
+168,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3S8jK1mGzQi24ilFb45DAZ,Lonely (with benny blanco),Justice,album,2021-03-19,69,0.619,0.241,11,-7.102,0.0,0.116,0.9,79.461,0,0.0719,149190,4
+169,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,10Z9RbwrTbQ0gQeNRJ2dC1,Lifetime,Justice (Triple Chucks Deluxe),album,2021-03-26,58,0.48,0.274,2,-7.083,0.0,0.114,0.771,179.637,1,0.332,207020,3
+170,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,6VkmdRz8YgHFQV3ZNTJAWU,Intentions - Acoustic,Intentions (Acoustic),single,2020-03-19,61,0.711,0.411,9,-6.657,0.0,0.0903,0.594,73.997,1,0.791,160612,4
+171,5yOvAmpIR7hVxiS6Ls5DPO,Omah Lay,6tTeRmhhuwDl5Y4UiJdHuO,attention,attention,single,2022-03-03,62,0.817,0.72,5,-8.134,0.000726,0.109,0.172,119.989,0,0.384,180563,4
+172,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3buwFfY33H32wfZ6X9poV3,Somebody,Justice,album,2021-03-19,59,0.551,0.756,2,-7.679,9.48e-05,0.118,0.000284,75.991,1,0.359,179415,4
+173,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,54K9GOVJqIaDZNXLnnxiKc,Mistletoe,Under The Mistletoe,album,2011-01-01,54,0.657,0.56,6,-9.049,0.0,0.0794,0.498,161.993,0,0.854,182947,4
+174,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,0ffOWJVrYmtKcmQJbPWuhc,Bigger,My World,album,2009-01-01,44,0.78,0.733,0,-2.851,0.0,0.341,0.166,104.086,0,0.895,197800,4
+175,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,7jAVt70Xdg8EwOtsFB1ZqK,Intentions,"NOW That's What I Call Music, Vol. 75",compilation,2020-08-07,29,0.814,0.551,9,-6.64,0.0,0.106,0.296,148.003,1,0.87,212853,4
+176,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,60brXKLTC15vK0av5gIldm,Confirmation,Changes,album,2020-02-14,54,0.438,0.315,8,-8.186,0.0,0.151,0.608,190.064,1,0.449,170587,3
+177,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,6pFqCPdvm6C9IHbJrEu8aG,Recovery,Journals,album,2014-05-13,47,0.669,0.527,6,-5.048,0.0,0.338,0.014,130.271,0,0.238,182373,4
+178,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,7wj1Lb5ggzMWJ9TqZJ2dwo,Up,My World 2.0,album,2010-01-01,47,0.711,0.717,0,-4.317,0.0,0.09,0.084,125.949,1,0.589,234933,4
+179,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3kZLeZr4StCy1tlOBRJrUH,Lifetime,Justice (Triple Chucks Deluxe),album,2021-03-26,53,0.669,0.276,2,-7.077,0.0,0.115,0.769,90.025,1,0.341,207020,3
+180,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,5qHcOrOMSznBWzR8Xy1WYZ,Memphis,Journals,album,2014-05-13,44,0.642,0.718,5,-6.954,0.0,0.0854,0.0123,122.973,0,0.509,223867,4
+181,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,2hsp8XYaXIXSSY1kPeee6X,Recovery,Journals,album,2014-05-13,33,0.509,0.522,6,-4.648,0.0,0.329,0.013,132.087,0,0.229,182373,4
+182,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,0lNotCAaSDP4itCAtEE7My,Anyone,Justice (Triple Chucks Deluxe),album,2021-03-26,41,0.685,0.521,2,-8.285,3.59e-06,0.111,0.185,115.885,1,0.578,190779,4
+183,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,3irLUcs5dBYhGeDze2fPO6,Anyone,Justice (The Complete Edition),album,2021-10-08,43,0.685,0.521,2,-8.285,3.59e-06,0.111,0.185,115.885,1,0.578,190779,4
+184,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,7E1dQbOk1qcx9gEPUMBKsk,Maria,Believe (Deluxe Edition),album,2012-06-15,43,0.825,0.687,6,-6.794,1.32e-05,0.19,0.00997,111.002,0,0.294,248293,4
+185,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,7sK3nu6yk8urQ44ouEB7Au,Children,Purpose (Deluxe),album,2015-11-13,51,0.634,0.885,11,-4.702,0.0,0.193,0.0122,127.064,0,0.327,223333,4
+186,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,0pYUyZ3aQR1fAOdhXfoD3R,Somebody,Justice,album,2021-03-19,46,0.547,0.753,2,-7.677,8.72e-05,0.12,0.000286,75.999,1,0.375,179415,4
+187,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,1AruWZmSy4RerslWBkH8OY,Believe,Believe (Deluxe Edition),album,2012-06-15,41,0.518,0.854,0,-5.71,0.0,0.171,0.141,159.807,1,0.507,222560,4
+188,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,5rqtv4ydUZIztLYmtfArOf,Somebody,Justice (Triple Chucks Deluxe),album,2021-03-26,40,0.551,0.756,2,-7.679,9.48e-05,0.118,0.000284,75.991,1,0.359,179415,4
+189,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,5kHn6VJfMEThQYcG9AayaR,Somebody,Justice (The Complete Edition),album,2021-10-08,43,0.551,0.756,2,-7.679,9.48e-05,0.118,0.000284,75.991,1,0.359,179415,4
+190,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,1hv8GNyGylLkQFs4ePdTDs,Memphis,Journals,album,2014-05-13,29,0.639,0.727,5,-6.941,0.0,0.0752,0.0114,123.011,0,0.505,224080,4
+191,1ftbSkDG2TkkchwBYjo9U3,Claudio Ferrarini,1xhfGEgj0hcSy7yUQsoTH5,Justin Bieber: Let Me Love You (Arr. by Claudio Ferrarini),Justin Bieber: Let Me Love You (Arr. by Claudio Ferrarini),single,2023-01-31,28,0.463,0.576,0,-12.167,0.963,0.154,0.982,106.53,0,0.306,194888,4
+192,2TSvMFHlguDI495vujOAys,Bizarre,4AfHiGiP2T1l6txNkk0urX,Justin Bieber,This Guy's A Weirdo,album,2012-07-22,31,0.709,0.565,7,-6.833,0.000144,0.179,0.0148,80.203,1,0.371,173053,4
+193,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,2S5NuP68ckFRvC0qMd7dVR,Beauty And A Beat,Feel Good Music,compilation,2020-05-22,41,0.587,0.82,0,-5.319,7.36e-06,0.131,0.0011,127.976,1,0.578,226613,4
+194,6cHfJ7pTq0rgV2w3xbx0ET,OTL Beezy,6II5R271iwvrmZ6LBtk8Gu,JUSTIN BEIBER,JUSTIN BEIBER,single,2022-08-31,2,0.692,0.504,1,-8.604,0.0127,0.408,0.00532,160.082,1,0.453,106083,4
+195,4j1mQTQrAWQMznZIjFXZGy,mcm1nn,5SQBzeXlLmHicPPe0juuYa,JUSTIN BIEBER,SUNNY,single,2020-05-07,18,0.665,0.726,7,-9.088,0.000608,0.235,0.00346,150.063,0,0.174,120047,4
+196,6LmymAfsFtt2CaJSj9hdCn,Kayla DiVenere,20fP2ZGfecBsqvr1s6djlA,Justin Bieber,Justin Bieber,single,2020-11-06,24,0.813,0.418,9,-5.736,0.0,0.399,0.702,110.018,1,0.648,203733,4
+197,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,5h4Z1fyzlAZhGPRaQz7ima,Overboard (Live),Never Say Never - The Remixes,album,2011-01-01,41,0.359,0.882,5,-4.482,0.0,0.791,0.425,173.956,1,0.377,307880,4
+198,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,0luAkFfFEDknvCuWB5yOz7,Mistletoe,Under The Mistletoe (Deluxe Edition),album,2011-01-01,26,0.658,0.56,6,-9.049,0.0,0.0794,0.498,161.994,0,0.854,182947,4
+199,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,0yrkXIMacOpfY8vr3EIaZm,Mistletoe,Under The Mistletoe,album,2011-01-01,23,0.658,0.56,6,-9.049,0.0,0.0794,0.498,161.994,0,0.854,182947,4
+200,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0wPKDeY4fZXT6k9bzV0kx0,That's Hilarious,CHARLIE,album,2022-10-07,72,0.713,0.442,6,-5.909,0.0,0.112,0.739,108.038,1,0.546,144934,4
+201,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1jEBSDN5vYViJQr78W7jr2,Light Switch,CHARLIE,album,2022-10-06,77,0.689,0.627,6,-5.692,0.000321,0.0905,0.105,184.008,1,0.905,187704,4
+202,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5cF0dROlMOK5uNZtivgu50,Attention,Voicenotes,album,2018-05-11,78,0.775,0.613,3,-4.586,2.33e-05,0.134,0.109,100.066,0,0.797,208787,4
+203,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,7soJgKhQTO8hLP2JPRkL5O,One Call Away,Nine Track Mind,album,2016-01-29,62,0.667,0.613,1,-5.353,0.0,0.115,0.403,91.024,1,0.47,194453,4
+204,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6GBMbvX7sqyOxT5wWK4hgN,Dangerously,Nine Track Mind,album,2016-01-29,50,0.696,0.517,2,-8.379,0.0,0.197,0.364,112.291,0,0.23,199133,3
+205,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5Odq8ohlgIbQKMZivbWkEo,Left and Right (Feat. Jung Kook of BTS),CHARLIE,album,2022-10-06,78,0.881,0.592,2,-4.898,1.32e-05,0.0901,0.619,101.058,1,0.719,154487,4
+206,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1BCXUbnU0486n4eeTyyVIj,Loser,CHARLIE,album,2022-10-06,67,0.698,0.623,8,-7.845,0.0856,0.179,0.623,102.002,0,0.625,204376,4
+207,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1lsBTdE6MGsKeZCD6llNu7,Done for Me (feat. Kehlani),Voicenotes,album,2018-05-11,64,0.856,0.632,6,-3.692,0.0,0.0688,0.193,112.009,0,0.697,180493,4
+208,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0ClPIeT6MSgfSgQ9ZrJbAq,Cheating on You,Cheating on You,single,2019-10-01,73,0.749,0.535,4,-6.785,3.65e-05,0.0982,0.0131,123.042,1,0.601,196607,4
+209,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,7aSvPfoqiM0zwPqupLGaHd,BOY,Voicenotes,album,2018-05-11,53,0.725,0.77,1,-6.24,2.17e-05,0.0641,0.149,93.009,1,0.647,263413,4
+210,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6wmAHw1szh5RCKSRjiXhPe,How Long,Voicenotes,album,2018-05-11,69,0.845,0.561,1,-5.253,3.49e-06,0.0383,0.211,109.974,0,0.811,200853,4
+211,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,2ZrHbO88rM6Ijeg0aJmSzl,Patient,Voicenotes,album,2018-05-11,55,0.675,0.604,1,-6.266,0.0,0.111,0.752,168.034,1,0.456,190533,4
+212,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4oTn7ylKtjeMYwxatEVFAt,Loser,CHARLIE,album,2022-10-07,60,0.698,0.623,8,-7.845,0.0856,0.179,0.623,102.002,0,0.625,204376,4
+213,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,7rl1z4j7MurMDnn9rHh4M2,Marvin Gaye (feat. Meghan Trainor),Nine Track Mind,album,2016-01-29,56,0.795,0.616,1,-5.281,0.0,0.349,0.417,110.015,0,0.815,190453,4
+214,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Light Switch (Instrumental),single,2022-01-19,66,0.69,0.626,6,-5.693,0.000335,0.0881,0.105,184.009,1,0.912,185681,4
+215,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5Q4lCfjJ1aht8YZOGFbC5U,Light Switch,CHARLIE,album,2022-10-07,55,0.689,0.627,6,-5.692,0.000321,0.0905,0.105,184.008,1,0.905,187704,4
+216,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,7k7JKDjCd9zuL0iF7iWaNs,Empty Cups,Voicenotes,album,2018-05-11,53,0.77,0.555,4,-6.361,1.78e-06,0.0754,0.224,100.035,1,0.776,170947,4
+217,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6ukMqDxnOPOgoHdak7Kyp3,Marvin Gaye (feat. Meghan Trainor),Some Type of Love,single,2015-05-01,60,0.795,0.616,1,-5.281,0.0,0.349,0.417,110.015,0,0.815,190453,4
+218,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0OM84HfW4XX1kmwCMDPmcS,Smells Like Me,CHARLIE,album,2022-10-07,57,0.602,0.565,11,-6.498,0.0,0.0622,0.329,208.038,1,0.609,204079,4
+219,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4nV4Bie1OdzsEPHUFg4M8J,That's Hilarious,CHARLIE,album,2022-10-06,39,0.707,0.447,6,-5.833,0.0,0.112,0.71,108.08,1,0.53,146855,4
+220,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6rVNnvyNeibts1uOqdSNIw,Mother,Mother,single,2019-09-12,50,0.407,0.697,11,-5.612,5.07e-06,0.125,0.375,179.681,1,0.632,162864,3
+221,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,17RMnDmv5CEo3s0tmipRyb,Change (feat. James Taylor),Voicenotes,album,2018-05-11,53,0.502,0.413,4,-7.373,0.0,0.213,0.872,175.507,1,0.474,217560,4
+222,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6LXIhiXK8z1KLd3giR904b,Smells Like Me,Smells Like Me,single,2022-09-02,56,0.602,0.565,11,-6.498,0.0,0.0622,0.329,208.038,1,0.609,204079,4
+223,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,3brfhVrVESFlfqE1IdlFdp,Smells Like Me,CHARLIE,album,2022-10-06,55,0.602,0.565,11,-6.498,0.0,0.0622,0.329,208.038,1,0.609,204079,4
+224,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5uAeahijdsH6Pu4es1OVCt,Suffer,Nine Track Mind,album,2016-01-29,42,0.58,0.443,3,-7.323,0.0,0.0742,0.75,175.938,0,0.576,210680,3
+225,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0I3FXz5RssOlMNI0FmPAkc,There’s A First Time For Everything,CHARLIE,album,2022-10-07,54,0.551,0.737,1,-5.573,2.74e-06,0.21,0.466,197.997,1,0.611,136770,4
+226,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1tGq9MNEmWGevwtiBCdrbk,Left and Right (Feat. Jung Kook of BTS),CHARLIE,album,2022-10-07,59,0.881,0.592,2,-4.898,1.32e-05,0.0901,0.619,101.058,1,0.719,154487,4
+227,3PhoLpVuITZKcymswpck5b,Elton John,4A9g0WVvFYjJftYWWXXxP7,After All,The Lockdown Sessions,album,2021-10-22,44,0.501,0.556,5,-5.628,0.000133,0.115,0.361,82.017,1,0.165,208715,4
+228,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1UNs8AlFM8c0uAkSyjIW3P,Girlfriend,Girlfriend,single,2020-06-23,57,0.758,0.583,1,-6.361,5.12e-05,0.107,0.18,97.537,1,0.797,177438,4
+229,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1PuQTv1Kr1gzLgVeATSuh6,Somebody Told Me,Voicenotes,album,2018-05-11,50,0.592,0.839,1,-4.944,0.0,0.0528,0.101,168.501,0,0.457,216053,4
+230,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6o4LOloYJc8yu0CdvOvifU,Hard On Yourself,Hard On Yourself,single,2020-08-14,59,0.824,0.783,1,-4.53,0.0,0.234,0.22,114.028,0,0.788,160825,4
+231,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0DbVHIAldoWzrImJU9WN5y,Dangerously,Nine Track Mind (Deluxe Edition),album,2016-11-11,30,0.696,0.517,2,-8.379,0.0,0.197,0.364,112.291,0,0.23,199133,3
+232,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,3UhLNLeoDTeYozCENkoFTe,That's Hilarious,That's Hilarious,single,2022-04-07,43,0.707,0.447,6,-5.833,0.0,0.112,0.71,108.08,1,0.53,146855,4
+233,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4jgF1sLf3TkQbZkLHsc6SI,Through It All,Voicenotes,album,2018-05-11,47,0.562,0.383,4,-8.54,0.0,0.0775,0.762,119.113,1,0.225,206453,3
+234,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6RhEbk4odKK0PwPhpok7h1,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),single,2022-08-19,57,0.881,0.592,2,-4.898,1.32e-05,0.0901,0.619,101.058,1,0.719,154487,4
+235,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,42nDnUAPjhZFlj5wt2BjJm,Light Switch - Acoustic,Light Switch (Acoustic),single,2022-02-18,48,0.748,0.407,6,-6.26,0.0,0.163,0.745,91.974,1,0.947,186296,4
+236,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6hcHRtozkrTnk8D6rh7lED,Left and Right (Feat. Jung Kook of BTS),Left and Right (feat. Jung Kook of BTS) [Sam Feldt Remix],single,2022-08-12,58,0.881,0.592,2,-4.898,1.32e-05,0.0901,0.619,101.058,1,0.719,154487,4
+237,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4KVzPTFZXByIdBBH9dXiLT,Left Right Left,Nine Track Mind,album,2016-01-29,35,0.698,0.712,2,-3.634,0.0,0.0602,0.21,99.952,1,0.486,206467,4
+238,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5IczhYC3YVI2IwxoJJoCmb,Light Switch - Tiësto Remix,Light Switch (Tiësto Remix),single,2022-03-04,53,0.7,0.832,1,-4.969,0.464,0.278,0.000421,129.983,1,0.533,170769,4
+239,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,5DtTZfXWnMPzgSsl3GGN8u,One Call Away - Acoustic,One Call Away (Acoustic + Remixes),single,2015-11-27,55,0.649,0.258,1,-13.442,0.0,0.0799,0.74,90.937,1,0.372,189053,4
+240,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4Xc7y7CHJn51Toq1c77TXl,Left and Right (Feat. Jung Kook of BTS),Left and Right (feat. Jung Kook of BTS) [Galantis Remix],single,2022-09-01,55,0.881,0.592,2,-4.898,1.32e-05,0.0901,0.619,101.058,1,0.719,154487,4
+241,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1sN7BEKCIWKcK8CvKBETkw,Light Switch - Brighter Mix,Light Switch (Brighter Mix),single,2022-01-19,44,0.707,0.647,6,-5.659,4.72e-05,0.0659,0.152,183.993,1,0.96,178617,4
+242,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,19f9roe77Hen23e6vJ1iBN,One Call Away,Nine Track Mind (Deluxe Edition),album,2016-11-11,33,0.667,0.613,1,-5.353,0.0,0.115,0.403,91.024,1,0.47,194453,4
+243,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,17IVw95dOZSIiq7dz4UWaD,Left and Right (feat. Jung Kook of BTS) - Sam Feldt Remix,Left and Right (feat. Jung Kook of BTS) [Sam Feldt Remix],single,2022-08-12,53,0.773,0.836,2,-5.366,0.000448,0.0914,0.0295,122.006,1,0.614,162541,4
+244,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,0lWsA6TPYDRWenhCJrbfYu,Left and Right (Feat. Jung Kook of BTS) - Acapella,Left and Right (Feat. Jung Kook of BTS),single,2022-08-19,54,0.571,0.169,9,-8.628,0.0,0.0975,0.753,202.365,1,0.742,154487,4
+245,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6qHPJleQOdQDEZvbxjY7jR,Losing My Mind,Nine Track Mind,album,2016-01-29,31,0.705,0.501,1,-10.997,0.0761,0.104,0.759,100.042,1,0.16,212213,4
+246,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,6qgMSxNUPmqHbVr5uPKuqo,Attention - Live from Spotify Studios NYC,Spotify Singles,single,2017-08-23,38,0.716,0.179,0,-12.142,0.0,0.122,0.913,98.012,0,0.405,222270,4
+247,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,4I8s6vwzHT2geqH91w2Dyg,Attention - Acoustic,Attention (Acoustic + Remixes),single,2017-06-09,54,0.527,0.506,6,-4.35,0.0,0.116,0.593,199.949,1,0.96,206702,4
+248,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,1KoSVcMX0QEQSvqxTemRnR,Some Type of Love,Nine Track Mind,album,2016-01-29,36,0.702,0.595,2,-6.005,0.0,0.0753,0.392,90.497,1,0.366,187907,4
+249,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,33SkruahtMKjSqtVQB9ryC,Suffer,Nine Track Mind (Deluxe Edition),album,2016-11-11,27,0.58,0.443,3,-7.323,0.0,0.0742,0.75,175.938,0,0.576,210680,3
+250,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4Wu62DoQg1ECGlDKDfo30R,Hero,Hero,single,2022-12-08,76,0.534,0.696,9,-5.211,0.0,0.248,0.316,168.149,0,0.251,160714,4
+251,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,1xMLthTaWJieT9YGV1hyS5,Animals,Gold Skies,single,2014-07-01,55,0.676,0.865,1,-6.381,0.648,0.382,0.00105,128.006,1,0.0372,303773,4
+252,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,3ebXMykcMXOcLeJ9xZ17XH,Scared to Be Lonely,Scared to Be Lonely,single,2017-01-27,74,0.584,0.54,1,-7.786,0.0,0.261,0.0895,137.972,0,0.195,220883,4
+253,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4RVtBlHFKj51Ipvpfv5ER4,Drown (feat. Clinton Kane),Drown (feat. Clinton Kane),single,2020-02-27,64,0.573,0.739,9,-5.455,0.0,0.175,0.212,120.077,1,0.363,174062,4
+254,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,65G7XDGcybJiGywSCXJiL5,Animals - Radio Edit,Animals,single,2016-12-16,58,0.593,0.914,1,-5.351,0.445,0.0714,0.00137,128.015,1,0.0381,176120,4
+255,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6EsH66Uto1zwZlDGQ6RokU,Forbidden Voices,Forbidden Voices,single,2015-02-23,56,0.534,0.711,10,-5.927,0.0031,0.135,0.05,128.102,0,0.3,230635,4
+256,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6JEntXLt4z98CcDtIH9sU7,Animals - Extended,Animals (Extended),single,2013-01-01,56,0.677,0.866,1,-6.403,0.662,0.412,0.00165,128.005,1,0.0386,303827,4
+257,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7pWK1kMgHy5lNNiIfuRbkP,Used To Love (with Dean Lewis),Used To Love (with Dean Lewis),single,2019-10-31,59,0.651,0.693,4,-4.722,0.0,0.335,0.458,118.97,1,0.392,236765,4
+258,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5aXTfpNOqLj35ydEiLio67,Follow,Follow,single,2022-03-25,61,0.588,0.78,11,-6.102,0.193,0.0728,0.0333,127.085,0,0.201,221220,4
+259,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,3ukWpmRHvpuDATCJkgLEkF,Virus (How About Now),Virus (How About Now),single,2014-10-27,48,0.595,0.86,5,-5.366,0.598,0.155,0.000762,127.992,0,0.0399,273765,4
+260,73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,6AE0G24YXnDyEgE4L0efpB,Tremor - Sensation 2014 Anthem,Gold Skies,single,2014-07-01,55,0.631,0.939,6,-4.21,0.747,0.955,0.000351,127.992,0,0.452,294467,4
+261,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7cmpWAZsamIlIiyU1aMGZD,Quantum,Quantum,single,2022-04-08,50,0.627,0.902,6,-5.149,0.952,0.0997,0.0105,128.021,0,0.135,178594,4
+262,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),High On Life (feat. Bonn),single,2018-07-29,67,0.414,0.486,6,-6.431,0.0,0.111,0.0129,128.038,0,0.368,230762,4
+263,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6GLzN6o2fkOupy8e1vGzwp,Virus (How About Now) - Radio Edit,Virus (How About Now) [Radio Edit],single,2014-10-27,51,0.5,0.861,5,-4.834,0.479,0.791,0.00104,128.004,0,0.0725,199427,4
+264,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4xFcQGVBVakReaL0OOJiP6,Follow,Sentio,album,2022-04-29,53,0.588,0.78,11,-6.102,0.193,0.0728,0.0333,127.085,0,0.201,221220,4
+265,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,3krdgrUkow0lWczI0S80ga,Quantum,Sentio,album,2022-04-29,48,0.627,0.902,6,-5.149,0.952,0.0997,0.0105,128.021,0,0.135,178594,4
+266,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,2WW3PfGHh0aA2xCAyK6X1J,Poison,Poison,single,2015-11-02,46,0.502,0.756,7,-6.118,0.769,0.377,0.00429,128.125,0,0.062,248447,4
+267,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,44ib3nlda2rBy0qmMUelnd,Limitless,Sentio,album,2022-04-29,47,0.601,0.83,1,-5.122,0.733,0.0713,0.0882,126.011,1,0.311,146682,4
+268,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,3nc420PXjTdBV5TN0gCFkS,Ocean (feat. Khalid),Ocean (feat. Khalid),single,2018-06-15,64,0.506,0.693,0,-7.265,9.58e-05,0.0891,0.584,139.912,0,0.221,216420,4
+269,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6wnzt59p7i8cAyuWl1avwr,If We’ll Ever Be Remembered,If We’ll Ever Be Remembered,single,2022-04-29,52,0.502,0.554,10,-5.788,0.0,0.62,0.0353,125.786,1,0.512,210506,4
+270,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5EwwwdsQfKI8ZnFG93j5Zu,Forever,Forever,single,2017-10-20,52,0.45,0.898,8,-3.604,0.0616,0.166,0.0277,127.983,0,0.22,218437,4
+271,12Zk1DFhCbHY6v3xep2ZjI,070 Shake,6IqVq76K6UuJdYwZFgXosQ,Cocoon - Martin Garrix & Space Ducks Remix,Cocoon (Martin Garrix & Space Ducks Remix),single,2023-02-10,59,0.864,0.452,2,-7.896,0.293,0.111,0.0031,127.002,1,0.223,202205,4
+272,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7MA8T4pKN6VeBIEGE9hggN,Limitless,Limitless,single,2022-04-01,48,0.603,0.832,1,-5.089,0.732,0.0713,0.0867,126.012,1,0.26,146682,4
+273,73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,5Qw6359qWB9JdwIXYS0lxj,Project T - Martin Garrix Remix,Project T (Martin Garrix Remix),single,2013-10-14,36,0.561,0.725,9,-7.212,0.857,0.0872,0.00358,127.993,0,0.117,312197,4
+274,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4cBSVGEHvZCPGKq2UnB26P,Access,BYLAW EP,single,2018-10-19,36,0.726,0.752,7,-7.401,0.145,0.201,0.0529,128.035,0,0.174,195454,4
+275,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7Feaw9WAEREY0DUOSXJLOM,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),single,2019-04-25,70,0.661,0.723,5,-6.976,1.23e-05,0.14,0.179,113.778,0,0.316,163805,4
+276,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,0g5S3hPuTNFWRq2CbpXy9F,Animals - Victor Niglio & Martin Garrix Festival Trap Mix,Animals,single,2013-01-01,36,0.42,0.873,1,-4.326,0.827,0.0349,0.00429,139.931,1,0.344,198480,4
+277,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6LHXb1sGs72iTmpSr0603b,Something,Something,single,2022-07-29,57,0.556,0.939,11,-5.99,0.915,0.121,0.00245,127.992,1,0.152,163125,4
+278,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,20hsdn8oITBsuWNLhzr5eh,Byte,Byte,single,2017-04-07,49,0.597,0.931,7,-4.026,0.821,0.0593,0.000636,128.031,0,0.267,285089,4
+279,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,1ahVFh0ViDZr8LvkEVlq3B,No Sleep (feat. Bonn),No Sleep (feat. Bonn),single,2019-02-21,59,0.44,0.635,11,-6.385,0.0,0.121,0.129,128.133,1,0.327,207095,4
+280,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,23L5CiUhw2jV1OIMwthR3S,In the Name of Love,In the Name of Love,single,2016-07-29,77,0.501,0.519,4,-5.88,0.0,0.454,0.109,133.99,0,0.168,195707,4
+281,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4UQy41kC5LjzwQuiuWOpwA,Starlight (Keep Me Afloat),Starlight (Keep Me Afloat),single,2022-04-15,57,0.558,0.715,9,-5.231,0.0,0.097,0.0667,127.001,1,0.297,202671,4
+282,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5M9jOReAKGZ2AttVefFjTY,Don't Look Down (feat. Usher),Don't Look Down (feat. Usher),single,2015-03-17,60,0.575,0.831,0,-5.972,0.000449,0.111,0.00406,127.991,1,0.377,223140,4
+283,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7deNOgcnSseExDbh0rKbeZ,Access,Access,single,2018-10-17,33,0.726,0.752,7,-7.401,0.145,0.201,0.0529,128.035,0,0.174,195454,4
+284,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6nLctpnQJiPTxkaSgbPKiw,Together,Seven,single,2016-10-28,49,0.509,0.729,1,-4.773,2.73e-05,0.233,0.0732,127.871,1,0.196,221274,4
+285,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,6jA8HL9i4QGzsj6fjoxp8Y,There for You,There for You,single,2017-05-26,64,0.611,0.644,6,-7.607,0.0,0.124,0.124,105.969,0,0.13,221904,4
+286,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,13yeSbqDD7JSd7EWMOATV1,Dragon - Radio Edit,Break Through The Silence EP,single,2015-07-20,42,0.513,0.917,7,-4.048,0.816,0.0592,0.00543,128.024,0,0.145,196671,4
+287,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,0wNsUWIYFLYelRCuXPXUT2,If We’ll Ever Be Remembered,Sentio,album,2022-04-29,42,0.502,0.554,10,-5.788,0.0,0.62,0.0353,125.786,1,0.512,210506,4
+288,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,4ga4WvRNhMsIL38pkBbnIN,Pressure (feat. Tove Lo),Pressure (feat. Tove Lo),single,2021-02-05,64,0.859,0.558,7,-8.991,0.324,0.124,0.659,114.978,0,0.357,144391,4
+289,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,69mAhvOXSSpKRSYFtdWpE4,Reboot,Sentio,album,2022-04-29,42,0.739,0.516,6,-7.465,0.837,0.376,0.0177,126.005,1,0.486,163929,4
+290,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,7IWTIkiWGWNQyYfOLdMrGD,Burn Out (feat. Dewain Whitmore),Burn Out (feat. Dewain Whitmore),single,2018-09-14,53,0.594,0.722,4,-5.751,0.0,0.0667,0.0156,127.877,0,0.407,200322,4
+291,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5w0264qq5wQpYfNiPpsuqE,Aurora,Aurora,single,2022-04-26,46,0.514,0.905,4,-6.727,0.237,0.101,0.0011,128.01,0,0.315,210469,4
+292,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5oAgI7Pzg6vxuKrfapg3Pi,Pizza,Pizza,single,2017-08-25,49,0.381,0.712,5,-6.9,0.589,0.183,0.000408,127.967,1,0.0378,255103,4
+293,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,1Q7OXxsTM8aUaZ3BbPfIDb,Reboot,Reboot,single,2022-04-05,43,0.739,0.516,6,-7.465,0.837,0.376,0.0177,126.005,1,0.486,163929,4
+294,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,2ncGl8sIrEz5M3Kj0MMxqe,Aurora,Sentio,album,2022-04-29,40,0.514,0.905,4,-6.727,0.237,0.101,0.0011,128.01,0,0.315,210469,4
+295,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,18KjYhghq6K3ZmfcewWDp6,Mistaken (feat. Alex Aris),Mistaken (feat. Alex Aris),single,2019-03-31,48,0.424,0.694,6,-4.912,0.000937,0.133,0.0573,128.034,0,0.0801,282481,4
+296,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5YN0zHycJ0Yxz31A5QsVov,These Are The Times (feat. JRM),These Are The Times (feat. JRM),single,2019-07-18,49,0.687,0.707,4,-6.19,9.29e-05,0.16,0.0536,127.033,1,0.607,188656,4
+297,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,56ZstVdH2J5FXTTOKNNxfp,Funk,Sentio,album,2022-04-29,44,0.757,0.623,1,-4.335,0.857,0.112,0.00655,125.017,0,0.24,189600,4
+298,76YIoWHp3Ri3q1ocOPtFzp,AREA21,5sPoju3oZHg9Wq5KXxBH3a,Followers,Followers,single,2021-09-17,57,0.557,0.798,11,-4.162,3.59e-05,0.295,0.163,144.969,1,0.347,177207,4
+299,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,5vbFDDuHmTqHR8tGxiipf2,Good Morning,Good Morning,single,2022-04-12,44,0.572,0.728,6,-6.851,0.0246,0.515,0.000992,126.059,0,0.18,181429,4
+300,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,7BKLCZ1jbUBVqRi2FVlTVw,Closer,Closer,single,2016-07-29,81,0.748,0.524,8,-5.599,0.0,0.111,0.414,95.01,1,0.661,244960,4
+301,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,4edHoZerfvMGeLz3ohZit6,iPad,So Far So Good,album,2022-06-08,64,0.665,0.628,2,-6.297,2.02e-05,0.0947,0.00502,121.979,1,0.551,202406,4
+302,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,72jbDTw1piOOj770jWNeaG,Paris,Memories...Do Not Open,album,2017-04-07,72,0.653,0.658,2,-6.428,1.66e-06,0.0939,0.0215,99.99,1,0.219,221507,4
+303,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3vv9phIu6Y1vX3jcqaGz5Z,Roses,Roses,single,2015-06-16,70,0.713,0.802,4,-7.055,0.00377,0.309,0.0435,100.001,1,0.343,226739,4
+304,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,0fTiDOXRNEN0lUeYGoSHml,Somebody,Sick Boy,album,2018-12-14,58,0.32,0.63,10,-7.019,0.0,0.102,0.192,203.443,0,0.323,221987,4
+305,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,5e9TFTbltYBg2xThimr0rU,The Chain - 2004 Remaster,Rumours (Super Deluxe),album,1977-02-04,77,0.545,0.67,9,-8.81,0.000822,0.0451,0.009,151.553,1,0.481,270213,4
+306,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,1KeZgPUr54C8iz3FjqzVoz,Young,Memories...Do Not Open,album,2017-04-07,57,0.615,0.564,9,-6.384,0.0,0.148,0.0105,103.006,1,0.454,224773,4
+307,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,7dTd00X8Mc5iErfQQyBA6B,Riptide,So Far So Good,album,2022-06-08,58,0.717,0.734,5,-5.712,0.000101,0.147,0.28,91.014,1,0.894,171360,4
+308,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,1i1fxkWeaMmKEB4T7zqbzK,Don't Let Me Down,Don't Let Me Down,single,2016-02-05,76,0.532,0.869,11,-5.094,0.00508,0.136,0.157,159.803,1,0.422,208373,4
+309,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,548pWs8FmBjkr3Qqm2TdPQ,Testing,So Far So Good,album,2022-06-08,45,0.576,0.647,10,-10.027,0.00103,0.0986,0.00816,142.018,0,0.16,219424,4
+310,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2i6FWcstV4Ct72L4ORnfwZ,Make Me Feel,Make Me Feel,single,2023-01-13,63,0.651,0.986,1,-3.755,0.898,0.271,0.0735,123.969,1,0.513,154839,4
+311,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,6RUKPb4LETWmmr3iAEQktW,Something Just Like This,Memories...Do Not Open,album,2017-04-07,81,0.617,0.635,11,-6.769,1.44e-05,0.164,0.0498,103.019,0,0.446,247160,4
+312,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,15vzANxN8G9wWfwAJLLMCg,Paris,Paris,single,2017-01-13,66,0.646,0.644,2,-6.763,0.0,0.0888,0.0243,99.999,1,0.251,221520,4
+313,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,1HOlb9rdNOmy9b1Fakicjo,#SELFIE,#SELFIE,single,2014-01-01,60,0.789,0.916,0,-3.262,8.09e-06,0.077,0.0135,127.956,1,0.658,183750,4
+314,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3g0mEQx3NTanacLseoP0Gw,Takeaway,World War Joy,album,2019-12-06,70,0.528,0.511,3,-8.144,0.0,0.101,0.126,100.1,1,0.351,209880,4
+315,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2h4HvAKEVp9eehdkGb5Jpm,Cyanide,So Far So Good,album,2022-06-08,45,0.583,0.707,0,-6.303,0.0,0.105,0.0181,104.022,1,0.279,273385,4
+316,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,4BiiOzZCrXEzHRLYcYFiD5,Hope,Sick Boy,album,2018-12-14,61,0.773,0.699,1,-5.982,3.6e-06,0.0814,0.488,104.941,0,0.513,180120,4
+317,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,1PTQ22h4JKA2u6BTbuZ5Oc,Chain Smokin',Chain Smokin',single,2016-07-29,63,0.384,0.834,1,-3.84,0.0,0.125,0.152,203.888,0,0.266,222133,4
+318,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,58kZ9spgxmlEznXGu6FPdQ,Sick Boy,Sick Boy,album,2018-12-14,64,0.663,0.577,11,-7.518,0.0,0.12,0.109,89.996,0,0.454,193200,4
+319,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,0wfbD5rAksdXUzRvMfM3x5,The One,Memories...Do Not Open,album,2017-04-07,55,0.76,0.303,2,-11.362,8.09e-06,0.294,0.238,99.991,1,0.15,177573,4
+320,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,5FvGI8KtImlEbOsvEW3pfX,The Fall,So Far So Good,album,2022-06-08,64,0.664,0.939,0,-4.699,0.0142,0.167,0.011,121.979,0,0.285,196022,4
+321,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3TKpJrY9q49Mj1JOsM9zGL,Family,World War Joy,album,2019-12-06,56,0.584,0.607,11,-6.605,0.0,0.101,0.426,117.817,1,0.374,194827,4
+322,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2fVHrSxsQbJUuj9MW9zG1e,Who Do You Love,World War Joy,album,2019-12-06,67,0.51,0.846,3,-4.595,0.0,0.208,0.0101,139.927,1,0.475,226733,4
+323,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2rizacJSyD9S1IQUxUxnsK,All We Know,All We Know,single,2016-09-29,67,0.662,0.586,0,-8.821,0.00272,0.115,0.097,90.0,1,0.296,194080,4
+324,1anyVhU62p31KFi8MEzkbf,Chance the Rapper,4Jh8aypoHtCqv5GPzZxPsz,Chain Smoker,Acid Rap,album,2013-04-30,47,0.661,0.557,1,-8.798,0.000128,0.169,0.0202,110.967,1,0.412,210562,4
+325,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2bQhVQbV7VBzSOPo8mbkUR,Beach House,Sick Boy,album,2018-12-14,52,0.4,0.838,0,-4.491,0.0,0.341,0.174,179.945,1,0.533,206120,4
+326,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3K01yfjGY0NslZrXkWVAtK,Siren,Sick Boy,album,2018-12-14,41,0.588,0.779,4,-4.284,0.0114,0.371,0.351,150.015,0,0.264,174307,4
+327,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,4HEuDdg39xP8qgkJqop6CG,Channel 1,So Far So Good,album,2022-06-08,44,0.704,0.451,0,-7.632,0.0,0.338,0.403,166.057,1,0.572,199921,4
+328,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3FWPoYBDserKdzcattMFGa,Roses (feat. ROZES),Bouquet,single,2015-10-23,54,0.718,0.808,4,-7.652,0.00414,0.225,0.0299,100.033,1,0.309,225813,4
+329,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2PC9Tl8SWVO2yhDDtJcrAi,Setting Fires,Collage EP,single,2016-11-04,50,0.626,0.717,8,-5.751,0.0,0.261,0.017,105.039,0,0.56,247427,4
+330,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,7Dm3dV3WPNdTgxoNY7YFnc,The Chain - 2004 Remaster,Rumours,album,1977-02-04,60,0.522,0.755,9,-6.95,6.63e-05,0.0781,0.0517,151.796,1,0.637,269813,4
+331,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,5brMyscUnQg14hMriS91ks,Kanye,Kanye,single,2014-08-05,51,0.599,0.614,10,-6.573,1.56e-06,0.117,0.00203,128.044,1,0.122,229947,4
+332,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,07DqkQrhTC0HmQWewLnax9,If You're Serious,So Far So Good,album,2022-06-08,49,0.695,0.752,11,-8.988,0.00902,0.101,0.000702,111.023,1,0.424,224669,4
+333,1mSJCvDX0W7Dn7S9C6vmvI,Anna of the North,08qjPXZBdEyif5PxU2AY9S,Sway - Chainsmokers Remix,Sway (Chainsmokers Remix),single,2014-10-07,46,0.673,0.795,2,-6.21,0.0111,0.117,0.0555,105.025,1,0.437,180571,4
+334,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,5d8a5B6RlYnquvR4X4OIrX,Time Bomb,So Far So Good,album,2022-06-08,54,0.842,0.681,1,-5.73,2.32e-05,0.125,0.232,109.97,0,0.872,203062,4
+335,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,7crMiinWx373rNBZBaVske,Closer,Collage EP,single,2016-11-04,48,0.738,0.541,8,-5.597,0.0,0.11,0.415,94.949,1,0.657,245507,4
+336,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,12MqM3S0fTvR6X4Jt1Xvn6,Until You Were Gone,Until You Were Gone,single,2015-09-18,49,0.577,0.698,1,-4.773,0.0,0.131,0.0541,128.061,1,0.324,215625,4
+337,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,09EVL34Hr8e1jzFF5Hjb0v,Why Can't You Wait,So Far So Good,album,2022-06-08,56,0.707,0.582,0,-6.308,4.78e-06,0.104,0.0153,115.017,1,0.272,229929,4
+338,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,3mbkAtfG36iBb4HBf1qEb8,Something Different,So Far So Good,album,2022-06-08,45,0.604,0.591,5,-7.756,1.49e-06,0.106,0.0353,150.046,1,0.524,154542,4
+339,2cJyZ3relxSBT15LIGBjLL,Marko Penn,3V9Lo54ikQCiMQxV0Y5t0W,Chainsmoker,Dirty Work,album,2017-06-30,52,0.881,0.63,9,-4.611,6.81e-06,0.0981,0.0872,77.998,1,0.648,147572,4
+340,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,26AuyrZGzWWiYZPSd3XBIg,Bloodstream,Memories...Do Not Open,album,2017-04-07,49,0.62,0.627,9,-5.889,0.0,0.172,0.0317,90.955,1,0.164,224280,4
+341,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,7sG2bWi2eDtvX9vX8yC1Gn,Inside Out,Inside Out,single,2016-04-01,51,0.545,0.65,7,-5.853,7.98e-06,0.122,0.00308,143.937,0,0.121,233773,4
+342,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,2PgMUAn2bBpm8gz6yAXvVL,Kills You Slowly,World War Joy,album,2019-12-06,48,0.696,0.439,1,-8.77,0.0,0.127,0.0636,149.923,0,0.229,213320,4
+343,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,5xhJmd0I15jFcEdqxfCzKk,It Won't Kill Ya,Memories...Do Not Open,album,2017-04-07,51,0.572,0.53,6,-8.521,0.000169,0.127,0.0647,170.138,0,0.12,217613,4
+344,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,0bGLvHd0ApdT4t0shCfpzG,Side Effects,Sick Boy,album,2018-12-14,54,0.669,0.711,8,-6.758,0.0,0.466,0.00217,110.01,1,0.544,172747,4
+345,5ujHxhxEOjzfNA2ZkGNluh,Mauro Rawn,34wLVXeIbiBla1FOmFAxvs,The Chainsmokers,FUTURE DANCE HIT COMPILATION 2021,compilation,2021-03-24,1,0.815,0.681,1,-9.24,0.00143,0.207,0.000858,127.983,1,0.993,58953,4
+346,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,27i7Afdxq40V7qCqHnRTt6,Save Yourself,Sick Boy,album,2018-12-14,42,0.618,0.871,4,-5.154,0.00921,0.0742,0.000989,146.033,0,0.0907,210453,4
+347,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,0oxPA3C0E3zkEDkfYogCb0,Solo Mission,So Far So Good,album,2022-06-08,46,0.669,0.569,3,-6.185,2.39e-06,0.0515,0.169,83.971,0,0.553,265812,4
+348,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,6KXmKsgyW8EtRHlMk1ehKi,Why Can't You Wait - 3LAU Remix,Why Can't You Wait (3LAU Remix),single,2022-06-06,47,0.612,0.679,0,-8.72,0.177,0.164,0.00292,123.964,1,0.13,221613,4
+349,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,5MgBUUjbkQ27Kd9CbeZFLo,Roses (feat. ROZES) - Zaxx Remix,Roses (Remixes) (feat. ROZES),single,2016-01-01,52,0.677,0.881,1,-3.534,0.0146,0.359,0.00445,128.121,0,0.566,190267,4
+350,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0ICvpUuQrVd65WeZjVX44u,Fade,Origins,single,2022-07-01,54,0.785,0.649,6,-4.149,0.0388,0.0793,0.0112,179.966,1,0.472,264048,4
+351,3z88pgkx0YCQiXdNMhkzpk,Awan Rizky,4kSTX3DcbtXqddYykYDJoy,Alan Walker,Alan Walker,album,2022-10-07,27,0.742,0.971,1,-5.077,0.453,0.0877,0.0215,140.009,0,0.722,200592,4
+352,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,698ItKASDavgwZ3WjaWjtz,Faded,Different World,album,2018-12-14,75,0.468,0.627,6,-5.085,7.97e-06,0.11,0.0281,179.642,1,0.159,212107,4
+353,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,7gHs73wELdeycvS48JfIos,Faded,Faded,single,2015-12-04,68,0.589,0.651,6,-5.097,3.2e-06,0.111,0.0291,90.011,1,0.166,212627,4
+354,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,28VbwtsYnj85UEODGpQRem,"Alone, Pt. II",World Of Walker,album,2021-11-26,69,0.673,0.659,3,-4.493,0.0,0.129,0.539,88.011,0,0.628,179053,4
+355,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,3LlmKSHR3Rs0Y3KHQLAYDk,Alone,Different World,album,2018-12-14,70,0.673,0.914,10,-3.962,0.000478,0.186,0.229,97.021,1,0.183,160427,4
+356,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,6SRWhUJcD2YKahCwHavz3X,Darkside,Different World,album,2018-12-14,70,0.43,0.606,4,-5.115,0.0,0.173,0.131,169.988,0,0.123,211680,4
+357,6pWcSL9wSJZQ9ne0TnhdWr,K-391,4jp4Z02kzzg8gK0NmDGgml,Play,Play,single,2019-08-30,67,0.52,0.798,6,-5.498,0.0,0.0932,0.101,101.944,0,0.168,167977,4
+358,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,5CkNcNcocnAWbshrLuCl2B,Somebody Like U,Walkerverse Pt. I & II,album,2022-11-25,61,0.616,0.698,9,-6.496,0.0,0.177,0.153,124.973,1,0.187,191099,4
+359,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0BxhpnfBTbnDfXi7mK4B6B,Ritual,Walkerverse Pt. I & II,album,2022-11-25,59,0.607,0.816,9,-4.853,0.000571,0.0969,0.00157,125.936,1,0.315,145824,4
+360,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,5Q7xgSQqyhwrC2fJAXLeWE,Interlude,Different World,album,2018-12-14,44,0.467,0.0262,7,-14.617,0.95,0.132,0.917,130.253,1,0.218,79107,4
+361,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,7dRlvfMWDLG11RidzmLrWe,Hello World,Walkerverse Pt. I & II,album,2022-11-25,51,0.658,0.649,10,-6.546,2.51e-05,0.193,0.0073,104.103,0,0.122,171586,4
+362,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1zS7wXUlPhxdOgGZ7RorQ2,Hello World,Hello World,single,2022-03-04,57,0.651,0.646,10,-6.548,3.19e-05,0.193,0.00738,104.139,0,0.124,171586,4
+363,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,6k1Q8mNcA2jFH0uv5B6g9G,Sorry,World Of Walker,album,2021-11-26,55,0.542,0.561,5,-7.029,0.0704,0.135,0.437,175.998,0,0.183,165388,4
+364,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,7dcmZskqXONZuIuqGRLJ1C,Intro,Different World,album,2018-12-14,49,0.399,0.222,5,-11.073,0.802,0.0906,0.864,128.231,1,0.0387,76120,4
+365,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1DpcBu9lrHO6tmboAkdY4B,Spectre,Origins,single,2022-07-01,53,0.805,0.758,4,-4.819,0.335,0.125,0.000875,127.95,1,0.423,230635,4
+366,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,2DGa7iaidT5s0qnINlwMjJ,The Spectre,The Spectre,single,2017-09-15,68,0.654,0.711,1,-7.437,0.00191,0.0903,0.0214,127.957,0,0.198,193788,4
+367,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1hf9Wu2l0XIgAcTZLSAUJe,Shut Up,Walkerverse Pt. I & II,album,2022-11-25,68,0.378,0.614,1,-3.809,0.0,0.309,0.13,175.937,0,0.451,132955,4
+368,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0JiVRyTJcJnmlwCZ854K4p,Alone,Alone,single,2016-12-02,58,0.676,0.929,10,-3.194,0.000405,0.121,0.186,97.019,1,0.157,161200,4
+369,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,6GZaY8DSHOgllwQ28ok7Rs,Heading Home,World Of Walker,album,2021-11-26,49,0.73,0.772,10,-4.514,0.0,0.0707,0.0276,107.996,1,0.0951,187085,4
+370,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,02Jk9LuQmKe6YYFfcRdXpY,Faded (Interlude),Different World,album,2018-12-14,46,0.347,0.306,6,-19.755,0.967,0.166,0.761,179.792,1,0.0862,41867,4
+371,3o6ANFc1elhbAeqRYphStE,The Walkers,66TdgLCf9Bic8nBsNv0YuD,Unity,Unity,single,2022-06-03,60,0.61,0.661,11,-6.801,2.14e-05,0.11,0.093,114.894,1,0.197,204533,4
+372,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0nrWZWkJM62ftQJSI8fDc0,Diamond Heart,Different World,album,2018-12-14,58,0.478,0.633,0,-6.19,0.0,0.41,0.123,89.909,1,0.287,240333,4
+373,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,22O2Zdfj3jnJZDSzlDMAJp,Heading Home,Heading Home,single,2020-04-01,54,0.73,0.789,10,-3.982,0.0,0.129,0.0269,107.981,1,0.106,184889,4
+374,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0bMbDctzMmTyK2j74j3nF3,"Alone, Pt. II","Alone, Pt. II",single,2019-12-27,70,0.67,0.668,3,-4.306,0.0,0.133,0.536,88.033,0,0.608,179053,4
+375,5WUlDfRSoLAfcVSX1WnrxN,Sia,6LUOMjoORvAkdhBYvESO46,Move Your Body - Alan Walker Remix,This Is Acting (Deluxe Version),album,2016-10-21,63,0.636,0.789,10,-4.905,0.000896,0.391,0.0834,128.028,0,0.4,217907,4
+376,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0HmONWWIU1FXkwWLDpqrjl,Faded - Instrumental,Faded,single,2015-12-04,47,0.75,0.617,6,-6.725,0.318,0.105,0.00073,89.968,1,0.108,214013,4
+377,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,19TSNGmvdTtlxYn4YqYUMf,Routine,Routine,single,2016-11-30,53,0.641,0.824,6,-3.706,0.0621,0.258,0.0624,115.003,0,0.257,166973,4
+378,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1snWlbcbgQpJfknoI30DWG,Darkside,Darkside,single,2018-07-27,57,0.425,0.642,4,-5.06,0.0,0.118,0.164,170.008,0,0.112,211867,4
+379,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1zOOl8f7qkjj0AmvlCfLyQ,The Drum,The Drum,single,2022-04-29,65,0.783,0.762,6,-4.727,6.56e-05,0.092,0.158,127.993,1,0.33,189288,4
+380,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,2xcNKsFTcNOyKrlWqIAWCe,Lovesick,Lovesick,single,2022-11-04,50,0.593,0.559,9,-4.696,2.27e-06,0.354,0.00511,122.902,0,0.168,129024,4
+381,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,7kVDkZkZc8qBUBsF6klUoY,I Don't Wanna Go,Different World,album,2018-12-14,56,0.423,0.751,11,-5.632,0.0,0.243,0.136,148.773,1,0.522,161667,4
+382,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1tfVpMI8G6EakZU4rEja4w,Sing Me to Sleep,Different World,album,2018-12-14,61,0.474,0.622,4,-6.381,3.82e-06,0.327,0.0129,176.062,0,0.158,187800,4
+383,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,4J4zx8xGJpuGndrVc06KaT,Diamond Heart,Diamond Heart,single,2018-09-28,55,0.499,0.638,0,-6.145,0.0,0.631,0.129,89.98,1,0.253,239835,4
+384,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,34F4GJFUzPvPJmGrTpyqlZ,Faded (Restrung),Faded,single,2015-12-04,43,0.382,0.382,6,-6.635,0.000309,0.139,0.916,179.844,1,0.293,217053,4
+385,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,0ucwsCom5SsW4r21ht5cpK,Adventure Time,Walkerverse Pt. I & II,album,2022-11-25,45,0.608,0.515,0,-10.529,0.634,0.181,0.0715,130.957,0,0.557,186013,4
+386,23fqKkggKUBHNkbKtXEls4,Kygo,76c4KOymiPUkWEeIIc0DQr,Stranger Things (feat. OneRepublic) - Alan Walker Remix,Kids in Love (Remixes),album,2018-02-14,59,0.659,0.742,0,-4.624,0.0,0.217,0.146,106.947,1,0.729,178413,4
+387,0NGAZxHanS9e0iNHpR8f2W,Alok,7BhmwvCdQZNwuQXSHw5TzP,Headlights (feat. KIDDO),Headlights (feat. KIDDO),single,2022-02-18,68,0.626,0.754,2,-6.217,0.00404,0.157,0.00998,100.015,0,0.317,158400,4
+388,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,3b5Li4QKDVBx1x7fQuu54a,Tired,Tired,single,2017-05-19,59,0.69,0.876,2,-4.159,0.0,0.147,0.0428,123.994,1,0.493,192112,4
+389,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,2DwNvCKsQLtLILczk3I9bA,Blue,Walkerverse Pt. I & II,album,2022-11-25,52,0.492,0.848,8,-6.718,0.000139,0.0665,0.00318,180.015,0,0.49,157566,4
+390,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,31odF1W48AxUG6nPEHQXyg,Ignite (feat. K-391) - Instrumental,Ignite (feat. K-391) [Instrumental],single,2017-04-07,40,0.707,0.843,8,-4.787,0.576,0.0939,0.104,89.996,0,0.532,210307,4
+391,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,4m63ZA9od3vICn0AOEG5qo,Sheep (Alan Walker Relift),Sheep (Alan Walker Relift),single,2018-08-31,44,0.692,0.666,6,-7.998,1.92e-05,0.347,0.0259,89.995,0,0.259,156000,4
+392,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,63dMNGUUu7rXX0NZYVO3Tm,Time - Alan Walker Remix,World Of Walker,album,2021-11-26,47,0.575,0.941,7,-7.908,0.736,0.146,0.0872,127.967,1,0.0387,146053,4
+393,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,1KR9TkyhxqqpOk45WAm7bM,Running Out Of Roses,Walker Racing League,single,2021-09-10,63,0.753,0.539,3,-6.946,0.0,0.0664,0.0505,124.015,1,0.443,136563,4
+394,0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,3abKAw6reL2U3vhAe98ZsY,Issues - Alan Walker Remix,Issues (Alan Walker Remix),single,2017-05-05,53,0.752,0.774,8,-4.379,8.3e-06,0.0993,0.142,113.935,1,0.625,181000,4
+395,7hssUdpvtY5oiARaUDgFZ3,Ina Wroldsen,2r9hCNjupNy2C2g3r6SNz6,Strongest (Alan Walker Remix),Strongest (Alan Walker Remix),single,2017-12-01,62,0.722,0.787,0,-4.013,6.46e-06,0.124,0.0785,92.022,1,0.852,210286,4
+396,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,4heFQCyiW0RUEX1Q1lb008,Different World (feat. CORSAK),Different World,album,2018-12-14,58,0.602,0.752,7,-4.931,0.0,0.13,0.0638,130.037,0,0.331,202907,4
+397,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,5GDpODnukzZZIXXjPWOrDQ,Sky,EDC Las Vegas 2017,compilation,2017-06-09,50,0.696,0.84,7,-5.196,0.801,0.159,0.000202,130.026,0,0.177,203386,4
+398,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,4bMLBGnjAGVFpjAfIkD0UY,Believers,Believers,single,2021-05-14,56,0.649,0.69,8,-5.384,0.0,0.161,0.0247,104.04,0,0.593,159078,4
+399,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,7MDobIiZKLbDDibHDA1fl8,Faded - Tiesto's Northern Lights Remix,Faded (Remixes),single,2016-04-29,51,0.419,0.752,6,-5.605,0.0032,0.129,0.0238,125.846,1,0.129,250280,4
+400,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3PfIrDoz19wz7qK7tYeu62,Don't Start Now,Future Nostalgia,album,2020-03-27,79,0.793,0.793,11,-4.521,0.0,0.0951,0.0123,123.95,0,0.679,183290,4
+401,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Future Nostalgia,album,2020-03-27,80,0.702,0.825,6,-3.787,0.0,0.0674,0.00883,102.977,0,0.915,203064,4
+402,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,39LLxExYz6ewLAcYrzQQyP,Levitating,Future Nostalgia,album,2020-03-27,79,0.695,0.884,6,-2.278,0.0,0.213,0.0561,103.014,0,0.914,203808,4
+403,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,76cy1WJvNGJTj78UqeA5zr,IDGAF,Dua Lipa (Deluxe),album,2017-06-02,76,0.836,0.544,7,-5.975,0.0,0.0824,0.0403,97.028,1,0.51,217947,4
+404,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3AzjcOeAmA57TIOr9zF1ZW,Physical,Future Nostalgia,album,2020-03-27,74,0.647,0.844,0,-3.756,0.000658,0.102,0.0137,146.967,1,0.746,193829,4
+405,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1nYeVF5vIBxMxfPoL0SIWg,Hallucinate,Future Nostalgia,album,2020-03-27,65,0.627,0.69,10,-5.396,0.0,0.0742,0.033,122.053,0,0.627,208505,4
+406,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,2ekn2ttSfGqwhhate0LSR0,New Rules,Dua Lipa (Deluxe),album,2017-06-02,77,0.762,0.7,9,-6.021,1.56e-05,0.153,0.00261,116.073,0,0.608,209320,4
+407,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6pbKWWP8WwTaP5TbSq1vCA,Hallucinate,Future Nostalgia (The Moonlight Edition),album,2021-02-11,61,0.627,0.69,10,-5.396,0.0,0.0742,0.033,122.053,0,0.627,208505,4
+408,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1diS6nkxMQc3wwC4G1j0bh,We're Good,Future Nostalgia (The Moonlight Edition),album,2021-02-11,72,0.722,0.588,6,-5.932,0.0,0.183,0.0319,134.01,1,0.59,165507,4
+409,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,7mFj0LlWtEJaEigguaWqYh,Sweetest Pie,Sweetest Pie,single,2022-03-11,72,0.814,0.628,7,-7.178,0.0,0.101,0.167,123.977,1,0.677,201334,4
+410,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5UncbfPKpWlxsWWyhmM87l,Physical,Future Nostalgia (The Moonlight Edition),album,2021-02-11,65,0.647,0.844,0,-3.756,0.000658,0.102,0.0137,146.967,1,0.746,193829,4
+411,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,2FlcxnvybdwpaMmMhaRtSN,Don't Start Now,Future Nostalgia (The Moonlight Edition),album,2021-02-11,66,0.793,0.793,11,-4.521,0.0,0.0951,0.0123,123.95,0,0.679,183290,4
+412,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6DXZiYUbrYgrVIhfX3U9Z2,Pretty Please,Future Nostalgia,album,2020-03-27,68,0.906,0.474,1,-6.124,5.5e-06,0.286,0.0311,106.976,1,0.656,194607,4
+413,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),Levitating (feat. DaBaby),single,2020-10-01,72,0.702,0.825,6,-3.787,0.0,0.0674,0.00883,102.977,0,0.915,203064,4
+414,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3iYNJX4FTRGlfMQySjlGNr,Future Nostalgia,Future Nostalgia (The Moonlight Edition),album,2021-02-11,58,0.875,0.813,7,-4.502,0.0,0.321,0.00618,114.993,1,0.859,184882,4
+415,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6zrJLhslleCHby0wbUnvVy,Future Nostalgia,Future Nostalgia,album,2020-03-27,55,0.875,0.813,7,-4.502,0.0,0.321,0.00618,114.993,1,0.859,184882,4
+416,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,3JXF3LsUjyDIHjuwhXxdjo,Sweetest Pie,Traumazine,album,2022-08-12,67,0.814,0.626,7,-7.187,0.0,0.101,0.173,123.972,1,0.686,201334,4
+417,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,2nMOodYNHBAQ3Kc1QNimZU,Cool,Future Nostalgia,album,2020-03-27,58,0.469,0.785,5,-4.015,1.55e-06,0.0931,0.133,89.719,0,0.79,209583,4
+418,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6boViHmG6c8ubzxTvcMoJY,Pretty Please,Future Nostalgia (The Moonlight Edition),album,2021-02-11,61,0.906,0.474,1,-6.124,5.5e-06,0.286,0.0311,106.976,1,0.656,194607,4
+419,7CajNmpbOovFoOoasH2HaY,Calvin Harris,7fYRg3CEbk6rNCuzNzMT06,Potion (with Dua Lipa & Young Thug),Potion (with Dua Lipa & Young Thug),single,2022-05-27,71,0.824,0.697,11,-4.869,4.11e-05,0.077,0.158,99.988,0,0.757,214460,4
+420,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,4P76CEIXrrWT2cgS1YrTMr,Genesis,Dua Lipa (Deluxe),album,2017-06-02,56,0.715,0.572,7,-6.853,0.0,0.26,0.0244,113.02,1,0.429,205720,4
+421,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,2eAAEa8pxKF7My0EO4rFgR,Blow Your Mind (Mwah),Dua Lipa (Deluxe),album,2017-06-02,61,0.654,0.796,2,-4.761,0.0,0.0948,0.0188,108.854,0,0.491,178583,4
+422,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,4Ulqu89XempybuL8ApUeqL,Cool,Future Nostalgia (The Moonlight Edition),album,2021-02-11,58,0.469,0.785,5,-4.015,1.55e-06,0.0931,0.133,89.719,0,0.79,209583,4
+423,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3F1P0QzdXtBz0MXy7KIO5w,Fever,Future Nostalgia,album,2020-03-27,65,0.868,0.693,6,-7.052,0.00399,0.106,0.0597,114.999,0,0.396,156911,4
+424,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1LPGXjVWl8EnrnyaOgPpBm,Begging,Dua Lipa (Complete Edition),album,2018-10-19,54,0.683,0.794,8,-4.558,0.0,0.302,0.024,105.941,1,0.327,194107,4
+425,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,41z2bSbbtJ9wiIee4RXdi5,Levitating,Future Nostalgia (The Moonlight Edition),album,2021-02-11,56,0.695,0.884,6,-2.278,0.0,0.213,0.0561,103.014,0,0.914,203808,4
+426,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,2MUKw7zEirXqdZZ3xC4hOf,Hallucinate,Future Nostalgia,album,2020-03-27,50,0.627,0.69,10,-5.396,0.0,0.0742,0.033,122.053,0,0.627,208505,4
+427,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,7toYVidBIpAmM8Ife3LGrP,Physical,Future Nostalgia,album,2020-03-27,54,0.647,0.844,0,-3.756,0.000658,0.102,0.0137,146.967,1,0.746,193829,4
+428,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,7kJlTKjNZVT26iwiDUVhRm,Blow Your Mind (Mwah),Blow Your Mind (Mwah),single,2016-08-26,63,0.654,0.796,2,-4.761,0.0,0.0948,0.0188,108.854,0,0.491,178583,4
+429,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5tFAwDNw4K6KYKCWtta7pe,Fever,Future Nostalgia (The Moonlight Edition),album,2021-02-11,60,0.868,0.693,6,-7.052,0.00399,0.106,0.0597,114.999,0,0.396,156911,4
+430,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3mC8VlVBwdVxCTq4cYZr64,Future Nostalgia,Future Nostalgia,album,2020-03-27,46,0.875,0.813,7,-4.502,0.0,0.321,0.00618,114.993,1,0.859,184882,4
+431,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,0v2boHmWtxMTD2REGN8MbK,Levitating (feat. DaBaby),Future Nostalgia (The Moonlight Edition),album,2021-02-11,64,0.702,0.825,6,-3.787,0.0,0.0674,0.00883,102.977,0,0.915,203064,4
+432,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1ny60YCHhEsxsJXWLhK7b0,IDGAF,Dua Lipa,album,2017-06-02,41,0.836,0.544,7,-5.975,0.0,0.0824,0.0403,97.028,1,0.51,217947,4
+433,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1AVtceapuF36oZqI9gzp0o,Don't Start Now,Future Nostalgia,album,2020-03-27,51,0.793,0.793,11,-4.521,0.0,0.0951,0.0123,123.95,0,0.679,183290,4
+434,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,4Wmjt3ICd1G0geHb2Loho1,Thinking 'Bout You,Thinking 'Bout You,single,2017-01-06,53,0.802,0.481,4,-5.132,0.0,0.152,0.0856,90.973,0,0.468,171947,4
+435,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,0gtSPYz0OHoF7k09Auq1uC,Thinking 'Bout You,Dua Lipa (Deluxe),album,2017-06-02,48,0.802,0.481,4,-5.132,0.0,0.152,0.0856,90.973,0,0.468,171947,4
+436,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6tF92PMv01Ug9Dh8Rmy6nH,New Rules,Dua Lipa,album,2017-06-02,44,0.762,0.7,9,-6.021,1.56e-05,0.153,0.00261,116.073,0,0.608,209320,4
+437,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,4wNQAG2BzbVkLhdajjxGpR,Begging,Dua Lipa (Deluxe),album,2017-06-02,46,0.683,0.794,8,-4.558,0.0,0.302,0.024,105.941,1,0.327,194107,4
+438,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1dI77VhaLcQSgQLSnIs03D,Levitating,Future Nostalgia,album,2020-03-27,52,0.695,0.884,6,-2.278,0.0,0.213,0.0561,103.014,0,0.914,203808,4
+439,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,4PULMUg3AwudcRCzvVmgXT,Break My Heart,Future Nostalgia (The Moonlight Edition),album,2021-02-11,64,0.73,0.729,4,-3.434,1.39e-06,0.349,0.167,113.011,0,0.467,221820,4
+440,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5Vzpmk27VQ9M77SCkSkERq,Future Nostalgia,Future Nostalgia,single,2019-12-13,41,0.875,0.813,7,-4.502,0.0,0.321,0.00618,114.993,1,0.859,184882,4
+441,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5Pc594FhDA2Fa2prE75GT0,Pretty Please,Future Nostalgia,album,2020-03-27,50,0.906,0.474,1,-6.124,5.5e-06,0.286,0.0311,106.976,1,0.656,194607,4
+442,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,7FCfMXYTIiQ9b4hDYs4Iol,Be the One,Dua Lipa (Deluxe),album,2017-06-02,63,0.661,0.651,7,-3.771,1.32e-05,0.056,0.117,87.46,0,0.368,202915,4
+443,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,5px6upUHM3fhOP621Edp4V,Physical,Physical,single,2020-01-30,61,0.647,0.844,0,-3.756,0.000658,0.102,0.0137,146.962,1,0.746,193829,4
+444,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3wJVBz7gvGTwTWVAxFa6ny,Fever,Fever,single,2020-10-29,64,0.868,0.693,6,-7.052,0.00399,0.106,0.0597,114.999,0,0.396,156911,4
+445,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,2e1mzGPBHmdtZR3RRknaXz,Demeanor (feat. Dua Lipa),Faith,album,2021-07-16,56,0.694,0.589,3,-7.309,0.0,0.111,0.365,100.041,0,0.728,184800,4
+446,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,7wIYDzWW82O6Rc4vGuzjND,"I'm Not the Only One - Live from Spotify, London",Spotify Session,single,2016-07-08,59,0.455,0.265,5,-8.468,0.0,0.685,0.861,176.036,1,0.324,195840,4
+447,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,3FtXmgqL32eOqsu05hQ0Vs,IDGAF,Dua Lipa (Deluxe),album,2017-06-02,33,0.831,0.513,7,-7.004,0.0,0.0802,0.041,97.011,1,0.482,216440,4
+448,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,6acdKgBrJoYKbJD6WhG81R,IDGAF,Dua Lipa (Complete Edition),album,2018-10-19,46,0.836,0.544,7,-5.975,0.0,0.0824,0.0403,97.028,1,0.51,217947,4
+449,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,69bQtJECLLhILFjI7ZC4F1,Thinking 'Bout You,Dua Lipa (Complete Edition),album,2018-10-19,39,0.802,0.481,4,-5.132,0.0,0.152,0.0856,90.973,0,0.468,171947,4
+450,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Unorthodox Jukebox,album,2012-12-07,83,0.726,0.698,5,-4.165,0.0,0.309,0.049,143.994,1,0.867,233478,4
+451,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,55h7vJchibLdUkxdlX3fK7,Treasure,Unorthodox Jukebox,album,2012-12-07,77,0.874,0.692,5,-5.28,7.24e-05,0.324,0.0412,116.017,0,0.937,178560,4
+452,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,6b8Be6ljOzmkOmFslEb23P,24K Magic,24K Magic,album,2016-11-17,76,0.818,0.803,1,-4.282,0.0,0.153,0.034,106.97,1,0.632,225983,4
+453,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,2tJulUYLDKOg9XrtVkMgcJ,Grenade,Doo-Wops & Hooligans,album,2010-10-05,74,0.704,0.558,2,-7.273,0.0,0.107,0.148,110.444,0,0.245,222091,4
+454,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,02VBYrHfVwfEWXk5DXyf0T,Leave The Door Open,An Evening With Silk Sonic,album,2021-11-11,79,0.586,0.616,5,-7.964,0.0,0.0927,0.182,148.088,1,0.719,242096,4
+455,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,Unorthodox Jukebox,album,2012-12-07,85,0.612,0.28,0,-8.648,0.0,0.088,0.932,72.795,1,0.387,213827,4
+456,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,7BqBn9nzAq8spo5e7cZ0dJ,Just the Way You Are,Doo-Wops & Hooligans,album,2010-10-05,79,0.635,0.841,5,-5.379,0.0,0.0622,0.0134,109.021,1,0.424,220734,4
+457,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0KKkJNfGyhkQ5aFogxQAPU,That's What I Like,24K Magic,album,2016-11-17,80,0.853,0.56,1,-4.961,0.0,0.0944,0.013,134.066,1,0.86,206693,4
+458,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,161DnLWsx1i3u1JT05lzqU,Talking to the Moon,Doo-Wops & Hooligans,album,2010-10-05,78,0.498,0.59,1,-4.721,0.0,0.107,0.511,145.867,0,0.0784,217867,4
+459,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0kN8xEmgMW9mh7UmDYHlJP,Versace on the Floor,24K Magic,album,2016-11-17,73,0.578,0.574,2,-6.209,0.0,0.083,0.196,174.152,1,0.301,261240,4
+460,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,3xVZYkcuWalGudeKl861wb,Smokin Out The Window,An Evening With Silk Sonic,album,2021-11-11,74,0.627,0.618,2,-8.529,0.0,0.351,0.0558,82.03,1,0.848,197443,4
+461,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,5XMkENs3GfeRza8MfVAhjK,Finesse,24K Magic,album,2016-11-17,66,0.741,0.798,5,-5.342,0.0,0.0232,0.00781,104.953,0,0.939,191000,4
+462,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,4pryE6cN2gFL1FVF5fYINl,Leave The Door Open,An Evening With Silk Sonic,album,2021-11-12,68,0.586,0.616,5,-7.964,0.0,0.0927,0.182,148.088,1,0.719,242096,4
+463,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0mBKv9DkYfQHjdMcw2jdyI,Chunky,24K Magic,album,2016-11-17,66,0.571,0.539,5,-4.446,0.0,0.125,0.0208,202.103,0,0.727,186973,4
+464,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,7jvCeWOSnJs2N3spqobWnO,Skate,An Evening With Silk Sonic,album,2021-11-11,68,0.708,0.598,5,-8.365,0.0,0.17,0.037,112.027,1,0.698,203123,4
+465,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,2ih2U8ttFzCjnQ5njF3SrR,Gorilla,Unorthodox Jukebox,album,2012-12-07,63,0.717,0.544,7,-6.598,5.16e-06,0.0973,0.445,139.959,1,0.641,244493,4
+466,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1GDrGx9VWaAgaekuddnLYq,Treasure,Unorthodox Jukebox,album,2012-12-10,48,0.872,0.699,5,-5.071,0.000121,0.0639,0.0291,116.033,0,0.934,176093,4
+467,7o9Nl7K1Al6NNAHX6jn6iG,Travie McCoy,2M9ULmQwTaTGmAdXaXpfz5,Billionaire (feat. Bruno Mars),Billionaire (feat. Bruno Mars),single,2010-03-09,69,0.633,0.673,6,-6.403,0.0,0.206,0.297,86.776,0,0.659,211160,4
+468,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1I6pKIyaBp4OebTGLJpCCC,Perm,24K Magic,album,2016-11-17,61,0.853,0.871,8,-3.715,6.84e-05,0.198,0.0145,124.021,1,0.863,210053,4
+469,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,2K6vUau7bnZUamjbRSOOvJ,777,An Evening With Silk Sonic,album,2021-11-12,61,0.836,0.622,1,-11.003,0.000566,0.335,0.00269,102.015,1,0.892,165001,4
+470,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,3WTWh2WDk4j8GUCGj4xfOd,Skate,An Evening With Silk Sonic,album,2021-11-12,59,0.708,0.598,5,-8.365,0.0,0.17,0.037,112.027,1,0.698,203123,4
+471,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1oERlssLrpssCAY6Yqqs6c,Smokin Out The Window,An Evening With Silk Sonic,album,2021-11-12,62,0.627,0.618,2,-8.529,0.0,0.351,0.0558,82.03,1,0.848,197443,4
+472,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,2mrZYZGmPFV3QOyYPZ1zsn,Straight up & Down,24K Magic,album,2016-11-17,58,0.552,0.733,3,-6.898,0.0,0.0858,0.0209,143.56,0,0.643,198187,4
+473,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1qCdYQdkWvm4cYXAuOlbyc,Locked out of Heaven,Unorthodox Jukebox,album,2012-12-10,41,0.726,0.698,5,-4.165,0.0,0.309,0.049,143.994,1,0.867,233478,4
+474,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0inMKhbKWOTDA9UBUAKoU6,Natalie,Unorthodox Jukebox,album,2012-12-07,56,0.76,0.733,7,-6.704,0.0,0.0647,0.15,111.975,1,0.611,225027,4
+475,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,30raivfq7rSt5nKltiHfzG,Moonshine,Unorthodox Jukebox,album,2012-12-07,55,0.705,0.784,2,-4.351,4.3e-06,0.0813,0.211,104.98,1,0.418,228573,4
+476,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1WWR7F24UbFi06sfvcnvD8,Grenade,The Grenade Sessions,single,2011-02-08,50,0.704,0.558,2,-7.273,0.0,0.107,0.148,110.444,0,0.245,222091,4
+477,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,7LK0IWXe2Yd0JGgSjJThex,Silk Sonic Intro,An Evening With Silk Sonic,album,2021-11-11,54,0.696,0.553,1,-8.702,3.91e-06,0.617,0.097,114.993,1,0.674,63060,4
+478,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,67BOjO8BESXYNU5E6qDcUv,777,An Evening With Silk Sonic,album,2021-11-11,48,0.832,0.617,7,-11.166,0.000763,0.337,0.00295,102.017,1,0.909,165001,4
+479,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1Ffw1qFqCw2IaozOJ5mL2O,Leave The Door Open - Live,Leave The Door Open (Live),single,2021-04-02,56,0.532,0.683,5,-7.449,0.0,0.984,0.351,147.837,1,0.563,260270,4
+480,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,4K09vJ27xCOreumtSuU6Ao,Silk Sonic Intro,An Evening With Silk Sonic,album,2021-11-12,53,0.696,0.553,1,-8.702,3.91e-06,0.617,0.097,114.993,1,0.674,63060,4
+481,7o9Nl7K1Al6NNAHX6jn6iG,Travie McCoy,16Ldvr8SKdenSlADkLsdYF,Billionaire (feat. Bruno Mars),Billionaire (feat. Bruno Mars),single,2010-03-09,45,0.597,0.752,6,-4.611,0.0,0.124,0.266,86.685,0,0.57,209720,4
+482,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1nSzCAvAvzJj5oIt7m90G0,24K Magic - R3hab Remix,24K Magic (R3hab Remix),single,2017-05-26,50,0.763,0.708,5,-5.692,0.0,0.33,0.146,106.175,0,0.566,158678,4
+483,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,15gVYensbJgM9QDIFjB01c,24K Magic,"NOW That's What I Call Music, Vol. 61",compilation,2017-01-27,34,0.809,0.807,10,-4.284,0.0,0.0814,0.0301,106.983,0,0.598,224760,4
+484,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,5UJshy5HDHdNEVqlJwzsQB,Versace on the Floor (Bruno Mars vs. David Guetta),Versace On The Floor (Bruno Mars vs. David Guetta),single,2017-06-27,55,0.747,0.701,2,-4.902,0.0,0.0712,0.108,100.012,1,0.589,228300,4
+485,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1BEMASUZQDqN5UGxMb1m6A,That's What I Like (feat. Gucci Mane),That's What I Like (feat. Gucci Mane) [Remix],single,2017-04-21,49,0.854,0.564,1,-4.964,0.0,0.0849,0.0171,134.071,1,0.899,234596,4
+486,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,3XFY3bKOme4E3QhJqHS1Pi,Leave The Door Open - Live,Leave The Door Open (Live),single,2021-04-01,47,0.532,0.683,5,-7.449,0.0,0.984,0.351,147.837,1,0.563,260270,4
+487,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,4SaGaLbcshvQ4admgCkYdP,Leave The Door Open,Leave The Door Open (Live),single,2021-04-02,42,0.586,0.616,5,-7.964,0.0,0.0927,0.182,148.088,1,0.719,242096,4
+488,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,4tLihrsL9WMgvI0n9R2bFS,When I Was Your Man,Unorthodox Jukebox,album,2012-12-10,41,0.612,0.28,0,-8.648,0.0,0.088,0.932,72.795,1,0.387,213827,4
+489,3urke0PQu81IIlstxE8gyH,Omni-Science,1tEOxzOagF5KiMwFbfOh9u,BRUNO MARS,Constant Elevation,album,2020-12-22,22,0.78,0.84,0,-5.502,0.000882,0.154,0.797,160.047,1,0.726,157227,4
+490,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,1DKkwzIV0EefeF2c3xmVd3,Gorilla,Unorthodox Jukebox,album,2012-12-10,25,0.719,0.562,7,-6.608,4.5e-06,0.0974,0.453,139.96,1,0.622,244480,4
+491,0YAO9P4v43mlSAgZE5oa55,Bueno,2xzX9MdxN2e36BQkNwYzxH,6am (feat. Bruno Mars) - Bonus Track,"Maloof Money, Vol. 3 (Executive Decisions)",album,2012-12-18,35,0.808,0.569,7,-10.306,0.0,0.307,0.00352,90.019,1,0.851,217053,4
+492,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,12Ft7MPT0MQdhtYMGESnuX,Grenade,"Ciao, Adios! Break up Songs",compilation,2021-08-06,21,0.706,0.558,2,-7.237,0.0,0.118,0.146,110.444,0,0.228,223253,4
+493,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,7em46fpSsZJt5wYRvQ8GJu,Locked Out of Heaven,Hymn for the Weekend - Enjoy It !,compilation,2021-07-09,28,0.726,0.699,5,-4.165,0.0,0.309,0.049,143.994,1,0.866,233478,4
+494,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,6SyF7yNA1hvjy3TVHGOPUt,24K Magic,2000's-2010's Retrogamer,compilation,2021-11-12,20,0.818,0.804,1,-4.282,0.0,0.154,0.034,106.969,1,0.634,225983,4
+495,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,0cANdDDaRBADsRErZIqVjq,Locked Out of Heaven,Après Ski 2023,compilation,2023-02-10,28,0.726,0.699,5,-4.165,0.0,0.309,0.049,143.994,1,0.866,233478,4
+496,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,6i4CbBs85FZ4Wmz5JsX3LW,Talking to the Moon,Talking to the Moon - Soft Pop,compilation,2021-04-23,38,0.523,0.607,1,-4.754,0.0,0.106,0.512,145.837,0,0.0651,217867,4
+497,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,2KkgnlxS4cn5vyysPU9PTk,Grenade,Grenade - RnB Pop Classics,compilation,2021-03-19,18,0.706,0.558,2,-7.237,0.0,0.118,0.146,110.444,0,0.228,223253,4
+498,3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,1oP75mIKhxUPbdYadfKAts,Uptown Funk (feat. Bruno Mars),New Year's Eve - NYE 2018/2019,compilation,2018-12-07,32,0.85,0.67,0,-5.327,8.11e-05,0.0228,0.00974,115.017,1,0.935,270933,4
+499,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,79vInvE8oN1GmF47PASnhu,24K Magic,New Year’s Eve: 100 Uplifting Songs,compilation,2020-12-19,19,0.818,0.804,1,-4.282,0.0,0.154,0.034,106.969,1,0.634,225983,4
+500,711MCceyCBcFnzjGY4Q7Un,AC/DC,2d4e45fmUnguxh6yqC7gNT,Dirty Deeds Done Dirt Cheap,Dirty Deeds Done Dirt Cheap,album,1976-09-20,70,0.668,0.906,11,-4.881,0.00245,0.135,0.214,135.653,0,0.507,231933,4
+501,711MCceyCBcFnzjGY4Q7Un,AC/DC,0C80GCp0mMuBzLf3EAXqxv,Shoot to Thrill,Back In Black,album,1980-07-25,69,0.457,0.904,2,-5.303,0.0879,0.396,0.000239,141.038,1,0.48,317427,4
+502,711MCceyCBcFnzjGY4Q7Un,AC/DC,7LRMbd3LEoV5wZJvXT1Lwb,T.N.T.,High Voltage,album,1976-05-14,74,0.754,0.759,9,-5.218,0.000108,0.101,0.153,126.366,1,0.435,214667,4
+503,711MCceyCBcFnzjGY4Q7Un,AC/DC,4feXJ5IC3avXsVW9WNFSag,Rock N Roll Train,Black Ice,album,2008-10-20,66,0.547,0.931,2,-2.356,0.0118,0.278,0.000998,118.4,1,0.697,261507,4
+504,711MCceyCBcFnzjGY4Q7Un,AC/DC,6rvldt6EoZwzogApECUCwd,Who Made Who,Who Made Who,album,1986-05-24,64,0.514,0.825,0,-5.135,0.293,0.607,0.000286,125.274,1,0.655,207147,4
+505,711MCceyCBcFnzjGY4Q7Un,AC/DC,5YnNWHKCJaJKwbagXDb5Uf,War Machine,Black Ice,album,2008-10-20,58,0.518,0.718,9,-4.355,0.244,0.25,4.85e-05,127.593,1,0.531,189787,4
+506,711MCceyCBcFnzjGY4Q7Un,AC/DC,4wYq5wugZDzQiMZQYG4wVB,Whole Lotta Rosie,Let There Be Rock,album,1977-03-21,61,0.292,0.838,9,-4.459,0.479,0.0953,0.0014,159.176,1,0.423,333800,4
+507,711MCceyCBcFnzjGY4Q7Un,AC/DC,6GzCkTddOn1vSln1gbSr8y,Shoot to Thrill,Iron Man 2,compilation,2010-04-29,53,0.453,0.897,2,-5.376,0.0956,0.365,0.000358,141.167,1,0.492,317800,4
+508,711MCceyCBcFnzjGY4Q7Un,AC/DC,4JDjZ2AzlHnde5uUy0TveV,Realize,POWER UP,album,2020-11-13,53,0.455,0.79,7,-4.049,0.00021,0.0866,3.78e-06,125.964,1,0.22,217467,4
+509,711MCceyCBcFnzjGY4Q7Un,AC/DC,0sfdiwck2xr4PteGOdyOfz,Shot In The Dark,POWER UP,album,2020-11-13,60,0.599,0.787,2,-4.708,5.27e-05,0.064,2.07e-05,114.065,1,0.822,185133,4
+510,711MCceyCBcFnzjGY4Q7Un,AC/DC,1KS8jTXFTx6Ue7GijLLGTU,Decibel,Black Ice,album,2008-10-20,36,0.618,0.722,9,-3.438,0.00361,0.137,0.00153,96.436,0,0.849,213880,4
+511,711MCceyCBcFnzjGY4Q7Un,AC/DC,7vTCGXUv3XOKScExgMtmel,"Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,48,0.3,0.973,1,-5.142,0.0,0.959,0.0167,124.496,1,0.227,284253,4
+512,711MCceyCBcFnzjGY4Q7Un,AC/DC,6ZtrGCcn38kGImt2GPFbJB,Shot In The Dark,Shot In The Dark,single,2020-10-07,53,0.599,0.787,2,-4.708,5.27e-05,0.064,2.07e-05,114.065,1,0.822,185133,4
+513,711MCceyCBcFnzjGY4Q7Un,AC/DC,52UWtKlYjZO3dHoRlWuz9S,Thunderstruck,Iron Man 2,compilation,2010-04-29,57,0.495,0.892,4,-5.601,0.0216,0.207,0.000128,133.474,1,0.231,292413,4
+514,711MCceyCBcFnzjGY4Q7Un,AC/DC,7eHlRQ5acXEIMdGAKe00fO,"Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,49,0.315,0.982,3,-4.872,3.48e-05,0.982,0.000842,130.095,1,0.327,332493,4
+515,711MCceyCBcFnzjGY4Q7Un,AC/DC,2iEGj7kAwH7HAa5epwYwLB,Back In Black,Iron Man 2,compilation,2010-04-29,53,0.437,0.713,9,-5.698,0.00967,0.0946,0.00945,93.618,1,0.77,255640,4
+516,711MCceyCBcFnzjGY4Q7Un,AC/DC,5UKeFkVeUfvP6S43I8s9mt,Jailbreak,'74 Jailbreak,single,1984-10-15,57,0.572,0.835,9,-5.552,0.0144,0.012,0.00953,131.567,1,0.591,280960,4
+517,711MCceyCBcFnzjGY4Q7Un,AC/DC,4SUhlKM0n3ejiHQwqTjb9F,Dirty Deeds Done Dirt Cheap - Live - 1991,Live,album,1992-10-27,35,0.465,0.977,9,-4.382,0.106,0.954,0.00144,140.433,1,0.434,302093,4
+518,711MCceyCBcFnzjGY4Q7Un,AC/DC,1nUk7iNwJ26jIhNaEHt910,D.T.,Who Made Who,album,1986-05-24,35,0.43,0.6,5,-8.259,0.925,0.128,0.0016,99.187,1,0.437,173653,4
+519,711MCceyCBcFnzjGY4Q7Un,AC/DC,1EJIEPzahlUiev5IQ1HnuL,Let's Get It Up,For Those About to Rock (We Salute You),album,1981-11-23,50,0.514,0.904,9,-4.173,0.0334,0.0815,0.000702,108.927,1,0.682,234027,4
+520,711MCceyCBcFnzjGY4Q7Un,AC/DC,4eutZb21bHZerJnxqW5lB0,Rocker,Dirty Deeds Done Dirt Cheap,album,1976-09-20,42,0.431,0.955,1,-4.09,0.703,0.14,0.2,118.051,1,0.481,171093,4
+521,711MCceyCBcFnzjGY4Q7Un,AC/DC,5q7dkO4CQpC3INAvMx55wT,"T.N.T. - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,44,0.322,0.97,8,-4.654,5.97e-05,0.977,0.000956,130.349,1,0.284,237333,4
+522,2ijmJLGSSMcUdHI7sfsJIB,AC/DC Tribute Band,0095tMLywTi164LWQuBjyk,Highway To Hell,The Best Of AC/DC,compilation,2010-07-20,20,0.697,0.716,2,-5.603,0.0,0.11,0.228,114.988,1,0.727,217051,4
+523,711MCceyCBcFnzjGY4Q7Un,AC/DC,1OIYK9Ya6EgwJ4fMngrPcK,Highway to Hell,Iron Man 2,compilation,2010-04-29,52,0.575,0.915,6,-4.845,0.00248,0.123,0.0572,115.768,0,0.465,208920,4
+524,711MCceyCBcFnzjGY4Q7Un,AC/DC,2308VPPaMh7Q3AX1Zap99A,Rock 'N' Roll Damnation,Powerage,album,1978-05-05,50,0.524,0.995,9,-2.676,0.147,0.0819,0.0327,133.596,1,0.323,217640,4
+525,711MCceyCBcFnzjGY4Q7Un,AC/DC,2P884dqfjksDMSzUZksfrS,Hells Bells,Who Made Who,album,1986-05-24,47,0.392,0.887,4,-4.733,0.00821,0.141,0.00562,107.677,0,0.282,312893,4
+526,711MCceyCBcFnzjGY4Q7Un,AC/DC,4f5V6rbtGt67AWtNGRS9vx,Thunderstruck - Live - 1991,Live,album,1992-10-27,38,0.255,0.973,4,-5.579,0.0388,0.728,0.000774,135.116,1,0.0671,395227,4
+527,711MCceyCBcFnzjGY4Q7Un,AC/DC,4Kqmo5fHocP1zyjBdppjkJ,Dirty Deeds Done Dirt Cheap - Original Australian Release,Backtracks,compilation,2009-11-10,28,0.641,0.917,11,-5.084,8.16e-06,0.164,0.212,135.227,0,0.387,250293,4
+528,711MCceyCBcFnzjGY4Q7Un,AC/DC,7sZKoFbEu4mPuCMX5cxLSb,Beating Around the Bush,Highway to Hell,album,1979-07-27,45,0.476,0.889,1,-5.733,0.102,0.17,0.00102,115.754,0,0.493,235707,4
+529,711MCceyCBcFnzjGY4Q7Un,AC/DC,5yx3jekDsFzX987CIHX2Yn,Spoilin' for a Fight,Black Ice,album,2008-10-20,43,0.578,0.823,9,-3.163,0.00254,0.0721,5.59e-05,123.429,1,0.387,197080,4
+530,711MCceyCBcFnzjGY4Q7Un,AC/DC,7JLqofLzcpdjFHc6oRSBGf,"Back In Black - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,45,0.324,0.95,8,-4.553,1.28e-06,0.987,0.000593,92.703,1,0.511,255053,4
+531,711MCceyCBcFnzjGY4Q7Un,AC/DC,726FgWV2ZRP5rkJ5MfGbSr,Thunderstruck - Live - 1991,Live (Collector's Edition),album,1992-10-27,36,0.252,0.975,4,-5.548,0.0658,0.747,0.00088,134.818,1,0.0709,395227,4
+532,711MCceyCBcFnzjGY4Q7Un,AC/DC,1uhPCuhxeC9wEYl7smMByK,Systems Down,POWER UP,album,2020-11-13,42,0.649,0.849,9,-4.502,0.0852,0.0949,1.9e-05,116.009,1,0.864,192640,4
+533,711MCceyCBcFnzjGY4Q7Un,AC/DC,0q3cKVAjGC0NqmkcEcQDy8,"Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,42,0.277,0.934,8,-4.788,1.92e-05,0.972,0.000979,140.06,1,0.416,298827,4
+534,2ijmJLGSSMcUdHI7sfsJIB,AC/DC Tribute Band,33YsIW2og4p9E7uTmNGrqR,Let There Be Rock,The Best Of AC/DC,compilation,2010-07-20,12,0.441,0.797,11,-4.406,0.509,0.126,0.000368,181.96,0,0.314,372238,4
+535,711MCceyCBcFnzjGY4Q7Un,AC/DC,1V6kRlJnTC4W319N0BvJag,If You Want Blood (You've Got It),Iron Man 2,compilation,2010-04-29,46,0.479,0.923,9,-4.034,0.137,0.43,0.0264,141.255,1,0.553,273840,4
+536,711MCceyCBcFnzjGY4Q7Un,AC/DC,5Mu7WviNvT9yJeF79V1HS5,Highway to Hell - Live - 1991,Live,album,1992-10-27,35,0.491,0.982,2,-5.093,0.0575,0.968,0.00552,120.323,1,0.309,237200,4
+537,711MCceyCBcFnzjGY4Q7Un,AC/DC,1nuPjx9gZH0aHZt8Q5Njx6,Code Red,POWER UP,album,2020-11-13,45,0.549,0.731,2,-5.617,1.28e-05,0.0655,0.000123,86.239,1,0.622,211147,4
+538,711MCceyCBcFnzjGY4Q7Un,AC/DC,4OrKIUhgiIiOefxwmrVedV,Anything Goes,Black Ice,album,2008-10-20,41,0.605,0.9,2,-2.717,0.0271,0.0466,0.000522,120.895,1,0.467,202160,4
+539,711MCceyCBcFnzjGY4Q7Un,AC/DC,6r9ruVF8mF1QTH1J2S89G3,Dirty Deeds Done Dirt Cheap - Live - 1991,Live (Collector's Edition),album,1992-10-27,30,0.484,0.982,9,-4.392,0.183,0.949,0.00115,140.354,1,0.456,302693,4
+540,711MCceyCBcFnzjGY4Q7Un,AC/DC,6MWkewqqntx7y6AyOqEoXM,T.N.T. - Live - 1991,Live,album,1992-10-27,32,0.455,0.979,2,-4.727,0.00236,0.419,0.00222,128.301,1,0.49,227707,4
+541,711MCceyCBcFnzjGY4Q7Un,AC/DC,1Eaqc5EdMMvFcI4Z1Wh4VG,T.N.T. - Live - 1991,Live (Collector's Edition),album,1992-10-27,29,0.445,0.977,2,-4.766,0.00306,0.417,0.00274,128.264,1,0.47,228160,4
+542,711MCceyCBcFnzjGY4Q7Un,AC/DC,3C4D0HOQdvc4AWhMeW4fFt,"Shoot to Thrill - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,40,0.309,0.973,1,-5.045,7.64e-06,0.991,0.000698,139.89,1,0.222,355987,4
+543,711MCceyCBcFnzjGY4Q7Un,AC/DC,6cSa4xkauqRSuZs7CrW3c4,"Highway to Hell - Live Tushino Airfield, Moscow, Sept. 28, 1991",Backtracks,compilation,2009-11-10,28,0.385,0.989,2,-5.455,0.00137,0.986,0.000232,127.573,1,0.194,238987,4
+544,711MCceyCBcFnzjGY4Q7Un,AC/DC,4eoGQROWDgOs43F0WEYR8a,Whole Lotta Rosie - Live - 1991,Live,album,1992-10-27,33,0.35,0.984,7,-5.412,0.311,0.971,4.01e-05,98.673,1,0.263,269973,4
+545,711MCceyCBcFnzjGY4Q7Un,AC/DC,2hzg8fX8NGSK4loyJbNLr1,"Rock N Roll Train - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",Live at River Plate,album,2012-11-19,44,0.461,0.965,1,-5.087,2.17e-05,0.931,0.000379,125.742,1,0.432,281280,4
+546,711MCceyCBcFnzjGY4Q7Un,AC/DC,5dvfYJR8yXaO9SHtqJWeL5,Back In Black - Live - 1991,Live,album,1992-10-27,37,0.471,0.984,9,-4.211,0.000739,0.95,0.000585,96.542,1,0.426,266533,4
+547,711MCceyCBcFnzjGY4Q7Un,AC/DC,00xP5q2bUJ00LS6MrBSYvw,Stick Around,Backtracks,compilation,2009-11-10,26,0.65,0.584,2,-5.81,0.0325,0.0853,0.00896,119.27,1,0.696,278707,4
+548,711MCceyCBcFnzjGY4Q7Un,AC/DC,4Pm55wDKHjx8JQtzUK0loE,Stormy May Day,Black Ice,album,2008-10-20,37,0.525,0.789,0,-4.05,0.000207,0.101,0.00026,95.319,1,0.222,190213,4
+549,711MCceyCBcFnzjGY4Q7Un,AC/DC,1MfedNodDKkvTVkNkwIBSo,Back In Black - Live - 1991,Live (Collector's Edition),album,1992-10-27,34,0.46,0.984,9,-4.239,0.000697,0.937,0.000513,96.468,1,0.447,267373,4
+550,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4EWCNWgDS8707fNSZ1oaA5,Heartless,808s & Heartbreak,album,2008-11-24,81,0.79,0.647,10,-5.983,0.0,0.248,0.0515,87.999,0,0.654,211000,4
+551,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5TRPicyLGbAF2LGBFbHGvO,Flashing Lights,Graduation,album,2007-09-11,80,0.639,0.628,6,-7.578,0.0,0.386,0.0381,90.482,0,0.43,237507,4
+552,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3sNVsP50132BTNlImLx70i,Bound 2,Yeezus,album,2013-06-18,81,0.367,0.665,1,-2.821,0.0,0.113,0.145,148.913,1,0.31,229147,4
+553,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3DK6m7It6Pw857FcQftMds,Runaway,My Beautiful Dark Twisted Fantasy,album,2010-11-22,75,0.374,0.568,1,-3.825,0.00219,0.513,0.219,84.733,0,0.111,547733,4
+554,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,19a3JfW8BQwqHWUMbcqSx8,Famous,The Life Of Pablo,album,2016-06-10,68,0.465,0.735,6,-3.715,0.0,0.0975,0.0711,173.935,1,0.409,196040,4
+555,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,2gZUPNdnz5Y45eiGxpHGSc,POWER,My Beautiful Dark Twisted Fantasy,album,2010-11-22,74,0.542,0.914,0,-4.747,0.0,0.744,0.0161,153.993,0,0.576,292093,4
+556,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,6Hfu9sc7jvv6coyy2LlzBF,Hurricane,Donda,album,2021-08-29,69,0.587,0.561,0,-6.569,0.0,0.109,0.0466,80.009,1,0.351,243187,4
+557,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3nAq2hCr1oWsIU54tS98pL,Waves,The Life Of Pablo,album,2016-06-10,68,0.557,0.586,10,-4.57,7.33e-06,0.339,0.0528,96.091,1,0.0681,181573,4
+558,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5SkRLpaGtvYPhw02vZhQQ9,All Falls Down,The College Dropout,album,2004-02-10,75,0.657,0.734,8,-4.832,0.0,0.139,0.149,91.03,0,0.434,223507,4
+559,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0j2T0R9dR9qdJYsB7ciXhf,Stronger,Graduation,album,2007-09-11,78,0.617,0.717,10,-7.858,0.0,0.408,0.00564,103.992,0,0.49,311867,4
+560,3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,4Li2WHPkuyCdtmokzW2007,Ni**as In Paris,Watch The Throne (Deluxe),album,2011-08-08,81,0.789,0.858,1,-5.542,0.0,0.349,0.127,140.022,1,0.775,219333,4
+561,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5g1vtHqi9uV7xtYeCcFOBx,Jesus Walks,The College Dropout,album,2004-02-10,66,0.637,0.834,3,-4.686,0.0,0.317,0.614,87.312,0,0.715,193733,4
+562,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4iz9lGMjU1lXS51oPmUmTe,Homecoming,Graduation,album,2007-09-11,76,0.667,0.747,1,-7.059,0.0,0.115,0.337,86.917,1,0.918,203493,4
+563,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,23SZWX2IaDnxmhFsSLvkG2,Gorgeous,My Beautiful Dark Twisted Fantasy,album,2010-11-22,66,0.598,0.713,6,-3.625,0.000175,0.431,0.0207,91.964,0,0.118,357653,4
+564,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,454Epa1vrCGFddHXKyC1kb,Water,JESUS IS KING,album,2019-10-25,51,0.505,0.281,2,-12.404,0.000254,0.163,0.57,82.338,1,0.283,168420,4
+565,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0m3Ze0cy8qBHSsV2exAfCw,Amazing,808s & Heartbreak,album,2008-11-24,60,0.588,0.554,8,-8.406,0.118,0.0619,0.216,146.133,1,0.496,238333,4
+566,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,1eQBEelI2NCy7AUTerX0KS,Ultralight Beam,The Life Of Pablo,album,2016-06-10,65,0.592,0.403,0,-8.768,0.0,0.54,0.62,105.169,0,0.391,320680,4
+567,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,7vgTNTaEz3CsBZ1N4YQalM,Ghost Town,ye,album,2018-06-01,73,0.573,0.545,7,-4.247,0.0,0.329,0.0969,83.378,0,0.297,271387,4
+568,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4ZPdLEztrlZqbJkgHNw54L,Good Life,Graduation,album,2007-09-11,70,0.439,0.808,1,-6.881,0.0,0.439,0.00305,82.962,1,0.487,207000,4
+569,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,44I7sqKYCAa7bQdVywkShO,Hurricane,Hurricane,single,2021-08-27,61,0.477,0.566,0,-6.521,0.0,0.127,0.0344,78.293,1,0.361,238183,4
+570,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4UQMOPSUVJVicIQzjAcRRZ,Champion,Graduation,album,2007-09-11,67,0.693,0.504,6,-8.306,0.0,0.695,0.00299,102.139,1,0.723,167600,4
+571,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,2dxjKgT0li4qBI3QwuN9Ih,Touch The Sky,Late Registration,album,2005-08-30,68,0.552,0.846,9,-4.912,0.0,0.309,0.0114,98.56,1,0.554,236600,1
+572,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4mmkhcEm1Ljy1U9nwtsxUo,Through The Wire,The College Dropout,album,2004-02-10,70,0.571,0.739,7,-6.11,5.21e-06,0.158,0.00865,83.089,1,0.66,221227,4
+573,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,432hUIl3ISDeytYW5XBQ5h,Wolves,The Life Of Pablo,album,2016-06-10,64,0.395,0.392,1,-8.034,0.00173,0.134,0.219,155.856,1,0.103,301587,4
+574,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,6LNoArVBBVZzUTUiAX2aKO,Off The Grid,Donda,album,2021-08-29,68,0.546,0.64,8,-5.582,0.0,0.137,0.0438,137.728,1,0.63,339250,4
+575,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4qikXelSRKvoCqFcHLB2H2,Mercy,Mercy,single,2012-01-01,68,0.563,0.496,6,-9.381,5.8e-05,0.173,0.0685,139.993,0,0.426,329320,4
+576,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,6MXXY2eiWkpDCezVCc0cMH,Good Morning,Graduation,album,2007-09-11,68,0.48,0.631,7,-5.488,0.000105,0.149,0.0791,84.164,1,0.515,195093,4
+577,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0oPOuDmmkVp3h6puekhs6P,Use This Gospel,JESUS IS KING,album,2019-10-25,56,0.611,0.459,0,-3.926,0.0,0.126,0.614,148.28,0,0.177,213878,4
+578,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3F18I7LhWKxlf1PytSoTBH,Welcome To Heartbreak,808s & Heartbreak,album,2008-11-24,57,0.677,0.435,7,-11.024,0.721,0.111,0.0985,95.991,0,0.0729,262933,4
+579,0NbfKEOTQCcwd6o7wSDOHI,The Game,6Ab81Bs9fcOwaTYuBsUUpI,Eazy,Eazy,single,2022-01-15,59,0.716,0.551,1,-6.987,0.0,0.197,0.167,82.393,1,0.305,234288,4
+580,1cNDP5yjU5vjeR8qMf4grg,YNW Melly,6vWEAOUSxohKxhp0K1BsxL,Mixed Personalities (feat. Kanye West),We All Shine,album,2019-01-18,66,0.661,0.44,2,-9.104,0.0,0.128,0.457,149.937,1,0.352,230400,4
+581,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5CGS4UovzA7ftCJkLVXQju,I Love Kanye,The Life Of Pablo,album,2016-06-10,60,0.756,0.374,5,-7.966,0.0,0.217,0.594,80.326,1,0.966,44827,4
+582,14CHVeJGrR5xgUGQFV5BVM,Fivio Foreign,4huBDGP4I3S0pYI0EaRN1c,City of Gods,City of Gods,single,2022-02-11,63,0.474,0.801,8,-5.978,0.0,0.322,0.102,147.356,0,0.497,256000,4
+583,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,6yIjtVtnOBeC8SwdVHzAuF,Heard 'Em Say,Late Registration,album,2005-08-30,60,0.744,0.696,7,-8.313,0.0454,0.128,0.0535,95.07,0,0.563,203733,4
+584,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,2RRFTLIglxHgAYQzsSLI4Y,Coldest Winter,808s & Heartbreak,album,2008-11-24,53,0.761,0.516,0,-10.229,3.21e-06,0.265,0.171,133.999,1,0.562,164333,4
+585,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,65rRB2mspD309xE6YimZTl,Clique,Kanye West Presents Good Music Cruel Summer,compilation,2012-01-01,62,0.66,0.539,9,-5.947,0.0,0.222,0.0534,109.318,0,0.307,293613,5
+586,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,39JRmdKFka1Oe09FoOCPI4,Selah,JESUS IS KING,album,2019-10-25,56,0.482,0.618,9,-5.673,0.000859,0.32,0.647,90.076,0,0.146,164620,3
+587,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,68RhNM8ehkarnEKnCkqlsp,24,Donda,album,2021-08-29,57,0.386,0.534,5,-6.086,0.0,0.351,0.129,110.057,0,0.343,197898,4
+588,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,7iOhWWYjhhQiXzF4o4HhXN,Last Call,The College Dropout,album,2004-02-10,54,0.473,0.727,8,-6.843,0.0,0.316,0.577,83.212,1,0.854,760973,4
+589,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0JuSGEldfovcc8IS9va1wa,Believe What I Say,Donda,album,2021-08-29,62,0.595,0.656,7,-7.868,0.0,0.47,0.148,99.811,1,0.416,242400,4
+590,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0IW0qaeyxL5Et4UG2MrJKB,We Don't Care,The College Dropout,album,2004-02-10,60,0.595,0.754,11,-5.827,0.0,0.247,0.0142,83.155,0,0.647,239880,4
+591,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,0w2piYWj1F2bzUftzGJgK9,Paranoid,808s & Heartbreak,album,2008-11-24,59,0.587,0.611,6,-7.408,9.83e-05,0.0765,0.114,114.991,1,0.464,277907,4
+592,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3uYDO9dPLTVrgfwg7EYXSf,Lift Yourself,Lift Yourself,single,2018-04-29,54,0.877,0.435,0,-8.131,1.88e-06,0.115,0.0108,98.008,1,0.589,147905,4
+593,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,45N9i9QraLWD6GW7xBqxnx,Remote Control,Donda,album,2021-08-29,56,0.792,0.548,4,-7.079,7.26e-05,0.167,0.0784,110.105,1,0.197,198614,4
+594,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,1gqkRc9WtOpnGIqxf2Hvzr,On Sight,Yeezus,album,2013-06-18,63,0.605,0.469,9,-3.182,0.0,0.28,0.487,101.601,0,0.515,156480,4
+595,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,3JWiDGQX2eTlFvKj3Yssj3,Closed On Sunday,JESUS IS KING,album,2019-10-25,59,0.799,0.291,11,-7.353,0.000641,0.139,0.873,97.984,0,0.406,151873,4
+596,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,6d8HN8MqqbqrEUI2bvx0aG,Jail,Donda,album,2021-08-29,61,0.458,0.571,4,-6.739,0.000305,0.0846,0.535,110.013,1,0.586,297000,4
+597,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,02LAK7qT1wya0klSeNO96f,RoboCop,808s & Heartbreak,album,2008-11-24,51,0.698,0.447,5,-8.04,0.00564,0.405,0.157,133.776,0,0.407,274360,4
+598,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5VzeI5JM2y9t21JwrWAnkH,Addiction,Late Registration,album,2005-08-30,53,0.504,0.756,1,-8.318,0.0,0.252,0.184,115.264,0,0.55,267067,4
+599,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,4lS5zzdpzIGvgXtw9tVRW9,Flashing Lights,Graduation,album,2007-09-11,56,0.643,0.623,6,-7.605,0.0,0.405,0.0316,90.486,0,0.436,237440,4
+600,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,0vfPEfQk0ZCHExTZ007Ryr,Guns And Roses,Ultraviolence (Deluxe),album,2014-01-01,56,0.533,0.666,8,-8.957,0.00862,0.115,0.3,108.928,0,0.343,270640,4
+601,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,7snQQk1zcKl8gZ92AnueZW,Sweet Child O' Mine,Appetite For Destruction,album,1987-07-21,72,0.446,0.952,6,-5.321,0.0857,0.112,0.0901,125.303,1,0.624,356067,4
+602,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,3YRCqOhFifThpSRFJ1VWFM,November Rain,Use Your Illusion I,album,1991-09-17,76,0.294,0.641,11,-9.316,0.22,0.112,0.0163,79.759,1,0.226,536067,4
+603,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,2N2yrmodOnVF10mKvItC9P,Don't Cry (Original),Use Your Illusion I,album,1991-09-17,75,0.456,0.59,11,-8.638,0.00379,0.104,0.00182,124.635,1,0.243,283733,4
+604,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,6eN1f9KNmiWEhpE2RhQqB5,Paradise City,Appetite For Destruction,album,1987-07-21,68,0.268,0.98,11,-5.958,0.00709,0.182,0.0192,100.315,1,0.395,405600,4
+605,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,4JiEyzf0Md7KEFFGWDDdCr,Knockin' On Heaven's Door,Use Your Illusion II,album,1991-09-18,75,0.496,0.739,6,-7.193,0.00444,0.106,0.0211,132.41,1,0.378,336000,4
+606,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0G21yYKMZoHa30cYVi1iA8,Welcome To The Jungle,Appetite For Destruction,album,1987-07-21,70,0.453,0.987,8,-4.485,0.283,0.268,0.0195,123.544,1,0.316,273480,4
+607,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,6i4Qi1mJxXjqNIL9HfJhRs,Civil War,Use Your Illusion II,album,1991-09-18,65,0.336,0.787,10,-8.803,0.0648,0.32,0.0793,140.003,0,0.383,462093,4
+608,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,7q4Miqc5itaPtd20K2gH4N,ABSUЯD,ABSUЯD,single,2021-08-06,44,0.262,0.944,11,-3.412,0.00051,0.0756,3.43e-05,141.821,1,0.329,203138,4
+609,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,1Pvmzboyxwp1rOVYqwKIgU,Hard Skool,Hard Skool,single,2021-09-24,53,0.364,0.974,11,-1.797,0.0899,0.176,7.11e-05,166.053,1,0.525,221893,4
+610,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,1OEoNpiyqBghuEUaT6Je6U,Patience,Appetite For Destruction (Super Deluxe Edition),album,1987-07-21,67,0.457,0.297,6,-12.511,0.000107,0.109,0.686,120.021,1,0.333,354880,4
+611,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,3s03nrUInN3NAVjQtmnS0O,Estranged,Use Your Illusion II,album,1991-09-18,61,0.359,0.762,11,-8.323,0.281,0.368,0.0105,89.259,1,0.167,563893,4
+612,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,11VGhd5i7deLL0YB0ayicY,Yesterdays,Use Your Illusion II,album,1991-09-18,58,0.363,0.849,6,-7.744,0.00517,0.306,0.0666,170.627,1,0.429,196227,4
+613,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,3q9npStSssk7sZWotiNQLK,November Rain - 2022 Version,Use Your Illusion I (Deluxe Edition),album,2022-11-11,56,0.252,0.797,11,-3.877,0.424,0.344,0.00458,77.972,1,0.199,535733,4
+614,4pADjHPWyrlAF0FA7joK2H,Jay Sean,3xqawWqbJOFhmQewDi2J15,Guns N Roses,Neon,album,2010-01-01,28,0.539,0.701,8,-6.012,0.0,0.163,0.0507,90.97,1,0.286,213813,4
+615,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0dlTGl67UFWcKupzkxZYOn,You Could Be Mine,Use Your Illusion II,album,1991-09-18,67,0.35,0.985,10,-5.676,0.551,0.36,0.00876,151.007,0,0.323,343640,4
+616,0X3nsc84A9qlFilmlWNwQb,Scorey,0LwZjpeiM0f28VpFvqOSYQ,Guns And Roses,Help Is On The Way,album,2022-12-09,43,0.719,0.648,4,-7.76,0.0,0.0724,0.109,77.006,0,0.731,174545,4
+617,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,4InpYF6IH5bhuHwG0R0faj,Sympathy For The Devil,Greatest Hits,compilation,2020-08-28,52,0.31,0.945,8,-6.713,0.0074,0.211,0.0173,108.437,1,0.242,455560,4
+618,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,7CBFRsUz1pz1cS12soVhih,Nightrain,Appetite For Destruction,album,1987-07-21,54,0.394,0.995,1,-4.946,0.00459,0.263,0.13,148.196,1,0.199,268213,4
+619,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,2uKcU4FPX5eOjmd6RWb9OF,Patience,G N' R Lies,album,1988-11-29,45,0.458,0.265,6,-14.452,0.000254,0.192,0.723,120.411,1,0.352,354400,4
+620,4aN7T7NNFFMRJgVbRPne8q,Bohnes,5ZRG567Xw00Gp6ML8y1Ng6,Guns and Roses,206: Act I,album,2018-03-30,32,0.754,0.663,9,-5.661,0.0,0.136,0.0493,109.981,0,0.342,216525,4
+621,4aN7T7NNFFMRJgVbRPne8q,Bohnes,5z3X25qhUkQYqeOyDQtibq,Guns and Roses,Guns and Roses - Single,single,2015-11-20,20,0.726,0.722,9,-4.982,0.0,0.117,0.0553,109.97,0,0.356,214926,4
+622,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,58MgzMT2XiAGTdSiz2i7CT,November Rain,Greatest Hits,compilation,2020-08-28,42,0.243,0.662,11,-8.305,0.317,0.105,0.0184,83.904,1,0.216,536960,4
+623,6K0LeUWrVjVo9nrmlQ9cDe,Katakombe,2oFkWn2h0w139to3zv740y,Guns and Roses,Boja zvuka,single,2022-05-09,22,0.826,0.378,9,-9.485,0.822,0.0898,0.0771,89.023,0,0.509,104490,4
+624,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,58YL9Jo1T0wyijCOZWRmyL,It's So Easy,Appetite For Destruction,album,1987-07-21,50,0.387,0.989,8,-6.182,1.12e-05,0.126,0.0207,150.763,1,0.216,202693,4
+625,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,4vtXsXvSYaTfKQ0dJXbJGu,Dust N' Bones,Use Your Illusion I,album,1991-09-17,51,0.445,0.922,8,-6.665,0.00244,0.181,0.0189,129.502,1,0.449,298160,4
+626,5tNaX5sMEp8f7kzBcGHacw,Yasmeen,0kjKIbNSRNkDGPUiA4QvIF,Guns & Roses,Guns & Roses,single,2020-12-17,10,0.468,0.395,4,-5.486,0.0,0.105,0.754,174.339,1,0.424,207185,3
+627,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,5rGmkQ5cXbDrFPW8CefvFq,Garden Of Eden,Use Your Illusion I,album,1991-09-17,43,0.462,0.998,6,-5.645,0.77,0.651,0.15,106.998,1,0.17,160800,4
+628,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,7KwYyFqMbQ6Kp2NDGxa5jv,Yesterdays,Greatest Hits,compilation,2020-08-28,32,0.359,0.874,6,-6.713,0.00531,0.279,0.052,171.852,1,0.438,194493,4
+629,45yx3InOmVwCaNOV36lECq,Zone6Zakk,1NLZThxM4rtJ30UURhU5T6,GUNZ & ROSES (Intro),Not Done Yet,album,2022-09-30,11,0.685,0.519,2,-9.157,0.000253,0.112,0.00246,147.024,1,0.241,130664,4
+630,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,3EAActrF4r4yfBJTnwQS7q,Welcome To The Jungle,Greatest Hits,compilation,2020-08-28,38,0.44,0.98,8,-4.963,0.462,0.279,0.0258,123.412,1,0.324,271867,4
+631,308gQ5eCBIiSAHmi9tqlJ6,Lucky Dube,7upLoQnQPmBhsO6u4Bamoa,Guns and Roses,Taxman,album,1997-04-07,38,0.728,0.465,9,-11.687,0.000399,0.116,0.00215,142.012,1,0.483,383827,4
+632,3l130bxGOP8cZMezRc13Xk,Matt Mason,1SCaGjIFJsmGGkuoAWhdRH,Guns and Guitars,Where I've Been,album,2008-06-10,43,0.618,0.655,9,-9.215,3.45e-06,0.0764,0.138,129.711,0,0.425,202989,4
+633,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,77bCgbwirSDVeBGHxg00A7,Breakdown,Use Your Illusion II,album,1991-09-18,45,0.306,0.9,6,-7.961,0.0943,0.141,0.00373,86.772,1,0.357,424493,4
+634,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,67q0QsfLcTa2SqhP2wQbia,Used To Love Her,Appetite For Destruction (Super Deluxe Edition),album,1987-07-21,58,0.615,0.902,1,-7.232,2.44e-05,0.15,0.464,135.46,1,0.909,192667,4
+635,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0AQuexMCCz6DMZPT1H12NB,Civil War - 2022 Remaster,Use Your Illusion (Super Deluxe),album,2022-11-11,37,0.335,0.838,10,-6.621,0.0383,0.331,0.121,140.297,0,0.368,460227,4
+636,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,5tqSUxm3Wpql0dlLMrIAp1,Shadow Of Your Love,Shadow Of Your Love,single,2018-05-04,46,0.416,0.995,10,-5.376,0.0902,0.34,0.000164,112.014,0,0.33,185573,4
+637,4pADjHPWyrlAF0FA7joK2H,Jay Sean,1Kdk2E3zOObMu4AS8mnHCG,Guns N Roses,Neon,album,2013-01-01,10,0.539,0.701,8,-6.012,0.0,0.163,0.0507,90.97,1,0.286,213813,4
+638,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0ivarc4umuzp5I3J7lPDJc,Attitude,The Spaghetti Incident?,album,1993-11-23,47,0.34,0.984,1,-2.533,0.0,0.331,0.000249,187.766,1,0.613,87000,4
+639,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0252gwlhPetxhMXxOnzUkc,Patience,Greatest Hits,compilation,2020-08-28,38,0.456,0.264,6,-14.52,0.000129,0.108,0.722,120.407,1,0.362,356093,4
+640,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,6mAfxuTuRz1FWfriiFf57y,Don't Cry,Use Your Illusion II,album,1991-09-18,51,0.43,0.614,8,-8.241,0.0416,0.101,0.000383,124.569,0,0.247,284267,4
+641,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0xeVPts7iVg5UPexuRNRnD,Yesterdays - 2022 Remaster,Use Your Illusion (Super Deluxe),album,2022-11-11,33,0.36,0.871,6,-6.399,0.000613,0.178,0.0695,170.681,1,0.448,197200,4
+642,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,2uduMoxSNLkDBhyLS2JroT,Used To Love Her,G N' R Lies,album,1988-11-29,41,0.615,0.831,1,-9.394,7.26e-05,0.184,0.426,135.114,1,0.914,191360,4
+643,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,7joXH1yHiHff7qqG5iMOBz,Shadow Of Your Love,Greatest Hits,compilation,2020-08-28,34,0.407,0.994,10,-6.228,0.0914,0.337,0.000181,112.036,0,0.371,185573,4
+644,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,1poAC8abf6kX5AV4REltEw,Don't Cry (Original),Greatest Hits,compilation,2020-08-28,40,0.453,0.618,11,-7.63,0.00232,0.102,0.00187,124.641,1,0.198,284093,4
+645,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,5iYgrpWjYY2lge4MEd5el4,Dust N' Bones - 2022 Remaster,Use Your Illusion (Super Deluxe),album,2022-11-11,37,0.449,0.941,8,-4.42,0.00163,0.0601,0.0385,129.656,1,0.425,298987,4
+646,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,3bRwE9L2kWoSFnD60xHC8i,Locomotive (Complicity) - 2022 Remaster,Use Your Illusion (Super Deluxe),album,2022-11-11,31,0.473,0.991,1,-5.275,3.82e-05,0.0454,0.0121,118.435,1,0.4,520813,4
+647,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,4L9bucZIOwGXQruNwEhEUv,Don't Cry (Original) - 2022 Remaster,Use Your Illusion (Super Deluxe),album,2022-11-11,40,0.437,0.625,11,-6.89,0.00506,0.109,0.00143,124.887,1,0.26,284160,4
+648,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,0yB6g1lrwR31f9M54XmcVu,Sweet Child O' Mine,Discover More Classic Rock,compilation,2020-08-10,38,0.436,0.947,6,-4.759,0.073,0.113,0.0876,125.132,1,0.637,355267,4
+649,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,5pxwBcIYQRr01zL7Ya4SX7,"Voodoo Child (Slight Return) / Civil War - Live In New York, Ritz Theatre - May 16, 1991",Use Your Illusion (Super Deluxe),album,2022-11-11,41,0.228,0.941,10,-4.014,0.0031,0.854,0.0336,145.166,0,0.253,529507,4
+650,7oPftvlwr6VrsViSDV7fJY,Green Day,01VnqAxzbuKVunmItkraw5,Green Day,"1,039 / Smoothed out Slappy Hours",album,1991-07-01,32,0.147,0.979,4,-3.418,0.824,0.0481,9.9e-06,193.987,1,0.55,207667,4
+651,7oPftvlwr6VrsViSDV7fJY,Green Day,5GorCbAP4aL0EJ16frG2hd,Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,compilation,2017-11-17,73,0.496,0.682,8,-4.095,2.94e-05,0.0589,0.00552,167.06,1,0.474,262333,4
+652,00bbiv9R4irFfQQsjJ8TVy,Akimbo4s,5Jr05P1llnfLp95R3SQefm,Green Day,episode 2: Akimbo4s,single,2022-01-04,11,0.738,0.738,8,-9.942,0.0,0.326,0.478,130.376,1,0.916,120059,4
+653,7oPftvlwr6VrsViSDV7fJY,Green Day,1Dr1fXbc2IxaK1Mu8P8Khz,When I Come Around,Dookie,album,1994-02-01,72,0.531,0.909,11,-4.236,0.0,0.231,0.0175,97.546,1,0.814,178000,4
+654,7oPftvlwr6VrsViSDV7fJY,Green Day,4VgEM12OeaN3GyBV487Me7,Holiday,Greatest Hits: God's Favorite Band,compilation,2017-11-17,65,0.552,0.89,8,-3.409,0.0,0.888,0.000143,146.525,1,0.716,232680,4
+655,7oPftvlwr6VrsViSDV7fJY,Green Day,0MsrWnxQZxPAcov7c74sSo,Holiday / Boulevard of Broken Dreams,American Idiot,album,2004-09-21,67,0.29,0.827,8,-3.451,2.55e-06,0.301,0.000659,167.086,1,0.45,493400,4
+656,7oPftvlwr6VrsViSDV7fJY,Green Day,6L89mwZXSOwYl76YXfX13s,Basket Case,Dookie,album,1994-02-01,77,0.442,0.943,3,-3.205,8.71e-06,0.091,0.00293,85.064,1,0.781,181533,4
+657,7oPftvlwr6VrsViSDV7fJY,Green Day,64yrDBpcdwEdNY9loyEGbX,21 Guns,21st Century Breakdown,album,2009-05-15,71,0.268,0.742,5,-4.939,0.0,0.626,0.0518,159.779,1,0.416,321093,4
+658,7oPftvlwr6VrsViSDV7fJY,Green Day,1nLnpLXvl68RZCSjfkyiaa,Brain Stew,Insomniac,album,1995-10-10,65,0.559,0.543,1,-5.429,2e-05,0.0577,0.00133,75.958,1,0.337,193000,4
+659,7oPftvlwr6VrsViSDV7fJY,Green Day,7dVDWf0wud70V4PgYfKnaG,Burnout,Dookie,album,1994-02-01,57,0.5,0.921,6,-5.261,0.00118,0.0959,0.000165,90.861,1,0.891,127533,4
+660,7oPftvlwr6VrsViSDV7fJY,Green Day,6ORqU0bHbVCRjXm9AjyHyZ,Good Riddance (Time of Your Life),Nimrod,album,1997-10-14,74,0.475,0.432,7,-7.844,0.0,0.161,0.183,94.605,1,0.648,153467,4
+661,7oPftvlwr6VrsViSDV7fJY,Green Day,0ue0gFLwvXd8qZIPg35Qiu,Warning,Warning,album,2000-10-03,54,0.728,0.92,2,-2.828,1.61e-05,0.199,0.0673,120.989,1,0.892,221667,4
+662,7oPftvlwr6VrsViSDV7fJY,Green Day,3LRJbFT9rKoKv4aW7PuBJC,Longview,Dookie,album,1994-02-01,61,0.381,0.732,10,-7.594,0.0101,0.0854,0.00834,142.504,0,0.814,233240,4
+663,7oPftvlwr6VrsViSDV7fJY,Green Day,4qjfQnccStTR8zNsb6Mizo,Minority,Warning,album,2000-10-03,58,0.551,0.965,0,-2.772,0.0,0.171,0.00576,137.841,1,0.708,168227,4
+664,7oPftvlwr6VrsViSDV7fJY,Green Day,0HJRAM7Gt9jXskuXjZeFX3,Holiday / Boulevard of Broken Dreams,American Idiot (Deluxe),album,2004-09-21,55,0.29,0.827,8,-3.451,2.55e-06,0.301,0.000659,167.086,1,0.45,493400,4
+665,7oPftvlwr6VrsViSDV7fJY,Green Day,45zvStEMsXp8z45OQRhWFJ,American Idiot,American Idiot (Deluxe),album,2004-09-21,61,0.381,0.984,1,-2.42,6.91e-05,0.27,2.53e-05,186.081,1,0.81,174320,4
+666,7oPftvlwr6VrsViSDV7fJY,Green Day,5kr3j5Clb9rjEposoMyLVt,Welcome to Paradise,Dookie,album,1994-02-01,64,0.37,0.96,3,-4.162,0.0116,0.0563,0.000241,89.428,0,0.717,224133,4
+667,5WLMH5YAV6I2yw6r2hCMPZ,DRAMIN,5mjLhYqEDy8Ts7Kv6UQaBt,Green Day,Green Day,single,2022-10-14,18,0.7,0.649,7,-12.962,0.866,0.113,0.003,160.91,1,0.153,130847,4
+668,7oPftvlwr6VrsViSDV7fJY,Green Day,58KPPL1AdLHMvR2O2PZejr,Jesus of Suburbia,American Idiot,album,2004-09-21,62,0.3,0.929,1,-3.214,2.26e-06,0.329,0.000259,147.116,1,0.59,548253,4
+669,7oPftvlwr6VrsViSDV7fJY,Green Day,0RT1qESYHlNcUJI0Yo5Hzl,21st Century Breakdown,21st Century Breakdown,album,2009-05-15,51,0.298,0.963,1,-3.105,0.0,0.178,0.0108,114.944,1,0.407,309107,4
+670,7oPftvlwr6VrsViSDV7fJY,Green Day,3oqYMRKQcwyNmFn1VD2ukD,Revolution Radio,Revolution Radio,album,2016-10-07,53,0.419,0.971,7,-3.622,1.43e-05,0.171,4.63e-05,180.033,1,0.677,180853,4
+671,7oPftvlwr6VrsViSDV7fJY,Green Day,390SemxFYgPZ3FfGVqiIqt,Waiting,Warning,album,2000-10-03,54,0.557,0.834,8,-4.371,0.0,0.329,0.0219,137.69,1,0.659,192360,4
+672,7oPftvlwr6VrsViSDV7fJY,Green Day,2iP4gsbex3yX32fC0kcwMV,Scattered,Nimrod,album,1997-10-14,47,0.507,0.991,4,-3.98,0.00027,0.108,2.93e-05,91.934,1,0.713,182507,4
+673,7oPftvlwr6VrsViSDV7fJY,Green Day,3RBXNeUbe3X7ZBch00D2St,Extraordinary Girl / Letterbomb,American Idiot,album,2004-09-21,46,0.317,0.958,9,-4.051,0.000184,0.103,0.00089,137.921,1,0.422,460000,4
+674,7oPftvlwr6VrsViSDV7fJY,Green Day,2M38zNMI7gCoCwfEUZQPq5,Extraordinary Girl / Letterbomb,American Idiot (Deluxe),album,2004-09-21,44,0.317,0.958,9,-4.051,0.000184,0.103,0.00089,137.921,1,0.422,460000,4
+675,7oPftvlwr6VrsViSDV7fJY,Green Day,0eUJzAGs9OKSOmLVpsng7e,Having a Blast,Dookie,album,1994-02-01,50,0.449,0.938,1,-6.36,0.0,0.353,0.00181,89.695,1,0.825,164667,4
+676,7oPftvlwr6VrsViSDV7fJY,Green Day,0GYTAipuswOBWFtk06kFCL,Redundant,Nimrod,album,1997-10-14,50,0.482,0.946,9,-3.416,0.00172,0.0891,8.77e-06,115.883,1,0.867,198093,4
+677,7oPftvlwr6VrsViSDV7fJY,Green Day,5z2XqieaqxpCJc3ntZ6Ye3,Pulling Teeth,Dookie,album,1994-02-01,48,0.531,0.872,3,-5.064,0.0863,0.109,0.00171,128.211,1,0.877,150827,4
+678,7oPftvlwr6VrsViSDV7fJY,Green Day,70X8BvFV6aeUBnhqPOZEJi,Scattered,Nimrod (25th Anniversary Edition),album,2023-01-27,38,0.474,0.99,4,-3.99,0.00124,0.108,2.57e-05,92.041,1,0.8,182040,4
+679,7oPftvlwr6VrsViSDV7fJY,Green Day,6HlE0n2QzYKa5A9pEzW7ZU,American Idiot,Greatest Hits: God's Favorite Band,compilation,2017-11-17,35,0.381,0.984,1,-2.42,6.91e-05,0.27,2.53e-05,186.081,1,0.81,174320,4
+680,7oPftvlwr6VrsViSDV7fJY,Green Day,1dohIM3mw8wUL3YoYtlpJY,Uptight,Nimrod,album,1997-10-14,41,0.553,0.979,11,-3.567,0.000433,0.162,0.00572,82.491,0,0.55,184160,4
+681,7oPftvlwr6VrsViSDV7fJY,Green Day,10lT3pp9QERGOWiIzLx4We,Jesus of Suburbia,American Idiot (Deluxe),album,2004-09-21,52,0.3,0.929,1,-3.214,2.26e-06,0.329,0.000259,147.116,1,0.59,548253,4
+682,7oPftvlwr6VrsViSDV7fJY,Green Day,1Cq8IdsiaMiieYuLN8iEm0,Chump,Dookie,album,1994-02-01,48,0.221,0.887,10,-8.396,0.177,0.159,0.00023,173.569,1,0.638,174040,4
+683,7oPftvlwr6VrsViSDV7fJY,Green Day,6WlmA3HPHuNIR2mxI8LkZF,Hitchin' a Ride,Nimrod,album,1997-10-14,59,0.424,0.919,9,-4.629,0.00674,0.123,0.00306,163.732,1,0.684,171467,4
+684,7oPftvlwr6VrsViSDV7fJY,Green Day,6uWp8yAt8dN5ZaT7REJ6RV,Jaded,Insomniac,album,1995-10-10,45,0.254,0.995,1,-3.068,4.14e-05,0.0392,3.01e-05,159.336,1,0.843,90227,4
+685,7oPftvlwr6VrsViSDV7fJY,Green Day,3V9QEiXb2iuilvlcm6qXw4,Graffitia,Father of All...,album,2020-02-07,37,0.655,0.795,5,-6.673,0.0,0.297,0.0143,130.968,0,0.364,197601,4
+686,7oPftvlwr6VrsViSDV7fJY,Green Day,3WyuvKgRUhfaFCN9HqLuiR,When I Come Around - BBC Live Session,BBC Sessions (Live),album,2021-12-10,47,0.464,0.835,6,-5.825,0.0,0.106,0.056,97.343,1,0.751,172457,4
+687,7oPftvlwr6VrsViSDV7fJY,Green Day,2UiUTpQkTCmE1OX6senl6j,Jackass,Warning,album,2000-10-03,36,0.509,0.954,7,-2.903,0.0,0.0888,0.000312,94.481,1,0.575,163040,4
+688,7oPftvlwr6VrsViSDV7fJY,Green Day,278Ao6KQDxWGGszv24uvhI,Bang Bang,Revolution Radio,album,2016-10-07,54,0.499,0.958,9,-5.417,2.19e-06,0.432,0.000326,127.491,1,0.359,205440,4
+689,7oPftvlwr6VrsViSDV7fJY,Green Day,35weSxL477aChs1wx7oZS5,Ordinary World,Revolution Radio,album,2016-10-07,49,0.412,0.226,7,-12.377,7.74e-05,0.0871,0.895,168.139,1,0.524,182893,4
+690,7oPftvlwr6VrsViSDV7fJY,Green Day,0CyczDyWZO6iGtRL9MXJwm,Espionage - Demo,Nimrod (25th Anniversary Edition),album,2023-01-27,33,0.148,0.899,4,-7.808,0.972,0.244,9.36e-05,137.434,0,0.646,196209,4
+691,7oPftvlwr6VrsViSDV7fJY,Green Day,4pu474fFUC7hgBBIf2W0S8,21 Guns,Greatest Hits: God's Favorite Band,compilation,2017-11-17,37,0.26,0.719,5,-4.765,0.0,0.454,0.048,159.072,1,0.419,322040,4
+692,7oPftvlwr6VrsViSDV7fJY,Green Day,5jOMxC9ezgFPGSMSn1zJ5S,Peacemaker,21st Century Breakdown,album,2009-05-15,42,0.561,0.956,11,-4.045,6.43e-06,0.359,0.00666,99.473,1,0.796,204080,4
+693,7oPftvlwr6VrsViSDV7fJY,Green Day,6QlyzIamWoVeut7Hc7tZRc,Brat,Insomniac,album,1995-10-10,45,0.323,0.988,11,-4.033,0.0,0.031,0.000212,178.645,1,0.969,103333,4
+694,7oPftvlwr6VrsViSDV7fJY,Green Day,4bOgWjaOVTvhyRpvLxFeEm,86,Insomniac,album,1995-10-10,40,0.189,0.964,3,-4.743,0.00328,0.0505,1.27e-05,188.649,1,0.861,167800,4
+695,7oPftvlwr6VrsViSDV7fJY,Green Day,0cvvRcqBNfVJfYIkZAO1IA,Warning,Greatest Hits: God's Favorite Band,compilation,2017-11-17,30,0.728,0.92,2,-2.828,1.61e-05,0.199,0.0673,120.989,1,0.892,221667,4
+696,7oPftvlwr6VrsViSDV7fJY,Green Day,4ZcnZVXwLDLWI93SLJER3a,Misery,Warning,album,2000-10-03,40,0.703,0.729,10,-5.065,0.0,0.0995,0.0346,161.221,0,0.663,305907,4
+697,7oPftvlwr6VrsViSDV7fJY,Green Day,6SFL3a2JotvZFwTiggc4cb,Platypus (I Hate You),Nimrod,album,1997-10-14,42,0.227,0.985,4,-4.451,2.57e-06,0.0621,5.36e-06,172.726,0,0.606,141440,4
+698,7oPftvlwr6VrsViSDV7fJY,Green Day,11I3KKHv7g2pXiuqRDabRA,Give Me Novacaine / She's a Rebel,American Idiot,album,2004-09-21,53,0.312,0.949,9,-3.533,1.78e-05,0.0569,0.00185,154.795,1,0.65,326200,4
+699,7oPftvlwr6VrsViSDV7fJY,Green Day,4DbANKRc1W9ChH2pWchb58,Alison - Demo,Alison (Demo),single,2023-01-13,53,0.674,0.145,4,-12.082,0.000291,0.29,0.75,88.026,1,0.416,154427,4
+700,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,6bnF93Rx87YqUBLSgjiMU8,Heartless,After Hours,album,2020-03-20,81,0.537,0.746,10,-5.507,1.01e-06,0.156,0.0236,170.062,0,0.252,198267,4
+701,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,5gDWsRxpJ2lZAffh5p7K0w,Stargirl Interlude,Starboy,album,2016-11-24,81,0.715,0.47,5,-12.638,0.0923,0.104,0.353,89.965,0,0.426,111627,4
+702,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,2SLwbpExuoBDZBpjfefCtV,Out of Time,Dawn FM,album,2022-01-06,79,0.65,0.76,0,-4.422,0.0,0.339,0.255,93.057,0,0.838,214194,4
+703,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,2D4dV2KXDTszzJ3p3cFqhA,Less Than Zero,Dawn FM,album,2022-01-06,75,0.535,0.791,0,-5.55,0.000155,0.0788,0.00096,142.981,1,0.5,211814,4
+704,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,00NAQYOP4AmWR549nnYJZu,Secrets,Starboy,album,2016-11-25,69,0.664,0.771,0,-5.779,9.6e-06,0.46,0.0155,109.945,1,0.763,265600,4
+705,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0wzPHTgOtFIDhk2rD3Au4x,Angel,Beauty Behind The Madness,album,2015-08-28,60,0.626,0.583,10,-7.574,0.0,0.115,0.105,127.966,0,0.335,377347,4
+706,77wxSvtu0ClPRN07MoJBZ7,Scoun,4fO4lSl4PT8BqPvexAB7Kn,The WeekEnd,The WeekEnd,single,2019-03-22,30,0.785,0.705,7,-6.574,0.0,0.214,0.0433,139.871,1,0.653,220761,4
+707,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,6QdnKD1zwEgyOWtkrdzlOF,Hurt You,"My Dear Melancholy,",album,2018-03-30,71,0.476,0.718,5,-7.227,0.00261,0.109,0.263,183.932,0,0.361,230027,4
+708,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1nH2PkJL1XoUq8oE6tBZoU,Sacrifice,Dawn FM,album,2022-01-06,75,0.735,0.795,11,-6.523,3.18e-05,0.0678,0.0296,122.0,0,0.905,188918,4
+709,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,6pDVjCUA3B1vg9waKutAsv,Attention,Starboy,album,2016-11-25,64,0.671,0.428,4,-7.052,0.000182,0.119,0.688,148.04,0,0.362,197653,4
+710,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1NhjYYcYTRywc0di98xHxf,"Here We Go… Again (feat. Tyler, the Creator)",Dawn FM,album,2022-01-06,64,0.469,0.623,1,-4.432,0.0,0.588,0.345,134.943,1,0.198,209778,4
+711,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,2Ghp894n1laIf2w98VeAOJ,How Do I Make You Love Me?,Dawn FM,album,2022-01-06,68,0.805,0.498,7,-7.927,2.37e-05,0.085,0.0203,121.006,0,0.636,214215,4
+712,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,4h90qkbnW1Qq6pBhoPvwko,Sidewalks,Starboy,album,2016-11-25,71,0.542,0.72,1,-5.136,0.0,0.348,0.147,149.828,0,0.623,231360,4
+713,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,7IpDQcksaT8SxS7vOX4SRm,What You Need,Trilogy,album,2012-11-13,68,0.657,0.405,0,-8.637,0.072,0.146,0.525,133.895,0,0.0673,196360,4
+714,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1gZADNt16Oh23jWyMYRk4p,Prisoner,Beauty Behind The Madness,album,2015-08-28,65,0.551,0.405,0,-12.756,0.000217,0.11,0.443,135.017,0,0.341,274960,4
+715,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3KyKxJ4P3pVCgaZwaq2rUC,Gasoline,Dawn FM,album,2022-01-06,67,0.728,0.741,6,-7.075,0.00206,0.33,0.000582,123.006,0,0.31,212166,4
+716,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,0mt02gJ425Xjm7c3jYkOBn,Lust For Life (with The Weeknd),Lust For Life,album,2017-07-21,69,0.504,0.655,0,-8.644,0.00193,0.364,0.604,99.982,0,0.262,264066,4
+717,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1m5kZFmm90hPXzXr1Hpsne,Acquainted,The Highlights,compilation,2021-02-05,45,0.386,0.486,7,-9.845,0.0,0.0889,0.437,105.79,0,0.237,348883,4
+718,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3H3qBumaYj67PT3aMEBvAP,As You Are,Beauty Behind The Madness,album,2015-08-28,63,0.377,0.329,0,-9.67,0.00654,0.279,0.131,173.663,0,0.0528,340493,4
+719,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3orEOtd8CPL8GFlpRpKuoE,Faith,After Hours,album,2020-03-20,66,0.375,0.605,0,-7.268,0.0448,0.147,0.612,175.946,0,0.128,283227,4
+720,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3DX4Y0egvc0slLcLl31h2p,Secrets,Starboy,album,2016-11-24,56,0.665,0.771,0,-5.779,9.6e-06,0.46,0.0155,109.948,1,0.764,265600,4
+721,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,4fiYSa6ln7h0scprgNEs0g,Thursday,Trilogy,album,2012-11-13,51,0.307,0.625,5,-8.983,0.000577,0.144,0.472,180.467,0,0.183,320027,3
+722,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1oGdVdYjeQvojGKDddxLQQ,True Colors,Starboy,album,2016-11-25,64,0.624,0.424,1,-8.237,0.0,0.173,0.286,76.671,1,0.584,206013,4
+723,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0dcf0L6F1LUA1nE2zWH4J2,The Party & The After Party,Trilogy,album,2012-11-13,59,0.438,0.634,5,-7.456,0.0,0.113,0.476,203.585,0,0.397,459387,4
+724,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,5SGEPm9ge10bD4j3ec9UHV,Missed You - Bonus Track,After Hours (Deluxe),album,2020-03-20,67,0.689,0.374,5,-10.038,0.000132,0.111,0.115,151.98,0,0.321,144540,4
+725,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0GROiXm03OrMC5ltXLhGIu,The Party & The After Party - Original,House Of Balloons (Original),album,2011-03-21,56,0.645,0.58,5,-9.527,0.0,0.0878,0.22,101.733,0,0.163,459660,4
+726,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,6i759FCuKx713ZnYjtpQGU,True Colors,Starboy,album,2016-11-24,58,0.616,0.424,1,-8.237,0.0,0.173,0.284,76.676,1,0.582,206027,4
+727,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3PsS445MHcmtroGTstfTbm,Coming Down,Trilogy,album,2012-11-13,59,0.665,0.612,2,-4.664,0.000194,0.183,0.487,120.989,0,0.25,295453,4
+728,0UF7XLthtbSF2Eur7559oV,Kavinsky,3Q6mwJseOFYBJ10d5CXp4o,Odd Look,Odd Look,single,2013-01-01,56,0.556,0.893,10,-3.766,0.0,0.123,0.239,104.995,0,0.26,253547,4
+729,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,4m0KaNb0ClCOvgThd2Gv2b,Next,Trilogy,album,2012-11-13,52,0.63,0.682,6,-7.317,0.0,0.115,0.715,112.077,1,0.391,360107,4
+730,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0C5WrEPjUYPxVkKyth1Lbz,XO / The Host,Trilogy,album,2012-11-13,56,0.438,0.593,2,-7.786,1.8e-05,0.388,0.375,127.994,1,0.0791,443987,4
+731,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,7F1LWA9sIlTorHUo4amGqk,Reminder - Remix,Reminder (Remix),single,2017-08-01,53,0.751,0.654,0,-5.665,0.0,0.104,0.153,160.035,0,0.527,221968,4
+732,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,6krYS8KtmNAYyb5uTZiYW4,Dawn FM,Dawn FM,album,2022-01-06,59,0.28,0.478,9,-8.755,5.85e-05,0.483,0.674,111.65,0,0.0807,96240,4
+733,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1dAHj1Z2jfYh6iN59WZ7Oj,Thursday,Trilogy,album,2012-11-13,36,0.307,0.625,5,-8.983,0.000577,0.144,0.472,180.467,0,0.183,320027,3
+734,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,5PTfZsGlsDDPH8i3PdQnXJ,Call Out My Name - A Cappella,"My Dear Melancholy,",album,2018-03-30,57,0.397,0.339,1,-6.688,0.0,0.306,0.887,135.089,1,0.459,224747,3
+735,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1NlK2NtpuUazpziLhnJwEV,Phantom Regret by Jim,Dawn FM,album,2022-01-06,56,0.394,0.519,9,-11.042,0.195,0.129,0.75,110.113,0,0.241,179580,4
+736,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,7xqANDRz8JFxkwfY65WISy,Loft Music,Trilogy,album,2012-11-13,56,0.287,0.498,6,-7.523,7.56e-05,0.322,0.581,171.725,0,0.0634,363640,4
+737,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1cQ3LIkZE68pMSnPhZWXLu,Earned It (Fifty Shades Of Grey),The Highlights,compilation,2021-02-05,73,0.658,0.282,2,-8.282,0.0,0.0741,0.433,119.757,0,0.39,277724,3
+738,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,7graOvVPwjmSFwJ3rHoPDt,Heartless,The Highlights,compilation,2021-02-05,51,0.538,0.751,10,-5.487,1.42e-06,0.145,0.0194,169.985,0,0.244,198267,4
+739,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,1j0TqbB4ajwaJqyZnEK8kO,Pretty,Kiss Land,album,2013-01-01,45,0.571,0.685,11,-6.829,3.43e-05,0.315,0.0355,126.044,0,0.328,375400,4
+740,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,5PKKJ4fo3ZuGcYKkI79fgf,Heartless,After Hours,album,2020-03-20,48,0.614,0.758,10,-5.434,1.18e-06,0.137,0.0281,84.969,0,0.25,198267,4
+741,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0ei3uNcwJOiUocuks1vWcb,Pretty,Kiss Land,album,2013-09-10,52,0.58,0.685,11,-6.829,3.42e-05,0.315,0.0355,125.968,0,0.331,375400,4
+742,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,31ue6kAOfrqVrdoPdfkq40,Adaptation,Kiss Land,album,2013-01-01,45,0.642,0.792,11,-6.799,0.000553,0.305,0.159,114.96,0,0.623,283933,4
+743,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,2gOEWbtEzHtpHb9fywSEiw,Professional,Kiss Land,album,2013-01-01,45,0.405,0.619,11,-8.92,0.000322,0.0788,0.163,120.087,0,0.234,368720,4
+744,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,38uNCW1do0LKfMIt4MDkPo,Missed You - Bonus Track,After Hours (Deluxe),album,2020-04-03,55,0.689,0.374,5,-10.038,0.000132,0.111,0.115,151.98,0,0.321,144540,4
+745,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0khQeEwEv6GndVypzpGOG5,"Here We Go… Again (feat. Tyler, the Creator)",Dawn FM (Alternate World),album,2022-01-07,47,0.469,0.623,1,-4.432,0.0,0.588,0.345,134.943,1,0.198,209778,4
+746,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,25C86uEjQ0fjj3bvsxIusO,Out of Time,Dawn FM (Alternate World),album,2022-01-07,53,0.617,0.762,0,-4.467,0.0,0.291,0.232,92.971,0,0.823,214191,4
+747,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,3kOtREqmcGaEA2KhqffFnw,How Do I Make You Love Me?,Dawn FM (Alternate World),album,2022-01-07,50,0.805,0.498,7,-7.927,2.37e-05,0.085,0.0203,121.006,0,0.636,214215,4
+748,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,02w1rM6spvEcbFxd63xCl2,Less Than Zero,Dawn FM (Alternate World),album,2022-01-07,52,0.535,0.791,0,-5.55,0.000155,0.0788,0.00096,142.981,1,0.5,211814,4
+749,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,0HhSydjvwLiBjnVQCG5SjK,Heartless,After Hours (Deluxe),album,2020-03-20,52,0.537,0.752,10,-5.488,1.36e-06,0.145,0.0187,169.97,0,0.234,198267,4
+750,7dGJo4pcD2V6oG8kP0tJRR,Eminem,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,The Eminem Show,album,2002-05-26,85,0.908,0.669,7,-2.827,0.0,0.237,0.00286,112.238,1,0.662,290320,4
+751,7dGJo4pcD2V6oG8kP0tJRR,Eminem,561jH07mF1jHuk7KlaeF0s,Mockingbird,Encore (Deluxe Version),album,2004-11-12,88,0.637,0.678,0,-3.798,0.0,0.156,0.209,84.039,1,0.254,250760,4
+752,7dGJo4pcD2V6oG8kP0tJRR,Eminem,4woTEX1wYOTGDqNXuavlRC,Superman,The Eminem Show,album,2002-05-26,84,0.802,0.755,4,-3.138,0.0,0.295,0.0215,130.027,0,0.58,350320,4
+753,7dGJo4pcD2V6oG8kP0tJRR,Eminem,5Z01UMMf7V1o0MzF86s6WJ,"Lose Yourself - From ""8 Mile"" Soundtrack",Curtain Call: The Hits (Deluxe Edition),compilation,2005-12-06,74,0.692,0.744,2,-4.565,0.000423,0.359,0.00868,171.374,1,0.0612,326467,4
+754,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3UmaczJpikHgJFyBTAJVoz,Stan,The Marshall Mathers LP,album,2000-05-23,81,0.78,0.768,6,-4.325,2.34e-06,0.518,0.0371,80.063,0,0.507,404107,4
+755,7dGJo4pcD2V6oG8kP0tJRR,Eminem,0x60P5taxdI5pcGbqbap6S,Business,The Eminem Show,album,2002-05-26,66,0.901,0.813,7,-4.509,1.09e-05,0.144,0.0325,96.442,1,0.502,251720,4
+756,7dGJo4pcD2V6oG8kP0tJRR,Eminem,1jo3TwNGCXfNdB5uba3ZVv,Killshot,Killshot,single,2018-09-19,67,0.893,0.651,0,-8.647,0.0,0.371,0.0995,105.835,0,0.6,253580,4
+757,7dGJo4pcD2V6oG8kP0tJRR,Eminem,1HR2CTi0ytRJIcik1QKdOa,Beautiful,Relapse: Refill,album,2009-05-15,68,0.727,0.696,5,-4.472,0.0,0.0726,0.251,132.077,0,0.467,392827,4
+758,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3CpoeW0cZSDzIRv5z34F87,Sing For The Moment,The Eminem Show,album,2002-05-26,78,0.668,0.824,5,-4.164,3.05e-06,0.0426,0.0017,163.961,0,0.185,339547,4
+759,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3eMsgWDRq5dKl5SBTYGv2J,Higher,Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,67,0.733,0.82,4,-4.758,0.0,0.674,0.0143,148.0,0,0.525,222037,4
+760,7dGJo4pcD2V6oG8kP0tJRR,Eminem,2gsNpSn7VvvJuSrIDfRoYy,Kamikaze,Kamikaze,album,2018-08-31,60,0.78,0.808,2,-5.175,0.0,0.329,0.112,79.982,1,0.642,216029,4
+761,7dGJo4pcD2V6oG8kP0tJRR,Eminem,7BMO7O7ImjV8HNTH74Tshv,Cleanin' Out My Closet,The Eminem Show,album,2002-05-26,71,0.908,0.758,9,-4.753,0.0,0.0783,0.0687,148.015,0,0.87,297840,4
+762,7dGJo4pcD2V6oG8kP0tJRR,Eminem,2SL6oP2YAEQbqsrkOzRGO4,Venom - Music From The Motion Picture,Kamikaze,album,2018-08-31,71,0.749,0.794,0,-5.063,0.0,0.543,0.0193,135.959,1,0.46,269554,4
+763,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6Xk7PnitV9jCRorWt2LiVZ,Berzerk,The Marshall Mathers LP2 (Deluxe),album,2013-11-05,63,0.739,0.872,11,-4.059,0.0,0.26,0.0217,95.084,0,0.684,238746,4
+764,7dGJo4pcD2V6oG8kP0tJRR,Eminem,0q2vG0UVuy6ajjcpkQHdZM,Unaccommodating (feat. Young M.A),Music To Be Murdered By,album,2020-01-17,61,0.852,0.752,1,-5.793,0.0,0.394,0.0169,89.95,1,0.389,216600,4
+765,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6CN3e26iQSj1N5lomh0mfO,Like Toy Soldiers,Encore (Deluxe Version),album,2004-11-12,66,0.52,0.768,8,-3.489,0.00034,0.104,0.0193,79.178,0,0.398,296880,4
+766,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6cS9PmLky2NhLOhpIsUlow,Gnat,Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,64,0.835,0.869,10,-4.582,0.0,0.462,0.248,140.945,0,0.82,224656,4
+767,7dGJo4pcD2V6oG8kP0tJRR,Eminem,2cm5JHPVzXyrWPtIZZi1Gh,Encore/Curtains Down,Encore (Deluxe Version),album,2004-11-12,49,0.605,0.747,5,-5.574,0.0,0.462,0.0838,173.951,0,0.565,348400,4
+768,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3stOygN0I7CIvkEB2LJGbv,Survival,The Marshall Mathers LP2 (Deluxe),album,2013-11-05,61,0.459,0.899,2,-2.978,0.0,0.126,0.0038,176.384,1,0.437,272417,4
+769,7dGJo4pcD2V6oG8kP0tJRR,Eminem,15qrWkkYCfmtu1uRpGf48L,White America,The Eminem Show,album,2002-05-26,64,0.558,0.615,1,-5.641,0.0,0.105,0.0103,76.673,1,0.16,324547,4
+770,7dGJo4pcD2V6oG8kP0tJRR,Eminem,1oHXeD1gQQCQUYHeHp2HMU,Discombobulated,Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,52,0.714,0.763,2,-3.275,0.0,0.129,0.049,84.873,1,0.527,252579,4
+771,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3kpYJjvM8Ja6btr5hEJLWc,Venom - Music From The Motion Picture,Venom (Music From The Motion Picture),single,2018-09-21,69,0.75,0.789,0,-5.058,0.0,0.501,0.0148,135.954,1,0.467,269573,4
+772,7dGJo4pcD2V6oG8kP0tJRR,Eminem,5SiZJoLXp3WOl3J4C8IK0d,Darkness,Music To Be Murdered By,album,2020-01-17,57,0.671,0.623,2,-7.161,7.55e-06,0.643,0.00998,75.055,1,0.195,337147,4
+773,7dGJo4pcD2V6oG8kP0tJRR,Eminem,5CpsIb7SMFHjmAG8RvIWfq,Leaving Heaven (feat. Skylar Grey),Music To Be Murdered By,album,2020-01-17,56,0.661,0.748,2,-4.809,0.0,0.254,0.175,171.983,0,0.509,265947,3
+774,7dGJo4pcD2V6oG8kP0tJRR,Eminem,0FLIBDpU2S5bb6TfMB4NuQ,Killer,Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,53,0.942,0.757,11,-6.089,0.0,0.13,0.0184,99.04,1,0.769,195009,4
+775,7dGJo4pcD2V6oG8kP0tJRR,Eminem,7tEoJKbYdIHBfn7tTIyjHW,Drug Ballad,The Marshall Mathers LP,album,2000-05-23,55,0.913,0.7,11,-3.411,0.0,0.125,0.0239,104.759,1,0.64,300267,4
+776,7dGJo4pcD2V6oG8kP0tJRR,Eminem,1a3xfVZyJnlKn4t65ccBbp,"Lose Yourself - From ""8 Mile"" Soundtrack",Curtain Call: The Hits,compilation,2005-12-06,58,0.703,0.746,2,-4.718,1.8e-05,0.357,0.00535,171.387,1,0.0655,321213,4
+777,7dGJo4pcD2V6oG8kP0tJRR,Eminem,222dTwr5XeEgAzEtsrQA0R,Headlights,The Marshall Mathers LP2 (Deluxe),album,2013-11-05,57,0.688,0.782,11,-3.683,0.0,0.803,0.152,146.324,1,0.453,343032,4
+778,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3bp0Zuc7LMxgjqsQ6q3E8y,Evil Deeds,Encore (Deluxe Version),album,2004-11-12,53,0.731,0.686,11,-5.002,0.0,0.415,0.0915,75.54,0,0.29,259573,4
+779,7dGJo4pcD2V6oG8kP0tJRR,Eminem,4e5lEqydMatcEio6ef9Dpf,Phenomenal,Southpaw (Music From And Inspired By The Motion Picture),compilation,2015-07-24,54,0.64,0.841,1,-2.426,0.0,0.0457,0.153,121.075,0,0.0471,282547,4
+780,7dGJo4pcD2V6oG8kP0tJRR,Eminem,0evt4UZbdhnHtcAnxkm6A1,Normal,Kamikaze,album,2018-08-31,53,0.907,0.64,6,-6.542,0.0,0.0785,0.261,120.995,1,0.803,222477,4
+781,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6Db8IlZ7YY1pfIjJllejyH,Hailie's Song,The Eminem Show,album,2002-05-26,62,0.787,0.731,7,-3.295,8.7e-05,0.0839,0.0168,80.98,1,0.511,320640,4
+782,7dGJo4pcD2V6oG8kP0tJRR,Eminem,42YNobZ4HN3tRVEA47wLT6,When I'm Gone,Curtain Call: The Hits (Deluxe Edition),compilation,2005-12-06,57,0.619,0.746,10,-5.479,0.0,0.295,0.0537,149.944,0,0.757,281133,4
+783,7dGJo4pcD2V6oG8kP0tJRR,Eminem,27mgDrExPa3obPAYXd3yQg,Square Dance,The Eminem Show,album,2002-05-26,58,0.763,0.675,5,-1.797,0.0,0.0876,0.0307,82.0,0,0.724,323720,4
+784,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6GkTKjv1XbFVdI2D8vvDPu,"Lose Yourself - From ""8 Mile"" Soundtrack",8 Mile (Music From And Inspired By The Motion Picture),compilation,2002-10-29,54,0.684,0.735,2,-4.596,0.000659,0.288,0.00925,171.383,1,0.06,320293,4
+785,7dGJo4pcD2V6oG8kP0tJRR,Eminem,18ohWhzbMCynq5QJ68ifkW,Criminal,The Marshall Mathers LP,album,2000-05-23,58,0.81,0.724,4,-6.153,0.0,0.306,0.127,101.941,0,0.573,319600,4
+786,7dGJo4pcD2V6oG8kP0tJRR,Eminem,44ut2KJnt0HQMnUaMlDv9W,Untitled,Recovery,album,2010-06-18,50,0.857,0.841,11,-2.839,0.0,0.161,0.34,112.023,1,0.74,194440,3
+787,7dGJo4pcD2V6oG8kP0tJRR,Eminem,2lPE6W6ONJKmBE6hLjpIYo,Zeus (feat. White Gold),Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,58,0.783,0.586,11,-8.068,0.0,0.389,0.159,177.024,0,0.312,230399,4
+788,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3fYptFSlH8Xs7Uoybytyrm,Arose,Revival,album,2017-12-15,48,0.532,0.906,4,-6.118,0.0,0.14,0.168,140.684,0,0.547,274627,1
+789,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3QVHSV8YKYq4L8tI5rnFgj,Stepdad,Music To Be Murdered By,album,2020-01-17,52,0.779,0.805,1,-3.121,0.0,0.321,0.018,145.68,1,0.557,213413,4
+790,7dGJo4pcD2V6oG8kP0tJRR,Eminem,07EHYORZMFGlBdI5zIB7lp,Mosh,Encore (Deluxe Version),album,2004-11-12,50,0.625,0.719,10,-3.326,0.0,0.7,0.672,72.532,0,0.524,317813,4
+791,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3Q0kSmKpkffn4aWkYkWwet,Without Me,The Eminem Show (Edited Version),album,2002-05-26,46,0.924,0.647,7,-3.349,0.0,0.193,0.00317,112.239,1,0.678,290120,4
+792,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6x1stxDsnh4ZlEft29uhlR,Insane,Relapse: Refill,album,2009-05-15,52,0.876,0.878,9,-0.929,0.0,0.321,0.251,97.99,0,0.677,181360,4
+793,7dGJo4pcD2V6oG8kP0tJRR,Eminem,7ccTcabbJlCJiIqtrSSwBk,Premonition - Intro,Music To Be Murdered By,album,2020-01-17,50,0.847,0.637,1,-5.193,0.000648,0.382,0.0258,165.979,1,0.511,173893,4
+794,7dGJo4pcD2V6oG8kP0tJRR,Eminem,3hOZtCS0ltjmBnoDkrYogk,Mockingbird,Encore (Deluxe Version),album,2004-11-12,54,0.624,0.673,2,-3.995,0.0,0.118,0.214,83.592,1,0.277,250760,4
+795,7dGJo4pcD2V6oG8kP0tJRR,Eminem,7io19rjxOFu3pGuZgBI6Pk,Drips,The Eminem Show,album,2002-05-26,54,0.813,0.687,8,-4.85,0.0,0.0878,0.0346,83.944,1,0.666,285640,4
+796,7dGJo4pcD2V6oG8kP0tJRR,Eminem,5lyWuTW3zjzc9o9oeiAgrM,Phenomenal,Curtain Call 2,album,2022-08-05,50,0.638,0.842,1,-2.405,0.0,0.0658,0.156,121.135,0,0.0454,281156,4
+797,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6U6XkwUEXvKT5hHSSLKxRn,Unaccommodating (feat. Young M.A),Music To Be Murdered By - Side B (Deluxe Edition),album,2020-12-18,44,0.852,0.751,1,-5.793,0.0,0.394,0.0168,89.988,1,0.387,216600,4
+798,7dGJo4pcD2V6oG8kP0tJRR,Eminem,4KmyK4XrM3tbfhLrjobeap,Survival,The Marshall Mathers LP2,album,2013-11-05,43,0.459,0.899,2,-2.978,0.0,0.126,0.0038,176.384,1,0.437,272417,4
+799,7dGJo4pcD2V6oG8kP0tJRR,Eminem,6NGRgJjvgUF9V4VXbWgS26,Curtains Up,Encore (Deluxe Version),album,2004-11-12,44,0.306,0.724,9,-18.799,0.000982,0.935,0.48,114.923,0,0.0269,46867,3
+800,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,64xslN8DB3jG1tK2l3H1mA,Natural Mystic,Exodus,album,1977-06-03,64,0.876,0.282,7,-12.618,4.76e-05,0.0741,0.0503,130.958,1,0.801,207733,4
+801,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,75FYqcxt1YEAtqDLrOeIJn,Three Little Birds,Exodus,album,1977-06-03,74,0.826,0.49,9,-10.477,4.41e-06,0.0415,0.00916,74.126,1,0.627,180267,4
+802,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5LyfiK6iXEIBNEtcaGKohl,Jamming,Exodus,album,1977-06-03,71,0.935,0.479,11,-10.981,5.25e-05,0.118,0.107,123.644,0,0.773,211000,4
+803,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,7BfW1eoDh27W69nxsmRicb,Buffalo Soldier,Confrontation,album,1983,69,0.929,0.463,9,-8.651,5.26e-06,0.0634,0.142,124.084,1,0.757,255840,4
+804,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,26PwuMotZqcczKLHi4Htz3,Redemption Song,Uprising,album,1980,67,0.671,0.256,7,-10.743,0.0,0.0737,0.608,115.871,1,0.694,233560,4
+805,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,6JRLFiX9NJSoRRKxowlBYr,Is This Love,Kaya,album,1978,73,0.776,0.559,6,-8.375,0.0,0.0671,0.11,122.242,0,0.758,232200,4
+806,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,423hwXFgoN8RYmqLoLuVvY,"No Woman, No Cry - Live At The Lyceum, London/1975",Live!,album,1975-01-01,63,0.655,0.675,1,-9.352,0.0236,0.727,0.272,77.589,1,0.587,427800,4
+807,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2sevvnMrqH607r5lwk3kFT,Is This Love,Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,59,0.775,0.559,6,-8.377,0.0,0.0945,0.108,122.229,0,0.804,230733,4
+808,6Xa4nbrSTfbioA4lLShbjh,Grizfolk,43a41kwTMZClWCLTONiaqm,Bob Marley,Waking Up The Giants,album,2015-12-04,45,0.562,0.695,6,-4.662,0.119,0.122,0.0151,118.174,1,0.446,216067,4
+809,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5ApfJDLibIoWL0mRZ5uOKu,Zimbabwe,Survival,album,1979,56,0.932,0.611,9,-8.278,0.00156,0.0467,0.0901,125.238,1,0.77,231267,4
+810,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,4aUCPal9bxTnQkEfdIY6sG,Jamming,Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,58,0.941,0.462,11,-11.029,9.82e-05,0.114,0.129,123.674,0,0.758,211427,4
+811,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5JqCmd41S3PZ2AS6GuHqcR,Pimper's Paradise,Uprising,album,1980,62,0.939,0.65,9,-8.282,0.0,0.0429,0.00557,134.727,0,0.968,207773,4
+812,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,3u9ofBVNH3p23A69GJbRql,Is This Love,Bob Marley with the Chineke! Orchestra,album,2022-07-22,39,0.658,0.809,6,-7.828,0.0,0.0448,0.0218,122.064,0,0.777,253307,4
+813,6uSKeCyQEhvPC2NODgiqFE,The Wailers,4hLATN2VtjiJ6jLm6V47x1,"Get Up, Stand Up",Marley (The Original Soundtrack),album,2012-04-17,53,0.772,0.501,10,-9.56,0.0,0.0725,0.163,77.882,1,0.771,197840,4
+814,4PL7BSbGQ3Xo9xJW3KK4ZI,Seven Six Supah,0en3N6PoI4AbBA0toydAlR,BOB MARLEY,BOB MARLEY,single,2023-02-06,20,0.928,0.434,11,-4.472,0.000157,0.067,0.132,131.031,1,0.96,210756,4
+815,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,1YP719l4JjsOmyU4PGv3c0,Natural Mystic,Natural Mystic,compilation,2002,50,0.876,0.314,7,-11.498,2.39e-05,0.108,0.0486,131.252,1,0.823,206640,4
+816,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2HJZDha9V8OMf4n2HFUXf5,Chant Down Babylon,Confrontation,album,1983,53,0.718,0.459,5,-9.134,0.0,0.0496,0.25,142.243,1,0.862,156760,4
+817,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,3UuqC9dKWG0bLu6TrPIe4F,Exodus,Exodus,album,1977-06-03,54,0.868,0.744,7,-8.565,0.00517,0.172,0.0301,132.836,1,0.961,460227,4
+818,7wqwO7cnVqGdHenEADW9k2,Natti Haile,0zGOvZFRuKSe3SasV1TFue,Bob Marly,"Nahom Favorite, Vol. 14 (Best Collections)",compilation,2006-02-14,20,0.796,0.517,10,-11.475,0.0867,0.129,0.00304,148.0,0,0.912,295600,4
+819,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2rahWhhubhQMhG6coo7Vu9,Kaya,Kaya,album,1978,56,0.827,0.601,11,-8.828,2.67e-05,0.0565,0.0346,97.548,1,0.83,195733,4
+820,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2qmHhaOmlcKDeGfipGhF1j,Africa Unite,Survival,album,1979,59,0.904,0.431,11,-10.14,0.00179,0.0928,0.191,127.57,0,0.751,175627,4
+821,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2wFw6mZzzABL9gktquq7I5,Rastaman Live Up,Confrontation,album,1983,52,0.904,0.33,0,-11.117,0.0254,0.0471,0.181,130.688,1,0.7,327133,4
+822,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,6ZXmTH4DpP07a2TvHx1EF9,Could You Be Loved,Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,56,0.913,0.724,0,-8.527,0.000201,0.0824,0.372,103.33,1,0.748,237133,4
+823,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2PfgNDJ9LUPxmF8fIvQUm0,Redemption Song,Bob Marley with the Chineke! Orchestra,album,2022-07-22,36,0.415,0.285,7,-10.907,0.0,0.131,0.827,118.522,1,0.459,228720,4
+824,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2eHOlLD5glnSYlfWXYGTbd,Positive Vibration,Rastaman Vibration,album,1976-04-30,53,0.918,0.37,11,-11.807,0.00166,0.0802,0.0184,131.884,0,0.49,213920,4
+825,3sKDmnjtBa1yO8Th3s8mxN,VINIVILLA,5OpVTuGWm53jqHLcW1iVgQ,Bob Marley,Bob Marley,single,2020-01-09,28,0.775,0.282,0,-9.114,0.85,0.104,0.0295,100.0,1,0.382,122612,4
+826,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5AEOXmZkhtcdfEFtvVsz8z,"Is This Love - Live At The Pavillon De Paris, 1977",Babylon By Bus,album,1978-01-01,35,0.574,0.765,6,-7.153,0.029,0.965,0.00408,137.241,0,0.565,447573,4
+827,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,4B30HVeyXBqkDv78ztNgXe,Natural Mystic,Exodus (Deluxe Edition),album,2022-06-24,36,0.876,0.291,7,-13.428,4.57e-05,0.108,0.0417,131.387,1,0.834,207324,4
+828,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,4mPd1gJhgcYFRSJyoYAxE8,Is This Love,Kaya - Deluxe Edition,album,1978-03-23,53,0.766,0.525,6,-10.356,0.0,0.055,0.00839,122.448,0,0.864,231547,4
+829,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,1CAEHafiiJKjp6t9hfYX7f,Forever Loving Jah,Uprising,album,1980,56,0.774,0.531,11,-7.176,0.0,0.0409,0.0595,142.001,0,0.966,242333,4
+830,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,1XjUvJv6w3aTu8o6XszTHS,Stir It Up - Jamaican Version,Catch A Fire,album,1973-04-13,54,0.688,0.487,9,-8.256,0.00304,0.0488,0.157,146.035,1,0.926,217800,4
+831,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2wBmpbPk5rRRijCf9talEP,Exodus,Bob Marley with the Chineke! Orchestra,album,2022-07-22,38,0.733,0.864,7,-6.687,3.97e-05,0.33,0.00533,133.17,1,0.917,466053,4
+832,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2UhjeQUJoQsRE0e2l4yJjD,Roots,Exodus (Deluxe Edition),album,2022-06-24,43,0.88,0.639,6,-7.503,0.000759,0.0735,0.0755,130.531,0,0.88,225652,4
+833,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,7rCOQjHqD2ArkKvoemDG54,Survival,Survival,album,1979,42,0.906,0.587,9,-8.176,1.52e-06,0.0433,0.163,142.103,0,0.751,234240,4
+834,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5rPnv4gceOGKCqbN06F2aJ,"No Woman, No Cry - Live At The Lyceum, London/1975",Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,56,0.641,0.657,1,-9.354,0.0261,0.713,0.276,78.132,1,0.602,428360,4
+835,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,6XRVx8N99dG7ORZFRVNCB1,Jamming - US Version,Legend (Deluxe Edition),compilation,1984-05-01,48,0.94,0.536,11,-8.905,2.1e-05,0.0438,0.015,123.274,0,0.883,200893,4
+836,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5722IiSQ4ZqzpwhwFeCz2u,Positive Vibration,Rastaman Vibration,album,1976,50,0.919,0.35,11,-12.028,0.00379,0.0821,0.0244,131.865,0,0.48,213893,4
+837,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,2fGZTxueiQkrfQ9uDwChBq,"Get Up, Stand Up",Bob Marley Legacy: 75 Years A Legend,compilation,2020-11-20,30,0.826,0.546,6,-9.518,5.13e-05,0.068,0.321,148.244,0,0.866,221933,4
+838,6uSKeCyQEhvPC2NODgiqFE,The Wailers,0q5giEtY4wsFTwjWqswLwx,"Get Up, Stand Up",Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,54,0.797,0.574,10,-7.268,0.0,0.0602,0.229,78.183,1,0.814,197573,4
+839,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,3JJJLNLXVyg1zImbcNNzWS,Three Little Birds,Exodus (Deluxe Edition),album,2022-06-24,31,0.804,0.47,9,-11.434,2.59e-05,0.0292,0.0165,148.788,1,0.659,179707,4
+840,4sbXXFzEWJY2zsZjelerjX,Dadju,2qXmVc811574AdIdDgayRP,Bob Marley,Gentleman 2.0,album,2017-11-24,56,0.651,0.616,10,-7.467,0.0,0.109,0.104,89.977,0,0.568,214760,4
+841,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,3TqHUDbN0L8egAo2fMPa4E,"Get Up, Stand Up",Bob Marley with the Chineke! Orchestra,album,2022-07-22,36,0.614,0.778,11,-7.123,8.48e-06,0.101,0.0775,77.181,0,0.8,238627,4
+842,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5Mjm0PPpD68HsEDJlakJQd,One Love / People Get Ready,Bob Marley with the Chineke! Orchestra,album,2022-07-22,37,0.521,0.855,10,-5.992,0.0,0.122,0.233,75.809,1,0.629,215227,4
+843,6BH2lormtpjy3X9DyrGHVj,Bob Marley,6jmnTleYL7MvhX08QUJzPD,Natural Mystic,Essential Marley,album,2008-04-07,29,0.586,0.688,9,-6.889,2.39e-06,0.0721,0.435,155.468,1,0.739,345920,4
+844,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,42qweWuaXhr0JDSXduI1xD,Crisis,Kaya,album,1978,42,0.811,0.55,6,-8.584,2.28e-05,0.06,0.0972,123.232,0,0.58,234760,4
+845,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,7MKcM6TfaGKQVFfhstCbOw,Redemption Song,Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,51,0.666,0.259,0,-10.721,0.0,0.079,0.585,116.082,1,0.698,227840,4
+846,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,6kAye2WmX9RVnheY3QmF54,Ambush In The Night,Survival,album,1979,44,0.92,0.461,11,-9.101,0.0206,0.0608,0.325,119.478,0,0.806,192680,4
+847,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,0lJiLEr9HMXNssqEKnkvRc,"Natural Mystic - Live At The Rainbow Theatre, London / June 1, 1977","Live At The Rainbow, 1st June 1977",album,2022-06-03,28,0.581,0.547,7,-8.75,2.91e-05,0.99,0.121,127.762,1,0.522,309670,4
+848,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5MRQvbpvXejJJy0OWciP8G,Exodus,Legend - The Best Of Bob Marley And The Wailers,compilation,2002-01-01,47,0.865,0.746,7,-8.58,0.00396,0.141,0.0329,132.846,1,0.961,459667,4
+849,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,5nmzbxWk4iOQXkuTIRboPS,Guiltiness,Exodus,album,1977-06-03,42,0.9,0.387,9,-10.059,0.000821,0.0483,0.0298,121.164,0,0.77,199973,4
